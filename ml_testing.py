@@ -6,4 +6,9 @@ from tensorflow.python.keras.preprocessing.text import text_to_word_sequence
 
 df = pd.read_csv(r'ITMO_raw_data.csv')
 
-print(df['Contract description:'].iloc[0])
+lenOfdf = len(df.index)
+
+for i in range(lenOfdf):
+    text = df['Contract description:'].iloc[i]
+    pre = text_to_word_sequence(text,lower=True,split=' ')
+    print(pre)
