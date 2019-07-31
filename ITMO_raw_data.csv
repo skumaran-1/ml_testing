@@ -1,120 +1,4 @@
-Contract name: ,Contract description:
-to001 chps,"1.02 Objectives: The overall objective of this task is to obtain contractor support to supplement the specialized CHPS support “help
-desk” functions performed by the Hydrology Support Group (HSG) in the Office of Central Processing (OCP) Field Support and
-Infrastructure Team (FSIT). The HSG provides Tier 1 and Tier 2 support for the CHPS operations at RFCs. The contract staff works
-alongside the federal HSG members, and the specific task requirements are provided by the HSG staff. Historically, the full CHPS
-support has been handled by a team consisting of 2-3 federal employees supplemented by (2) contract employees. Significant
-coordination between HSG staff and the RFCs and other support providers within the NWS enterprise is required, using verbal and
-written forms of communication, in order to effectively provide the customer support.
-The contractor provides technical support to ensure the operational performance and integrity of CHPS. This support includes the
-following objectives:
-1) Provide specialized “help-desk” technical support whereby operational problems, issues, and questions are presented to the
-contractor for resolution. Support will be provided in the form of problem tracking, problem analysis, and ultimately
-problem resolution for CHPS issues (a.k.a. “tickets” or “cases”) reported by the RFCs. This support can be provided by
-action taken on an RFC computer system, direct communication to RFC staff, or advice and instructions which address the
-reported problem. Communication may include direct phone conversations, e-mail, or software documentation. The “helpdesk”
-problem resolution typically involves relatively specific issues reported with CHPS which often require prompt
-attention.
-2) Provide technical support for NWS projects associated with CHPS. This can include projects related to the CHPS software
-system environment, the CHPS hardware configuration, or the hydrometeorologic functions embodied within CHPS. The
-project support typically involves more general needs of the CHPS operations, and generally do not require immediate
-attention. These project outcomes result in more stable, more efficient operation of CHPS at RFCs.
-3) Provide technical guidance (written and verbal), training, and coordination of operational functions in a pro-active manner,
-including monitoring and preventative maintenance of systems executing the CHPS software suite. Collectively, these
-activities result in a support enterprise that promotes a high level of competence for operational readiness, competence, and
-awareness among RFC users of CHPS.
-These objectives comprise part of and are consistent with the formal operating plan goal of the NWS to “Provide 24 x 7 support to
-address operational issues related to AWIPS and CHPS hydrologic software at 13 RFCs and 122 WFOs”. The end result of the
-completed objectives is the stable and functional operation of the NWS RFC river forecasting services provided by CHPS. This
-operation allows formal NWS products to be issued and NWS services to be provided to the other NWS offices, the public, and the nation’s water resource enterprise. Note that this task does not involve direct support for NWS WFOs (Weather Forecast Office),
-which execute AWIPS, but do execute CHPS."
-to002 isso,"1.3 Objectives:  The scope of information systems security reporting effort is to serve as the Information Systems Security Officer for the Southeast Fisheries Science Center (SEFSC) Information Resource Management department. To serve as the security subject matter expert onsite at SEFSC for senior management, technical staff, and end user needs.  Requirements:  The contractor shall:    Keep abreast of Federal, Department of Commerce, NOAA, and NMFS computer security regulations, priorities, and processes and recommends process improvements.  Leverage NMFS Common and Hybrid Controls, develops and implements the SEFSC comprehensive computer security programs and maintains detailed documentation of system security procedures.   Periodically conducts and documents security reviews, performs risk analysis and vulnerability assessments  In coordination with the NMFS IT Security Program and the Independent Assessor, recommends corrective action as necessary to correct identified security weaknesses.   Document progress related security weakness mitigation with Plan of Actions and Milestones (POA&Ms) within the tool(s) as directed by NOAA and NMFS. Ensures that documentation is timely and complete and completed on schedule.  Serves as system point of contact and coordinates with NMFS and NOAA on all SEFSC IT Security Incidents.  Support the NOAA required annual security awareness training for all personnel with IT system access 
- At the direction of the NMFS IT Security Program, coordinates the quarterly review of core documents including: o Contingency Plan o Privacy Threshold Assessment (PTA) o Privacy Impact Analysis (PIA)  o Risk Assessment (RA)  Participate in the quarterly Security Assessment Report Briefing with the Independent Assessor. "
-to003 imet,"•	Cyclical replacement of IMET IT systems/components (i.e. moving existing systems/services onto new hardware and/or to new releases of Operating Systems.)
-•	Patching Systems applications and/or Operating Systems
-•	Evaluation of requirements (Data flow, OS, etc.) for new and/or developed NWS LMET applications
-•	Assistance in the development and/or implementation of baseline security requirements for Fire Weather IMET systems.
-•	Provide helpdesk support for IMET system users
-•	Documentation and property management assistance of IMET systems
-•	Advising NOAA8885 System Owner (SO) & Fire Weather Program managers on IT matters and trends
-•	Representing SO & Fire Weather Program managers on internal and external teams & committees as necessary.
-•	Provide general project oversight, coordination and management for each work task."
-to004 pmel,"•        Provide complete Tier 2 and 3 desktop support to all users.
-•        Follow government guidelines to provide systems security and the development of procedures for the use and maintenance of Desktop and Laptop computers, Servers, peripherals, and software.
-•        Provide support for the installation, configuration, and maintenance of microcomputer and LAN equipment.
-•        Assist with the installation, maintenance, and answer user questions for all PMEL approved software packages.
-•        Install and configure Desktop and Laptop computers. This includes the installation of adapters and devices, peripherals,
-scanners, sound, video, printers, and other peripherals. Manage and optimize Desktop systems so users can realize the full potential of the desktop device. PMEL operating systems include, Windows 7, Windows 10, Windows Server 2008,
-Windows Server 2012, Windows Server 2016, Red Hat Linux 6, Red Hat Linux 7, Mac OSX IO.I I, Mac OSX 10.12.•        Perfonn scheduled preventative maintenance on workstations, printers and other peripherals as required to ensure maximum operability and uptime.
-•        Diagnose and correct problems with Desktop and Laptop computers. Perform hardware diagnostics and isolate hardware problems on Desktop and Laptop computers and peripherals. Perfonn the necessary replacement or repair to correct the hardware problems.
-•        Maintain a Standard Operational Procedures Manual containing the installation and configuration procedures, passwords, backup procedures, and contact infonnation (needed when problems occur) for Desktop and Laptop computers, Server hardware and software.
-•        Provide software assistance to resolve problems using the software. Interface with software vendors to solve software problems or provide an acceptable work around.
-•        Maintain LDAP accounts, including email lists in coordination with the Network Manager and government directives.
-•        Assist in the support of a backup system (e.g., tape backup hardware). Ensure that all Server systems are backed up on a daily/weekly basis (according to the latest policy for backing up systems), add/delete systems to be backed up, upgrade the backup software clients, and assist Users with problems and recovery of files from backup when necessary. Provide users with options for backing up Desktop and Laptop computers. Current backup software includes Symantec Backup Exec.
-•        Assist in the evaluation and procurement of new hardware and software by reviewing requirements and specifications to insure appropriate hardware acquisition consistent with PMEL and NOAA IT Architecture, best practices and scientific requirements. Provide technical interface with the vendors during the procurement process.
-•        Process old system for PMEL Excess. Remove Drives and optical media and remove system from DNS and the PMEL Node Database.
-•        Provide system management for Desktop and Laptop workstations. Help with backups/restore requests, patches, upgrades, and security settings on all current systems.
-•        Assist in fielding user questions regarding problems with Desktop workstations, and Laptops.
-•        PMEL averages 150 Windows users (PC & Mac) and 20 Linux users. Most machines are located at the Western Region Campus WRC in Seattle, WA. A few other machines are located at the Newport, Oregon site. Others are used for teleworking.
-•        Maintain an inventory for software program masters, operational firmware, documentation, and developmental system software for assigned hardware and software. A listing of each program by version, revision level, and other information may need to be developed.•        Assist in the operation of the network, including LDAP and Active Directory authentication services. Perform network administration, which includes the addition and deletion of users, control access rights, manage services, and monitor the network.
-•        Responsible for the configuration and administration of the network management software to include software metering, PC hardware and software inventories, and remote control of networked PC's.
-•        Support secure remote connectivity (YPNs).
-•        PMEL campus-wide network cabling installation and maintenance.•        Support the IP-based VTC system.
-•        Provide Audio/Video Support in the Multi-Media Center (MMC) and PMEL Conference Rooms.
-•        Maintain VTC/MMC online Calendar.•	Provide frontline network printer support.
-•	Maintain printer supplies and paper.
-•	Monitor central print queue.•	System IT development.
-•	Science IT research and development.
-•	Application development."
-to005 oar aoml,"1.3 Objectives
-Since all three FMCs (OAR/AOML, OAR/STAR, NESDIS/STAR) have common control and compliance requirements, the goal of this project will be to modify the development and production infrastructure currently in operation at OAR/AOML to accept and process internal management control actions from multiple FMCs (AOML/PMEL/NESDIS).
-The development infrastructure at OAR/AOML will need to implement additional infrastructure in order to scale up development efforts to meet the overall development requirements. The code base will also need to be reviewed to identify new requirements as well as any necessary code refactoring. One of the modules in the system will need to function on mobile devices such as Apple IPAD with the ability to work offline.
-Infrastructure changes
-x Implement Automated Testing x Implement Continuous Integration Server
-Code Review & User Requirements
-x Work with OAR/AOML staff to create and document system requirements for enhancement approved by FMC management x Work with OAR/AOML staff to implement enhancements based on the priorities approved by FMC management x Review existing and new code for any errors and inefficiencies to include possible system vulnerabilities Review secure code review procedures and provide possible enhancements x Implement mobile based module that has the ability to work offline and data sync once network connection is re-established
-1.03 Scope/High-level Description: The contractor personnel will work with OAR/AOML personnel on-site in Miami. OAR/AOML uses Oracle databases with a customized based JavaEE front end based on the Vaadin framework and Vaadin CDI. It also uses a JasperReports reporting engine. The delivered solutions (computer systems, websites, computer code, etc.) will be a browser-based solution that will not require any type of client installed program (such as java plugin, etc) that will provide all users in their respective office the ability to process their own actions.
-"
-to006 glerl,"•          Perform System Administration for high performance computing (HPC) platforms.
-
-•          Operating system maintenance and support (Centos, Linux)
-
-•          Administration of a multiprocessing environment, including implementing IT security 
-standards
-
-•          Installation and support of system and application software, including diagnosis and 
-tuning of system performance
-
-•          Hardware maintenance through contacting Bright Cluster Management contract and warranty 
-services.
-
-•          User support for research scientists in the HPC computing environment, as well as Apple 
-Mac-OS computing environment.
-
-•          System administration for Apple Mac-OS server and several dozen Apple Mac-OS end-user 
-desktop systems, including operating system maintenance and support, including diagnosis and tuning 
-of system performance, while also implementing federal IT security standards on all systems.
-
-•          Installation and support of application software for Apple Mac-OS operating systems.
-
-•          Hardware maintenance of Apple Mac-OS systems through AppleCare contracts and warranty 
-services.
-
-•          Technical support for Local Area Network (LAN) administration.
-
-•          Deployment of communication technologies (eg. VPN, IPv6) required for compliance with 
-NOAA TICAP (Trusted Internet Connection Access Point) and other upcoming IT networking security 
-policies.
-
-•          Development and implementation of a wireless network access solution to comply with 
-federal security standards.
-
-•          Monitoring and troubleshooting network performance
-
-"
-to007 nws opg,"1.2. Objectives: This position is located at the NWSTC in Kansas City, Missouri.  It is established to perform work necessary to plan, design, develop, acquire, document, test, implement, integrate, maintain, or modify information technology systems for solving problems and accomplishing work processes specific to NWSTC and the OPG. 
- 
-1.3. Scope/High-level Description: Scope of work includes the following major duties and responsibilities: 1.3.1. Serves as technical focal point for AWIPS-2 and administrative site hardware design and configuration as it applies to OPG and NWSTC operations, including component connectivity, configuration, performance, capacity, and evolutionary path 1.3.2. Serves as technical authority on system hardware implementation, including applicable AWIPS and/or other enterprise systems 1.3.3. Leads task forces / teams in advanced systems software/hardware project efforts 1.3.4. Analyzes and evaluates requirements, cost drivers, expansion capabilities, and technology trends, for potential testing and evaluation relevant to future NWS capabilities 1.3.5. Applies available technologies and basic management principles to adapt computer methods to a variety of subject matter situations 1.3.6. Oversees or performs equipment installation, testing and acceptance processes 1.3.7. Responds to, and resolves, problems with software, hardware and systems management 1.3.8. Integrates hardware, software, and/or computer related services to provide an integrated information system, including virtualization processes and cloud computing solutions 1.3.9. Evaluates vendor or employee developed software to assure it provides desired results and operates properly and efficiently on assigned systems in compliance with industry standards 1.3.10. Provides architecture oversight and technical leadership in the areas of virtualization and cloud computing 1.3.11. Supports cloud computing strategy and roadmap development from a mission and technical perspective including identification of potential obstacles and solutions regarding the use of cloud computing in a distributed IT network environment "
+﻿Contract name,Contract description,Polarity
 to008 pifsc,"End user desktop support including software and operating system installation for Non-Windows
 (Linux and Macintosh) systems.
 Test software and Operating System upgrades prior to deployment.
@@ -126,7 +10,145 @@ Setup networked and local printers including driver installation and troubleshoo
 Prepare and maintain documentation for ITS standard procedures and communication as stand-alone documents, intranet postings, wiki entries, and email.
 Investigate software and hardware problems and coordinate the problem resolution with other IT staff as needed
 General administration support to assist with hardware and software procurement actions.
-Assistance carrying IT-related and other equipment, up to 50 pounds."
+Assistance carrying IT-related and other equipment, up to 50 pounds.",1
+AEC CUSTODIAL SERVICES FOR PORTSMOUTH NAVAL SHIPYARD KITTERY MAINE,"Custodial services include, but are not limited to: 
+
+All labor, management, supervision, tools, materials, supplies, equipment, and transportation required to perform work that includes:
+Emptying waste containers
+Low area cleaning, special cleaning
+High area cleaning
+Interior window cleaning
+Exterior window cleaning
+Window blinds cleaning
+Sweeping/dust mopping
+Vacuuming carpets and rugs
+Cleaning walk-off mats
+Spray cleaning and buffing
+Damp mopping 
+Waxing and buffing
+Stripping and re-waxing
+Rug and carpet deep cleaning
+Restroom services
+Perimeter services 
+Unscheduled cleaning
+ Waste removal from buildings and service locations to collection points",0
+to003 imet,"Cyclical replacement of IMET IT systems/components (i.e. moving existing systems/services onto new hardware and/or to new releases of Operating Systems.)
+Patching Systems applications and/or Operating Systems
+Evaluation of requirements (Data flow, OS, etc.) for new and/or developed NWS LMET applications
+Assistance in the development and/or implementation of baseline security requirements for Fire Weather IMET systems.
+Provide helpdesk support for IMET system users
+Documentation and property management assistance of IMET systems
+	Advising NOAA8885 System Owner (SO) & Fire Weather Program managers on IT matters and trends
+Representing SO & Fire Weather Program managers on internal and external teams & committees as necessary.
+Provide general project oversight, coordination and management for each work task.",1
+"USACE AEC FY20 SATOC IDIQ NELLIS AFB IN CLARK COUNTY NEVADA
+","The contractor shall conduct construction activities such as renovation, repairs, earthwork, parking lots, communications, security fencing and alarm systems, security team escorts, electrical replacement, roofing and siding replacement, hangar door repair, and generator replacement , building repairs, roof repairs, civil, communication, mechanical, plumbing, structural, electrical, heating, ventilation, replace doors, air conditioning (HVAC), anti-terrorism and force protection.",0
+DENVER FEDERAL CENTER CUSTODIAL SERVICES,"The General Services Administration, Public Buildings Service, Region 8, Denver Federal Center (GSA) has a requirement for custodial, composting, and pest control services at the Denver Federal Center for buildings 1, 1A, 15, 16, 20, 21, 25, 94, 95, 40, 41, 44, 45, 46, 50, 52, 53, 54, 55, 64, 64A, 710, 710A and Guard Shacks 1-7. 
+
+BACKGROUND
+The Denver Federal Center (DFC) is located adjacent to the foothills of the Colorado Rockies and is only minutes from downtown Denver. The Center houses 28 different agencies in 44 federal buildings, totaling four million square feet of rentable space, occupy the 623-acre campus. 
+
+REQUIREMENTS
+The Contractor must provide all:
+
+management
+supervision 
+labor
+materials
+supplies
+repair parts
+tools and equipment 
+must plan, schedule, coordinate and assure effective, timely performance of all services",0
+to006 glerl,".          Perform System Administration for high performance computing (HPC) platforms.
+
+.          Operating system maintenance and support (Centos, Linux)
+
+       Administration of a multiprocessing environment, including implementing IT security 
+standards
+
+     Installation and support of system and application software, including diagnosis and 
+tuning of system performance
+
+        Hardware maintenance through contacting Bright Cluster Management contract and warranty 
+services.
+
+.          User support for research scientists in the HPC computing environment, as well as Apple 
+Mac-OS computing environment.
+
+.          System administration for Apple Mac-OS server and several dozen Apple Mac-OS end-user 
+desktop systems, including operating system maintenance and support, including diagnosis and tuning 
+of system performance, while also implementing federal IT security standards on all systems.
+
+.          Installation and support of application software for Apple Mac-OS operating systems.
+
+.          Hardware maintenance of Apple Mac-OS systems through AppleCare contracts and warranty 
+services.
+
+.          Technical support for Local Area Network (LAN) administration.
+
+.          Deployment of communication technologies (eg. VPN, IPv6) required for compliance with 
+NOAA TICAP (Trusted Internet Connection Access Point) and other upcoming IT networking security 
+policies.
+
+.          Development and implementation of a wireless network access solution to comply with 
+federal security standards.
+
+.          Monitoring and troubleshooting network performance
+
+",1
+to007 nws opg,"1.2. Objectives: This position is located at the NWSTC in Kansas City, Missouri.  It is established to perform work necessary to plan, design, develop, acquire, document, test, implement, integrate, maintain, or modify information technology systems for solving problems and accomplishing work processes specific to NWSTC and the OPG. 
+ 
+1.3. Scope/High-level Description: Scope of work includes the following major duties and responsibilities: 1.3.1. Serves as technical focal point for AWIPS-2 and administrative site hardware design and configuration as it applies to OPG and NWSTC operations, including component connectivity, configuration, performance, capacity, and evolutionary path 1.3.2. Serves as technical authority on system hardware implementation, including applicable AWIPS and/or other enterprise systems 1.3.3. Leads task forces / teams in advanced systems software/hardware project efforts 1.3.4. Analyzes and evaluates requirements, cost drivers, expansion capabilities, and technology trends, for potential testing and evaluation relevant to future NWS capabilities 1.3.5. Applies available technologies and basic management principles to adapt computer methods to a variety of subject matter situations 1.3.6. Oversees or performs equipment installation, testing and acceptance processes 1.3.7. Responds to, and resolves, problems with software, hardware and systems management 1.3.8. Integrates hardware, software, and/or computer related services to provide an integrated information system, including virtualization processes and cloud computing solutions 1.3.9. Evaluates vendor or employee developed software to assure it provides desired results and operates properly and efficiently on assigned systems in compliance with industry standards 1.3.10. Provides architecture oversight and technical leadership in the areas of virtualization and cloud computing 1.3.11. Supports cloud computing strategy and roadmap development from a mission and technical perspective including identification of potential obstacles and solutions regarding the use of cloud computing in a distributed IT network environment ",1
+USACE AEC APG BUILDING 5103 RENOVATIONS ABERDEEN PROVING GROUND MARYLAND,"The repairs for E5103 is a comprehensive project that will restore the facility quality to Q1/F1 as well as provide labor, equipment and materials to repair the building to current communication center standards. The project scope will include engineering and design services for the repairs. Building components and systems to be repaired include exterior structural and architectural components; interior walls, floors, ceilings, fixtures and finishes; ADA-compliant accessibility features to include a ramp, elevator, and restrooms; failed or failing heating, ventilation, and air conditioning (HVAC) systems; domestic, sanitary, and heating system plumbing; electrical power supply, capacity, distribution, grounding, and emergency backup; interior, exterior, and emergency lighting; telecommunications cabling and wiring; and fire safety systems, including sprinklers, suppression systems, and egress signage. As a communication center building, Building E5103 will require secure and non-secure repairs and upgrades. Also included is the abatement of HAZMAT materials (asbestos) that are prevalent throughout the structure.",0
+AEC AE SERVICES FOR BOILER REPLACEMENET PHOENIX VA HEALTH CARE SYSTEM,"The existing boiler plant at the PVAHCS is outdated and requires improvements to modernize the steam and hot water systems to meet the performance, safety, energy, and redundancy requirements of a modern hospital and VA central office guidance
+Two existing steam boilers are both past their useful life and have experienced numerous failures over the past few years, endangering some of the core services of the hospital. A strategic boiler plant plan, along with many of the corresponding design documents have been developed and represents the first part of this two-part design-build process
+This project will take the existing documents and designs, validate that their requirements and assumptions are accurate, correct any deficiencies, incorporate any changes to the facility that may impact these systems, and design and install an integrated system that meets the objectives of capacity, redundancy, safety, maintainability, and energy efficienc",0
+to004 pmel,"    Provide complete Tier 2 and 3 desktop support to all users.
+     Follow government guidelines to provide systems security and the development of procedures for the use and maintenance of Desktop and Laptop computers, Servers, peripherals, and software.
+       Provide support for the installation, configuration, and maintenance of microcomputer and LAN equipment.
+      Assist with the installation, maintenance, and answer user questions for all PMEL approved software packages.
+    Install and configure Desktop and Laptop computers. This includes the installation of adapters and devices, peripherals,
+scanners, sound, video, printers, and other peripherals. Manage and optimize Desktop systems so users can realize the full potential of the desktop device. PMEL operating systems include, Windows 7, Windows 10, Windows Server 2008,
+Windows Server 2012, Windows Server 2016, Red Hat Linux 6, Red Hat Linux 7, Mac OSX IO.I I, Mac OSX 10.12..        Perfonn scheduled preventative maintenance on workstations, printers and other peripherals as required to ensure maximum operability and uptime.
+    Diagnose and correct problems with Desktop and Laptop computers. Perform hardware diagnostics and isolate hardware problems on Desktop and Laptop computers and peripherals. Perfonn the necessary replacement or repair to correct the hardware problems.
+    Maintain a Standard Operational Procedures Manual containing the installation and configuration procedures, passwords, backup procedures, and contact infonnation (needed when problems occur) for Desktop and Laptop computers, Server hardware and software.
+      Provide software assistance to resolve problems using the software. Interface with software vendors to solve software problems or provide an acceptable work around.
+   Maintain LDAP accounts, including email lists in coordination with the Network Manager and government directives.
+   Assist in the support of a backup system (e.g., tape backup hardware). Ensure that all Server systems are backed up on a daily/weekly basis (according to the latest policy for backing up systems), add/delete systems to be backed up, upgrade the backup software clients, and assist Users with problems and recovery of files from backup when necessary. Provide users with options for backing up Desktop and Laptop computers. Current backup software includes Symantec Backup Exec.
+   Assist in the evaluation and procurement of new hardware and software by reviewing requirements and specifications to insure appropriate hardware acquisition consistent with PMEL and NOAA IT Architecture, best practices and scientific requirements. Provide technical interface with the vendors during the procurement process.
+     Process old system for PMEL Excess. Remove Drives and optical media and remove system from DNS and the PMEL Node Database.
+    Provide system management for Desktop and Laptop workstations. Help with backups/restore requests, patches, upgrades, and security settings on all current systems.
+     Assist in fielding user questions regarding problems with Desktop workstations, and Laptops.
+    PMEL averages 150 Windows users (PC & Mac) and 20 Linux users. Most machines are located at the Western Region Campus WRC in Seattle, WA. A few other machines are located at the Newport, Oregon site. Others are used for teleworking.
+   Maintain an inventory for software program masters, operational firmware, documentation, and developmental system software for assigned hardware and software. A listing of each program by version, revision level, and other information may need to be developed..        Assist in the operation of the network, including LDAP and Active Directory authentication services. Perform network administration, which includes the addition and deletion of users, control access rights, manage services, and monitor the network.
+   Responsible for the configuration and administration of the network management software to include software metering, PC hardware and software inventories, and remote control of networked PC's.
+     Support secure remote connectivity (YPNs).
+      PMEL campus-wide network cabling installation and maintenance..        Support the IP-based VTC system.
+   Provide Audio/Video Support in the Multi-Media Center (MMC) and PMEL Conference Rooms.
+   Maintain VTC/MMC online Calendar..	Provide frontline network printer support.
+Maintain printer supplies and paper.
+Monitor central print queue..	System IT development.
+Science IT research and development.
+Application development.",1
+FORT RUCKER GROUNDS MAINTENANCE,"The Contractor shall maintain Improved, Semi-Improved Grounds and Unimproved Grounds
+The Contractor shall provide all personnel, equipment, supplies, facilities, transportation, tools, materials, supervision, quality control, and other items and non-personal services necessary to perform grounds maintenance at Fort Rucker, Alabama and surrounding areas.",0
+to010 wcr,".        Shall act as the primary interface for IT support services for WCR end users and follow Information Technology Infrastructure Library (ITIL) best practices in performing regular operational IT functions;
+.        The contractor shall use the automated web-based Call tracking software (presently using SysAid) to log and track all customer calls to completion, and ensure a historical database of calls are retained. Reports of activities shall be produced from this database on a weekly basis as well as produce ad hoc reports as requested by the Task Manager;
+.        Research, evaluate, and provide feedback on trends and patterns on reported incidents;
+.        Develop, institute, and maintain Standard Operating Procedures (SOP) in the areas of incident management, service requests and Application Support services;
+.        Participate in the WCR change control board (CCB) meetings and provide user support impact assessment on proposed system change requests;
+.        Support other WCR project teams during implementation and testing of changes or enhancements to the WCR LAN and applications;
+.        Maintain appropriate telephone calling scripts/messages to ensure that end users are provide relevant, accurate information as quickly as possible;
+.        Provide formal and informal training to end-users on LAN resources such as servers, computers, mobile devices, printers, faxes and copiers;
+.        Support the technology needs of WCR users with off-site/off-campus meetings and conferences;
+.        Install equipment at offices, cubicles and conference rooms, establish and test LAN connectivity;
+.        Uncrate, accept/test, burn-in computers, laptops, mobile devices, printers and other new peripheral equipment upon receipt;
+.        Install and update approved software, firmware and operating systems on end user computers and other devices;
+.        Respond to reports of malware infections on computing devices and support remediation efforts by following established NOAA incident response policy and procedures; .	Assist WCR users in scheduling and monitoring video teleconference calls and support the video equipment during conferences. Additional capabilities including register new endpoints, perform diagnostics support, coordinate complex problems with vendors and internal resources and perform maintenance. Train other support technicians on basic operations;
+.	Provide primary telephone support for calls related to WCR Portland or other WCR Site telephone usage;
+.	Input and maintain Accountable IT Inventory in IT Database Application;",1
+to002 isso,"1.3 Objectives:  The scope of information systems security reporting effort is to serve as the Information Systems Security Officer for the Southeast Fisheries Science Center (SEFSC) Information Resource Management department. To serve as the security subject matter expert onsite at SEFSC for senior management, technical staff, and end user needs.  Requirements:  The contractor shall:   ï‚· Keep abreast of Federal, Department of Commerce, NOAA, and NMFS computer security regulations, priorities, and processes and recommends process improvements. ï‚· Leverage NMFS Common and Hybrid Controls, develops and implements the SEFSC comprehensive computer security programs and maintains detailed documentation of system security procedures.  ï‚· Periodically conducts and documents security reviews, performs risk analysis and vulnerability assessments ï‚· In coordination with the NMFS IT Security Program and the Independent Assessor, recommends corrective action as necessary to correct identified security weaknesses.  ï‚· Document progress related security weakness mitigation with Plan of Actions and Milestones (POA&Ms) within the tool(s) as directed by NOAA and NMFS. Ensures that documentation is timely and complete and completed on schedule. ï‚· Serves as system point of contact and coordinates with NMFS and NOAA on all SEFSC IT Security Incidents. ï‚· Support the NOAA required annual security awareness training for all personnel with IT system access 
+ï‚· At the direction of the NMFS IT Security Program, coordinates the quarterly review of core documents including: o Contingency Plan o Privacy Threshold Assessment (PTA) o Privacy Impact Analysis (PIA)  o Risk Assessment (RA) ï‚· Participate in the quarterly Security Assessment Report Briefing with the Independent Assessor. ",1
 to009 pmel cg,"o        Work closely with scientists to
 o        Design, create and produce scientific posters and visualizations for use in slides that are presented at scientific conferences and other events.
 o        Create and enhance scientific publication-ready graphics for use in manuscripts, flyers, posters and promotional material for both web-based and print media channels.
@@ -135,19 +157,54 @@ o        Support Communications staff in development of various messaging effort
 o        Operate and print large format posters on a poster printer.
 o        Work closely with the PMEL Computer and Network Support Division on technical matters related to poster printing.
 o        Integrate accessible design features (e.g., alternate text, accessible color contrasts) in graphic products.
-o        Coordination of graphics activities. Create graphic materials to illustrate research performed by scientists at NOAA 's Pacific Marine Environmental Laboratory (PMEL)."
-to010 wcr,"•        Shall act as the primary interface for IT support services for WCR end users and follow Information Technology Infrastructure Library (ITIL) best practices in performing regular operational IT functions;
-•        The contractor shall use the automated web-based Call tracking software (presently using SysAid) to log and track all customer calls to completion, and ensure a historical database of calls are retained. Reports of activities shall be produced from this database on a weekly basis as well as produce ad hoc reports as requested by the Task Manager;
-•        Research, evaluate, and provide feedback on trends and patterns on reported incidents;
-•        Develop, institute, and maintain Standard Operating Procedures (SOP) in the areas of incident management, service requests and Application Support services;
-•        Participate in the WCR change control board (CCB) meetings and provide user support impact assessment on proposed system change requests;
-•        Support other WCR project teams during implementation and testing of changes or enhancements to the WCR LAN and applications;
-•        Maintain appropriate telephone calling scripts/messages to ensure that end users are provide relevant, accurate information as quickly as possible;
-•        Provide formal and informal training to end-users on LAN resources such as servers, computers, mobile devices, printers, faxes and copiers;
-•        Support the technology needs of WCR users with off-site/off-campus meetings and conferences;
-•        Install equipment at offices, cubicles and conference rooms, establish and test LAN connectivity;
-•        Uncrate, accept/test, burn-in computers, laptops, mobile devices, printers and other new peripheral equipment upon receipt;
-•        Install and update approved software, firmware and operating systems on end user computers and other devices;
-•        Respond to reports of malware infections on computing devices and support remediation efforts by following established NOAA incident response policy and procedures; •	Assist WCR users in scheduling and monitoring video teleconference calls and support the video equipment during conferences. Additional capabilities including register new endpoints, perform diagnostics support, coordinate complex problems with vendors and internal resources and perform maintenance. Train other support technicians on basic operations;
-•	Provide primary telephone support for calls related to WCR Portland or other WCR Site telephone usage;
-•	Input and maintain Accountable IT Inventory in IT Database Application;"
+o        Coordination of graphics activities. Create graphic materials to illustrate research performed by scientists at NOAA 's Pacific Marine Environmental Laboratory (PMEL).",1
+CUSTODIAL SERVICE IN AREA IV SOUTH KOREA,"The Department of the Army has a requirement for custodial service for USAG-Daegu, Camp Carroll, and Busan Area in Area IV, South Korea.
+
+REQUIREMENTS
+This is a non-personal service contract to provide custodial and cleaning services for buildings and family housing quarters located in Camps Henry, George, Walker, SP-47, Carroll, DRMO (A-PO) & Busan area. The Contractor shall perform to the terms and conditions of this contract to complete custodial services provided. This will be an ongoing service that will be provided regularly throughout the period of performance.",0
+MEDICAL FACILITY CUSTODIAL SERVICES FOR RAF ALCONBURY,"The Contractor shall provide all management, tools, equipment, transportation and labor necessary to ensure that custodial services are performed at the Medical Facility at RAF Alconbury in support of U.S. Visiting Forces located in the United Kingdom.  The services to be performed in a manner that will maintain a satisfactory facility condition in a safe and sanitary environment and present a clean, neat and professional appearance. The Contractor is encouraged and expected to use innovative approaches to efficiently and effectively accomplish the requirements of this PWS. All work performed by the Contractor shall be performed in accordance with all applicable laws, regulations, HQ AF standards, instructions, and best commercial practices, and as set forth by United Kingdom law, regulation, and legislation.  Supplies and equipment shall meet the required specification and comply with United States Public Health Service standards and or comparable compliance with United Kingdom standards to ensure that the services produce an acceptable quality of cleanliness. Materials and cleaning techniques used when cleaning all floor surfaces shall be in accordance with the manufacturer’s recommendations or commercial/ industrial standards. ",0
+AEC EMIGRANT CREEK INTERAGENCY FIRE BUILDING,"The Department of Agriculture, Forest Service has a requirement for the design and installation of a 14,800 sf building pre-manufactured or similar located at 265 Highway 20 South, Hines, Oregon.
+
+REQUIREMENTS
+The contractor shall perform:
+
+Design and installation of a 14,800 sf building pre-manufactured or similar. This includes site demolition, grading, drainage, utilities, landscaping, and hardscaping",0
+MEDICAL FACILITY CUSTODIAL SERVICES FOR RAF CROUGHTON,"The Contractor shall provide all management, tools, equipment, transportation and labor necessary to ensure that custodial services are performed at the Medical Facility at RAF Croughton in support of U.S. Visiting Forces located in the United Kingdom. The services to be performed in a manner that will maintain a satisfactory facility condition in a safe and sanitary environment and present a clean, neat and professional appearance. The Contractor is encouraged and expected to use innovative approaches to efficiently and effectively accomplish the requirements of this PWS. All work performed by the Contractor shall be performed in accordance with all applicable laws, regulations, HQ AF standards, instructions, and best commercial practices, and as set forth by United Kingdom law, regulation, and legislation. Supplies and equipment shall meet the required specification and comply with United States Public Health Service standards and or comparable compliance with United Kingdom standards to ensure that the services produce an acceptable quality of cleanliness. Materials and cleaning techniques used when cleaning all floor surfaces shall be in accordance with the manufacturer’s recommendations or commercial/ industrial standards. ",0
+to005 oar aoml,"1.3 Objectives
+Since all three FMCs (OAR/AOML, OAR/STAR, NESDIS/STAR) have common control and compliance requirements, the goal of this project will be to modify the development and production infrastructure currently in operation at OAR/AOML to accept and process internal management control actions from multiple FMCs (AOML/PMEL/NESDIS).
+The development infrastructure at OAR/AOML will need to implement additional infrastructure in order to scale up development efforts to meet the overall development requirements. The code base will also need to be reviewed to identify new requirements as well as any necessary code refactoring. One of the modules in the system will need to function on mobile devices such as Apple IPAD with the ability to work offline.
+Infrastructure changes
+Implement Automated Testing x Implement Continuous Integration Server
+Code Review & User Requirements
+Work with OAR/AOML staff to create and document system requirements for enhancement approved by FMC management x Work with OAR/AOML staff to implement enhancements based on the priorities approved by FMC management x Review existing and new code for any errors and inefficiencies to include possible system vulnerabilities Review secure code review procedures and provide possible enhancements x Implement mobile based module that has the ability to work offline and data sync once network connection is re-established
+1.03 Scope/High-level Description: The contractor personnel will work with OAR/AOML personnel on-site in Miami. OAR/AOML uses Oracle databases with a customized based JavaEE front end based on the Vaadin framework and Vaadin CDI. It also uses a JasperReports reporting engine. The delivered solutions (computer systems, websites, computer code, etc.) will be a browser-based solution that will not require any type of client installed program (such as java plugin, etc) that will provide all users in their respective office the ability to process their own actions.
+",1
+to001 chps,"1.02 Objectives: The overall objective of this task is to obtain contractor support to supplement the specialized CHPS support â€œhelp
+deskâ€ functions performed by the Hydrology Support Group (HSG) in the Office of Central Processing (OCP) Field Support and
+Infrastructure Team (FSIT). The HSG provides Tier 1 and Tier 2 support for the CHPS operations at RFCs. The contract staff works
+alongside the federal HSG members, and the specific task requirements are provided by the HSG staff. Historically, the full CHPS
+support has been handled by a team consisting of 2-3 federal employees supplemented by (2) contract employees. Significant
+coordination between HSG staff and the RFCs and other support providers within the NWS enterprise is required, using verbal and
+written forms of communication, in order to effectively provide the customer support.
+The contractor provides technical support to ensure the operational performance and integrity of CHPS. This support includes the
+following objectives:
+1) Provide specialized â€œhelp-deskâ€ technical support whereby operational problems, issues, and questions are presented to the
+contractor for resolution. Support will be provided in the form of problem tracking, problem analysis, and ultimately
+problem resolution for CHPS issues (a.k.a. â€œticketsâ€ or â€œcasesâ€) reported by the RFCs. This support can be provided by
+action taken on an RFC computer system, direct communication to RFC staff, or advice and instructions which address the
+reported problem. Communication may include direct phone conversations, e-mail, or software documentation. The â€œhelpdeskâ€
+problem resolution typically involves relatively specific issues reported with CHPS which often require prompt
+attention.
+2) Provide technical support for NWS projects associated with CHPS. This can include projects related to the CHPS software
+system environment, the CHPS hardware configuration, or the hydrometeorologic functions embodied within CHPS. The
+project support typically involves more general needs of the CHPS operations, and generally do not require immediate
+attention. These project outcomes result in more stable, more efficient operation of CHPS at RFCs.
+3) Provide technical guidance (written and verbal), training, and coordination of operational functions in a pro-active manner,
+including monitoring and preventative maintenance of systems executing the CHPS software suite. Collectively, these
+activities result in a support enterprise that promotes a high level of competence for operational readiness, competence, and
+awareness among RFC users of CHPS.
+These objectives comprise part of and are consistent with the formal operating plan goal of the NWS to â€œProvide 24 x 7 support to
+address operational issues related to AWIPS and CHPS hydrologic software at 13 RFCs and 122 WFOsâ€. The end result of the
+completed objectives is the stable and functional operation of the NWS RFC river forecasting services provided by CHPS. This
+operation allows formal NWS products to be issued and NWS services to be provided to the other NWS offices, the public, and the nationâ€™s water resource enterprise. Note that this task does not involve direct support for NWS WFOs (Weather Forecast Office),
+which execute AWIPS, but do execute CHPS.",1
