@@ -20,6 +20,7 @@ def denoise_text(text):
     return text
 
 def replace_contractions(text):
+#    print(text)
     """Replace contractions in string of text"""
     return contractions.fix(text)
 
@@ -346,14 +347,14 @@ model.compile(optimizer='adam',
               loss='binary_crossentropy',
               metrics=['acc'])
 
-x_val = finalWordsNumberList[:8]
-partial_x_train = finalWordsNumberList[8:22]
+x_val = finalWordsNumberList[:5]
+partial_x_train = finalWordsNumberList[5:25]
 
-y_val = pol[:8]
-partial_y_train = pol[8:22]
+y_val = pol[:5]
+partial_y_train = pol[5:25]
 
-test_data = finalWordsNumberList[22:]
-test_labels = pol[22:]
+test_data = finalWordsNumberList[25:]
+test_labels = pol[25:]
 
 history = model.fit(partial_x_train,
                     partial_y_train,
@@ -366,6 +367,12 @@ results = model.evaluate(test_data, test_labels)
 
 print(results)
 
+#result = model.predict(finalWordsNumberList)
+
+#print(result)
+
+
+'''
 history_dict = history.history
 history_dict.keys()
 
@@ -389,7 +396,7 @@ plt.xlabel('Epochs')
 plt.ylabel('Loss')
 plt.legend()
 
-#plt.show()
+plt.show()
 
 plt.clf()   # clear figure
 
@@ -400,4 +407,5 @@ plt.xlabel('Epochs')
 plt.ylabel('Accuracy')
 plt.legend()
 
-#plt.show()
+plt.show()
+'''
