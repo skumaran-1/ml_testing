@@ -145,7 +145,6 @@ print('Most common words (+UNK)', count[:5])
 print('Sample data', data[:10], [reverse_dictionary[i] for i in data[:10]])
 
 
-
 ####
 
 finalWordsNumberList = []
@@ -161,12 +160,7 @@ for list in pre:
             sentence.append(word)
     finalWordsNumberList.append(sentence)
 
-print("dict:", dictionary)
-print("reverse:", reverse_dictionary)
-print("pre:", pre)
-print("pol:", pol)
-print("number:", finalWordsNumberList)
-
+'''
 data_index = 0
 # generate batch data
 def generate_batch(data, batch_size, num_skips, skip_window):
@@ -336,8 +330,12 @@ try:
 except ImportError:
   print('Please install sklearn, matplotlib, and scipy to show embeddings.')
 
+'''
+finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsNumberList, value=0, padding='post', maxlen=128)
+
+
 model = tf.keras.Sequential()
-model.add(tf.keras.layers.Embedding(vocabulary_size, 16))
+model.add(tf.keras.layers.Embedding(10000, 16))
 model.add(tf.keras.layers.GlobalAveragePooling1D())
 model.add(tf.keras.layers.Dense(16, activation=tf.nn.relu))
 model.add(tf.keras.layers.Dense(1, activation=tf.nn.sigmoid))
@@ -348,26 +346,14 @@ model.compile(optimizer='adam',
               loss='binary_crossentropy',
               metrics=['acc'])
 
+x_val = finalWordsNumberList[:8]
+partial_x_train = finalWordsNumberList[8:22]
 
+y_val = pol[:8]
+partial_y_train = pol[8:22]
 
-x_val = finalWordsNumberList[:5]
-partial_x_train = finalWordsNumberList[5:10]
-partial_x_train = np.asarray(partial_x_train)
-
-
-y_val = pol[:5]
-partial_y_train = pol[5:10]
-
-test_data = finalWordsNumberList[10:20]
-test_labels = pol[10:20]
-
-print(partial_x_train)
-print(len(partial_x_train[0]))
-print(partial_y_train)
-
-print(x_val)
-
-print(y_val)
+test_data = finalWordsNumberList[22:]
+test_labels = pol[22:]
 
 history = model.fit(partial_x_train,
                     partial_y_train,
@@ -379,3 +365,39 @@ history = model.fit(partial_x_train,
 results = model.evaluate(test_data, test_labels)
 
 print(results)
+
+history_dict = history.history
+history_dict.keys()
+
+import matplotlib.pyplot as plt
+
+acc = history_dict['acc']
+val_acc = history_dict['val_acc']
+loss = history_dict['loss']
+val_loss = history_dict['val_loss']
+
+epochs = range(1, len(acc) + 1)
+
+plt.clf()   # clear figure
+
+# "bo" is for "blue dot"
+plt.plot(epochs, loss, 'bo', label='Training loss')
+# b is for "solid blue line"
+plt.plot(epochs, val_loss, 'b', label='Validation loss')
+plt.title('Training and validation loss')
+plt.xlabel('Epochs')
+plt.ylabel('Loss')
+plt.legend()
+
+#plt.show()
+
+plt.clf()   # clear figure
+
+plt.plot(epochs, acc, 'bo', label='Training acc')
+plt.plot(epochs, val_acc, 'b', label='Validation acc')
+plt.title('Training and validation accuracy')
+plt.xlabel('Epochs')
+plt.ylabel('Accuracy')
+plt.legend()
+
+#plt.show()

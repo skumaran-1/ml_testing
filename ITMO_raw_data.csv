@@ -1,4 +1,294 @@
 ﻿Contract name,Contract description,Polarity
+to004 pmel,"    Provide complete Tier 2 and 3 desktop support to all users.
+     Follow government guidelines to provide systems security and the development of procedures for the use and maintenance of Desktop and Laptop computers, Servers, peripherals, and software.
+       Provide support for the installation, configuration, and maintenance of microcomputer and LAN equipment.
+      Assist with the installation, maintenance, and answer user questions for all PMEL approved software packages.
+    Install and configure Desktop and Laptop computers. This includes the installation of adapters and devices, peripherals,
+scanners, sound, video, printers, and other peripherals. Manage and optimize Desktop systems so users can realize the full potential of the desktop device. PMEL operating systems include, Windows 7, Windows 10, Windows Server 2008,
+Windows Server 2012, Windows Server 2016, Red Hat Linux 6, Red Hat Linux 7, Mac OSX IO.I I, Mac OSX 10.12..        Perfonn scheduled preventative maintenance on workstations, printers and other peripherals as required to ensure maximum operability and uptime.
+    Diagnose and correct problems with Desktop and Laptop computers. Perform hardware diagnostics and isolate hardware problems on Desktop and Laptop computers and peripherals. Perfonn the necessary replacement or repair to correct the hardware problems.
+    Maintain a Standard Operational Procedures Manual containing the installation and configuration procedures, passwords, backup procedures, and contact infonnation (needed when problems occur) for Desktop and Laptop computers, Server hardware and software.
+      Provide software assistance to resolve problems using the software. Interface with software vendors to solve software problems or provide an acceptable work around.
+   Maintain LDAP accounts, including email lists in coordination with the Network Manager and government directives.
+   Assist in the support of a backup system (e.g., tape backup hardware). Ensure that all Server systems are backed up on a daily/weekly basis (according to the latest policy for backing up systems), add/delete systems to be backed up, upgrade the backup software clients, and assist Users with problems and recovery of files from backup when necessary. Provide users with options for backing up Desktop and Laptop computers. Current backup software includes Symantec Backup Exec.
+   Assist in the evaluation and procurement of new hardware and software by reviewing requirements and specifications to insure appropriate hardware acquisition consistent with PMEL and NOAA IT Architecture, best practices and scientific requirements. Provide technical interface with the vendors during the procurement process.
+     Process old system for PMEL Excess. Remove Drives and optical media and remove system from DNS and the PMEL Node Database.
+    Provide system management for Desktop and Laptop workstations. Help with backups/restore requests, patches, upgrades, and security settings on all current systems.
+     Assist in fielding user questions regarding problems with Desktop workstations, and Laptops.
+    PMEL averages 150 Windows users (PC & Mac) and 20 Linux users. Most machines are located at the Western Region Campus WRC in Seattle, WA. A few other machines are located at the Newport, Oregon site. Others are used for teleworking.
+   Maintain an inventory for software program masters, operational firmware, documentation, and developmental system software for assigned hardware and software. A listing of each program by version, revision level, and other information may need to be developed..        Assist in the operation of the network, including LDAP and Active Directory authentication services. Perform network administration, which includes the addition and deletion of users, control access rights, manage services, and monitor the network.
+   Responsible for the configuration and administration of the network management software to include software metering, PC hardware and software inventories, and remote control of networked PC's.
+     Support secure remote connectivity (YPNs).
+      PMEL campus-wide network cabling installation and maintenance..        Support the IP-based VTC system.
+   Provide Audio/Video Support in the Multi-Media Center (MMC) and PMEL Conference Rooms.
+   Maintain VTC/MMC online Calendar..	Provide frontline network printer support.
+Maintain printer supplies and paper.
+Monitor central print queue..	System IT development.
+Science IT research and development.
+Application development.",1
+AEC EMIGRANT CREEK INTERAGENCY FIRE BUILDING,"The Department of Agriculture, Forest Service has a requirement for the design and installation of a 14,800 sf building pre-manufactured or similar located at 265 Highway 20 South, Hines, Oregon.
+
+REQUIREMENTS
+The contractor shall perform:
+
+Design and installation of a 14,800 sf building pre-manufactured or similar. This includes site demolition, grading, drainage, utilities, landscaping, and hardscaping",0
+The Navy Office of Information (CHINFO),"Mature, DoD-experienced IT Partner Our IT Division monitors developments that affect the Federal space and NOAA in particular, with special expertise in agile development methodology, cyber security, and cloud technology. We leverage Agile approaches and ties these constructs to tools such as our customer’s technology stack. We implement best practice, provided access to trending technology, and deliver on our promise of collaboration, flexibility, transparency, and a customer- focused partnership that ensures user engagement throughout the process. Expertise in Emerging Areas and Technologies RIVA strives to stay ahead of the latest innovations in IT management and software development (e.g., Agile, DevOps, Cyber, ITSM) and emerging areas such as Platform as a Service (PaaS), cloud migration, mobility, cybersecurity, and our partnership with Amazon Web Services (AWS) as well as our Microsoft Azure partnership This expertise ensures our solutions are on the cutting edge of technology and best practices and that we can apply new FedRamp approved cloud offerings to solve real-world NOAA challenges.. Best Practices RIVA follows and is certified in industry best practices including CMMI, ITIL, and ISO 90001:2008, 20000, and 27001, and prioritizes certifications such as PMBOK/PMP and CISSP. Ensures compliance with NOAA IT directives and allows us to find efficiencies where we can. • The contractor shall define a software development approach appropriate for the computer software development and integration effort to be performed IAW the SOW.
+• The SDP shall describe the contractor's software development and quality processes. These processes should be based on the contractor's tailoring of internally-developed standard processes used on previous DOD programs, standard commercial processes, and wholly new processes. Software processes documented in the SDP. 
+o The SDP shall describe the contractor's software development and quality processes. These processes should be based on the contractor's tailoring of internally-developed standard processes used on previous DOD programs, standard commercial processes, and wholly new processes. Software processes documented in the SDP.
+o The contractor shall comply with the requirements of the SDP for all computer software to be developed, integrated, or maintained under this effort. The SDP shall identify the required software and the developers or suppliers of the software, and shall define the offeror‘s proposed software development processes, the activities to be performed as a part of the processes, the tasks which support the activities, and the techniques and tools to be used to perform the tasks. Note: The Government at its discretion may place the SDP on contract. Refer to Appendix I for suggested SDP content.
+
+– In addition to aligning our processes to a standard Waterfall methodology, we propose to expand the use of Agile Scrum-based processes into our development methodology. Working with the Federal Web App Team lead, we will work to adopt iterative sprints that rapidly adapt to change rather than predicting unanticipated change, thereby focusing on customer satisfaction through quick and cyclic delivery of production-ready software components. Utilizing this methodology, software specifications are derived from established user stories, and as development sprints are completed, we perform code reviews, testing, and Independent Validation and Verification (IV&V) to facilitate deployment into the production environment. Some of the benefits of an agile approach are:
+ Production ready software that provides business value to system users as rapidly as possible. 
+ Clear requirements from meetings between government stakeholders and RIVA project staff
+ Reprioritization of functional and non-functional requirements within each sprint cycle, reducing associated rework costs by aligning iterative releases with user stories and needs
+ Adapt quickly to frequent or significant changes in projects while continuing to deliver
+ Incorporation of emerging technologies into the solution.
+Using an Agile-based development model, RIVA facilitates QC by considering relevant aspects of the development process, improving solution quality iteratively, documenting the system as it is developed, and being cognizant of compliance requirements such as existing TRMs, Service Level Architecture Guidelines, and security mandates. We perform work in two to four-week sprints. Each sprint begins with a Sprint Planning meeting to prioritize and assign product backlog items to the sprint backlog. We conduct daily Scrum Meetings or “stand ups” to discuss short term tasking and identify project obstacles to manage and escalate activities to the appropriate person. At the completion of each sprint, we conduct a Sprint Review meeting to demonstrate functionality that was developed and document stakeholder feedback for incorporation into the next sprint cycle. We hold Sprint Retrospective meetings to document lessons learned and adjust processes and procedures as needed.
+Team RIVA understands that NCCOS has a centralized inventory and key attributes of applications, databases, and websites. As part of our support, we maintain and update this inventory to provide transparency into NCCOS systems and as requested and perform assessments of identified items within the inventory to provide guidance on future technological objectives. Some of these initiatives include feasibility assessments for migrating additional applications, data, and websites to cloud hosted solutions such as MS Azure; conducting security/risk assessments to reduce vulnerabilities and mitigate negative outcomes; performing technology obsolescence/refresh studies to identify future strategies; and addressing skill set gaps and other operational risks. We work with NCCOS scientists, product owners, and end users to implement and manage the initiatives for GIS software and support the development and maintenance of applications based upon spatially referenced data and digital mapping.
+For feasibility, technology, and migration assessments, we prepare proposals for recommended solutions to remediate any issues known or identified. For new project requests, we assist NCCOS staff in evaluating the request, the current team skill sets, capabilities, and availability, and existing partnerships to identify the appropriate solution to meet the request. These requests are captured and tracked in a centralized product backlog and are identified as new development, enhancement, or defect/change request and is maintained using the NCCOS BMC TrackIt ticketing system and Google Drive products. Once the course of action has been reviewed and approved, our team supports the necessary design and development of the solution and works with the product owner to ensure mission goals and objectives are met. This includes supporting and facilitating NCCOS staff for Branch or Partner led development efforts to improve enterprise system performance and availability. Prior to deployment into the production environment, we work with NCCOS to conduct integration and functional testing and any major issues are addressed before migration and that we receive approval from the CCB. For existing applications, databases, and websites, we perform corrective and adaptive maintenance to ensure compliance with technology goals, security requirements, and NOS policy and standards. 
+Throughout the development process, we follow NOS Configuration Management processes and industry best practices to maintain proper version control for all development, test, and production version of software and systems to allow for traceability and proper support and installation of deployment packages. We manage software code repositories to maintain all development, test and production versions of software, applications, and websites. Software versioning (unique version names or numbers assigned to each unique state of software) is implemented as part of this process and kept in an official Git repository provided by the Government. In addition, we use the SSH protocol (also referred to as Secure Shell) for secure remote login from one computer to another. This protocol will be used to access government-controlled Git repositories and Git deployment of all application code from Git repositories to Azure webapps. We maintain strict SSL access control to all SQL and MySQL databases. We maintain and update system documentation based on changes in a content management system.
+",1
+NWS_AWIPS,"Compliance review of system security plans, including security control implementation descriptions and provide feedback for improvement Our process will include developing, updating, and enhancing relevant NWS documents such as the system security plans, • Team SMRC has provided IT security services to our Federal clients such as NOAA, DHS, and the DOE for over ten years. This has included planning, training, and execution of comprehensive security programs.
+• Offer an extensive knowledge in preparing, revising, and maintaining NIST, FISMA, and OMB documentation as living documents, supporting the impacts of advances in technology, regulatory updates, and organizational-missions for a successful security authorization and continuous monitoring program.
+• Determine and implement security controls that are fully functional and meeting system security requirements, while addressing any challenges and issues in complying with FISMA information security and privacy requirements.
+• Provide support in addressing reported Office of Inspector General (OIG) concerns, specifically with the implementation of security controls, FISMA compliance, and OMB reporting.
+• Provide guidance in mitigation of control findings in a timely manner or implement effective compensating controls.
+control implementation descriptions to the latest security guidelines. We are fully versed in the revisions to NIST 800.53 R4 to be released soon in NIST 800.53 R5 and will update all relevant documents to be compliant. Where we identify gaps we will provide recommendation for possible solutions that align with our holistic approach.
+Compliance review of contingency plans, business impact analyses, backup and recovery plans, contingency plan test plans, and contingency plan test reports, and provide feedback for improvement Team SMRC has developed full scope security documentation for a variety of NOAA security programs, including NESAA NOAA0100 and NOAA0200. This has included contingency plans, business impact analyses, backup and recovery plans, contingency plan test plans, and contingency plan test reports. Additionally we will also provide support to review COOP/DR, Baseline Configurations, Privacy Impact Assessments, Business Impact Assessments, Security Guidelines, and Policies/Standards/Procedures for all NIST 800-53 R3/R4 Controls as required. 
+Assessment of Plans of Action and Milestones (adequacy of closure evidence, completeness of content) In supporting the POA&M process that outlines weaknesses and delineates the tasks necessary to mitigate them, Team SMRC offers to develop supporting process and consulting service that will enhance NWS  CPSB’s ability to identify, assess, prioritize, and monitor the progress of corrective actions pertaining to information security weaknesses found within programs and systems. For example developing a POA&M Guideline for NWS System Owners and support personnel containing the necessary information and instructions for developing, maintaining, and reporting their weaknesses in a database as it relates to a specific system. We understand that CSAM is the tool being used to track POA&M and our team has extensive experience working with CSAM at past and current clients, including NOAA and SBA.
+Quality and completeness checks of security authorization packages
+ Team SMRC adheres to a continuous improvement and monitoring based approach for security authorization packages. We take the approach that security authorization must be updated to be effective and as part of our overall security project management process, build in processes to ensure that security authorization packages are reviewed and updated regularly. This is most important with the upcoming release of NIST-800.53 R5. Our team regularly monitors changes in IT Security Governance and will update documents as changes are approved. Our collective experience doing Assessment & Authorization for multiple agencies has given us unique insights into the typical issues agency IT systems face while trying to get and maintain an ATO in addition to developing compliant documentation. Our certified CISSP experts will provide expertise, guidance and recommendations on Assessment & Authorization strategies for NWS systems. Our experts work with system owners to conduct compliance review, suggest & implement controls that provide optimal risk exposure to their systems.
+Develop and deliver IT Security training As part of the Compliance review process, we will collaborate with existing training development processes to impart training and guidance to staff when required regarding best practices for IT security as well as requirements so that security is considered and implemented during the entire lifecycle. We will support development and revision of relevant courseware and conduct training and presentations so system staff is aware of IT security requirements.
+Draft and maintain NWS policies, procedures and other documents Using the continuous process in Figure 4, Team SMRC will Draft and maintain NWS policies, procedures and other documents.
+Assist with assembling NWS  AWIPS security responses to NOAA inquiries and data calls, Team SMRC will assist with assembling NWS  responses to IG, DOC, and NOAA inquiries and data calls, as directed by NWS CSPSB staff. We view agency enquiries/ audit engagements very seriously and will work with the NWS  systems owners and stakeholders to establish a secure baseline that will translate to adequate security as a result of our efforts to maintain updated documentation of IT security policies , eliminate inconsistency & deploy frequent communication with the IG/DOC/NOAA to reduce redundancy. As an example our SME’s have responded to internal and external data calls including the quarterly FISMA data calls, quarterly Balanced Scorecard Controls data calls, monthly Contingency Plan and CP Testing metrics, monthly Security Control Assessment metrics, HSPD-12 compliance, and Configuration Management and Secure Baseline Configuration reporting, and Cybersprint Initiatives.  
+",1
+USACE AEC APG BUILDING 5103 RENOVATIONS ABERDEEN PROVING GROUND MARYLAND,"The repairs for E5103 is a comprehensive project that will restore the facility quality to Q1/F1 as well as provide labor, equipment and materials to repair the building to current communication center standards. The project scope will include engineering and design services for the repairs. Building components and systems to be repaired include exterior structural and architectural components; interior walls, floors, ceilings, fixtures and finishes; ADA-compliant accessibility features to include a ramp, elevator, and restrooms; failed or failing heating, ventilation, and air conditioning (HVAC) systems; domestic, sanitary, and heating system plumbing; electrical power supply, capacity, distribution, grounding, and emergency backup; interior, exterior, and emergency lighting; telecommunications cabling and wiring; and fire safety systems, including sprinklers, suppression systems, and egress signage. As a communication center building, Building E5103 will require secure and non-secure repairs and upgrades. Also included is the abatement of HAZMAT materials (asbestos) that are prevalent throughout the structure.",0
+to003 imet,"Cyclical replacement of IMET IT systems/components (i.e. moving existing systems/services onto new hardware and/or to new releases of Operating Systems.)
+Patching Systems applications and/or Operating Systems
+Evaluation of requirements (Data flow, OS, etc.) for new and/or developed NWS LMET applications
+Assistance in the development and/or implementation of baseline security requirements for Fire Weather IMET systems.
+Provide helpdesk support for IMET system users
+Documentation and property management assistance of IMET systems
+	Advising NOAA8885 System Owner (SO) & Fire Weather Program managers on IT matters and trends
+Representing SO & Fire Weather Program managers on internal and external teams & committees as necessary.
+Provide general project oversight, coordination and management for each work task.",1
+ACIO-S Cloud Services,"• Compute (both virtual machine/containers/serverless) services
+• Cloud testing services in and across CSPs
+• Storage services (such as EBS, S3, Azure Storage, Azure Blobs)
+• Network bandwidth (or data transfer) services
+• Database management systems services (RDS, Azure Data Lake)
+• Management capabilities and tools (CloudCheckr, AWS, Azure Portal,)
+• Professional services (Expertise on new services, integration of new capabilities)
+• Business support services (Ensuring SLAs, service Levels are being met)
+Create a continuous delivery (CD) pipeline and add test and build automation AWS
+CodePipeline console
+AWS CLI AWS SDKs
+Azure DevTest Labs AWS: Developers can leverage using the AWS CodePipeline console or using the AWS CLI. There are a number of sample AWS SDKs. For more information, reference the create pipeline action documentation for your programming language through the SDKs section of Tools for Amazon Web Services or see CreatePipeline in the AWS CodePipeline API Reference.
+Azure: Developers can integrates to a full DevOps Continuous Integration/Deployment with Visual Studio Online service and 3rd parties such as Jenkins, Chef, Puppet, CloudTest Lite, Octopus Deploy.
+External Testing Selenium  Alertsite Solarwinds SEUM After a solution is deployed, an external testing service can be used to execute synthetic testing that mimics end user activity and alerts operations staff if either functionality becomes unavailable or response times exceed operational thresholds.
+From NOAA/NESDIS premises to the public cloud locations From public cloud locations to NOAA/NESDIS premise Team RIVA will use AWS Direct Connect, VPN CloudHub, Microsoft Azure VPN Express or similar services to connect from NOAA on premise to the public cloud. Bandwidth is metered between 50Mbps and 10 Gbps so aggregate bandwidth must be modeled for sandbox to determine the appropriate level.  Team RIVA would look to cap bandwidth based on 12 month estimate to avoid unnecessary expenditure.
+Across any two locations within public cloud In this scenario, there are two general cost scenarios. Data transfer costs depend on whether data is being exchanged with-in an availability zone or across availability zones. Intra region (within an availability zone) data transfer costs are free and should not be charged any bandwidth surcharge. Inter-region data transfer does incur a per GB/Gbps cost and must be modeled. Inbound Data transfer costs in Azure and AWS are free.
+From public cloud locations to general public endpoints
+From public cloud locations to other cloud (public, private, or hybrid clouds) locations CSP per GB Data transfer costs must be modeled for any data transfer that originates from the public cloud to an endpoint that is a public, private or hybrid cloud
+Data traversing a Trusted Internet Connection (TIC) stack Currently the TIC Overlay architecture is in Pilot mode for CSPs and has not been fully FedRAMP approved. Thus any use case requiring TIC data traverse should be reviewed by JAB/FedRAMP for applicability
+From NOAA/NESDIS premises to the public cloud locations From public cloud locations to NOAA/NESDIS premise Inbound Data transfer costs in Azure and AWS are free, However, Team RIVA will need to model the effective cost on outbound transfer from the NOAA/NESDIS premises as that consumes ISP bandwidth even if it is a fixed cost. In this scenario, appropriate throttling needs to be put in place for high bandwidth applications.
+Team RIVA is currently supporting AWS RDS and DynamoDB services for NESDIS Team RIVA will ensure that for the NESDIS Cloud BPA, FedRAMP compliant cloud-native Managed Database Services will be incorporated into sandbox templates for deployment. As part of the responsibility, Team RIVA will provide full DBMS administrative control to the administrator account. Team RIVA will support ""Managed Database Services"" which include standard database management tasks such as DBMS provisioning (including templated environments) as well as providing alternatives for DBMS security, operations, scaling, backups, patch management, and replication. Team RIVA has experience managing these functions via the CSP management console or CLI for advanced automation tasks.Team RIVA understands that no organization has an unlimited budget; therefore, it is necessary to monitor utilization and costs across internal and cloud based assets. Team RIVA will provide NOAA with CloudCheckr for tracking all billing. CloudCheckr offers a variety of cost based billing reports. The cost reports not only show NOAA how much it is paying for its AWS architecture, but also highlights areas where costs could be better optimized. Billing reports will show NOAA’s current AWS invoice, how much NOAA has spent on each service, and provide a billing history. The metrics provided by CloudCheckr are on a web accessible portal that contains historical data within a 365-day timespan, cost summaries, and details categorized across NOAA groups through the use of tagging. CloudCheckr’s data is made available every hour. CloudCheckr gives NOAA a consolidated, single pane of glass to better organize, manage, and optimize its cloud environment. Aggressive monitoring and fiscal control of distributed cloud resources will enable NESDIS to ensure that the organization is maximizing scientific experimentation within the bounds of the fiscal limitations. For the NESDIS Cloud environment, there will be a large focus on cost optimization related to the many algorithmic processing sandboxes that need to be managed in the AWS cloud environment to ensure performance and cost targets are met.
+In addition, Team RIVA BPA Program Manager is constantly monitoring what CSP services are FedRAMP approved, under JAB Review or under 3PAO Assessment. For example, a partial listing of the AWS CSP matrix is listed in Figure 5. Team RIVA also tracks the appropriate matrices for other CSPs such as Microsoft Azure which is available in the Azure ServiceTrust Portal. Team RIVA understands the importance of ensuring the security requirements of any future service are appropriately considered before moving into the concept stage.
+Team RIVA adopts cloud best practices for cloud migration to ensure a seamless process for managing or migrating critical workload. Team RIVA is currently executing similar migration work for NESDIS and will ensure that the following elements are addressed:
+• Team RIVA will function as a migration services partner with NESDIS to successfully migrate applications to and from the cloud using CSP best practices
+• Team RIVA will function as an application management services partner with NOAA to administer, maintain, and support applications in the cloud in accordance with FedRAMP and NOAA security guidelines.
+The typical process is outline in Figure 6 below:
+ 
+
+
+ 
+Figure 6:  Stages of TEAM RIVA’s Cloud Migration Process
+
+In the cloud migration process to create new sandbox environments in a CSP it is paramount that the security posture of the environment is maintained before, during and after the migration. Therefore, the following best practices must be followed as part of the process to harden security:
+• Safeguarding CSP credentials in accordance with FISMA/FedRAMP guidance
+• Restrict users to AWS resources
+• Automate security policies
+• Adopting and testing a recovery strategy
+In addition to effectively manage a cloud environment, new services need to be evaluated to ensure alignment and efficiency with the latest cloud technology. As the NESDIS Cloud Sandbox environment evolves, Team RIVA can match the evolution to new cloud services that may allow for cost or processing efficiencies.
+The four stages of cloud transformation are described in Figure 7 and the Cloud Transformation Maturity Model. The steps include the Project Phase where the scope and design of the project are determined, then the Foundation Stage where the cloud environment requirements and services required are assessed. This phase can also include the necessary development processes that enable migration or making environments cloud ready. Then the project can enter the Migration phase where first dry runs can be executed to ensure the integrity of the data stays intact during migration and ultimately to a production
+A.3 Overview of Technical Services applied to Specified Requirements
+A.3.1 Virtual Machines (VM) (SOW 5.1)
+Team RIVA will support cloud based virtual machines with the capabilities outlined in the BPA incuding RAM, vCPU, CPU bursting, VM Cloning/Templating , Geographic Location and ability to export OVFs (for migration, backup etc). In addition, Team RIVA will support Windows Server, RHEL and Open Source Linux. In addition , Team RIVA maintains an operational CSP checklist when deploying VMs to ensure adherence to security policy and best practices. These items include but are not limited to the following:
+• Use AWS Identity and Access Management (IAM) to provide user-specific, rather than shared credentials for making AWS infrastructure requests.
+• Ensure instances have Elastic Block Store versus instance store-backed which is not appropriate for enterprise grade storage
+• Configure the appropriate Elastic Load Balancing, Amazon Virtual Private Cloud (Amazon VPC) static address assignments, elastic IP addresses, or dynamic DNS).
+• Leverage separate EBS volumes for the operating system and application/database data where appropriate.
+• Configure back up for Elastic Compute Cloud (Amazon EC2) instances using Amazon EBS snapshots or another 3rd-party backup tool
+• Test our process of recovering our EC2 instances or EBS volumes when they fail, either through”golden” Amazon Machine Images (AMIs), Amazon EBS snapshots, bootstrapping, or using backup and recovery tools.
+A.3.2 Cloud Sandbox Services (SOW 5.2)
+Team RIVA will provide public cloud based sandbox services with the following capabilities:
+• Capability of scaling sandboxes to meet project size/capability requirements
+• Modular pricing model based on utilization of services within the sandbox
+• Support compliance with FISMA regulations when utilizing IaaS (AWS, Google, Microsoft Azure)
+• Ability to create and store blueprints/templates within the sandboxes
+Team RIVA will ensure that the cloud environment is deployed in AWS using a proven architecture with highly available data tier, and web tier in the architecture. Team RIVA uses AWS Regions and Availability Zones (AZs), Auto Scaling where necessary and Elastic Load Balancing at the infrastructure layer to provide application layer high availability. Each region in AWS is a separate geographic area.
+Each region is comprised of multiple AZs, isolated physical and logical locations with low-latency connectivity. Team RIVA’s design utilizes best practices by featuring application layer redundancy, with layers independently elastic, with no single points of failure (SPOF) providing for highly available infrastructure for the NESDIS Cloud environment. Furthermore, each service component (web delivery, application services, and database) has services that are designed to be self-healing through proactive monitoring and automated failover if any individual components or entire virtual servers fail.
+In terms of maintaining uptime, Team RIVA understands the criticality of the NESDIS Cloud environment and Team RIVA has the ability to both monitor it using AWS CloudWatch monitoring
+ 
+
+services as well as traditional host based SNMP based monitoring using tools such as Nagios to monitor specific application ports and protocols if further monitoring is required. Team RIVA also leverages synthetic external monitoring to mimic end user access of the system to alert on any slow page load or system error if any externally facing sites are required. In addition, Team RIVA leverages automated snapshots of virtual machines to ensure that environments can be restored quickly within restoration targets in case of data or virtual machine (vm) corruption. Storage Services (SOW 5.3) Team RIVA will provide public cloud based storage services, including persistent and archival storage. Team RIVA will support creating EBS volumes and maintain snapshots for restoration. In addtion, we will ensure that we can provide up to 1PB in Network Attached storage or S3 Object storage and will architect the storage requirements based on performance requirements. Team RIVA will assign and configure Geographic storage affinity and configure RBAC based access as required.
+A.3.3 Network Device Management and Configuration (SOW 5.4)
+Team RIVA will provide the following public cloud based network bandwidth capabilities including utilizing private network interfaces, NICS, static IPs in the network module of AWS. Team RIVA is currently utilizing similar configuration for the NESDIS environment we maintain.
+A.3.4 Database Management Systems (DBMS) Services (SOW 5.5)
+See Section A 2.5
+A.3.5 Management Capabilities and Tools (SOW 5.6)
+Team RIVA provide the following public cloud based management capabilities and tools ensuring that Deployments and configurations shall be managed through an automation tool. Team RIVA currently uses a combination of Chef/Puppet Ansible in the existing NESDIS environment we are managing.
+RIVA will also monitor VM, Network, and Storage Services and manage associated alerts/reporting using Cloudwatch or similar tools. Team RIVA will monitor key system metrics on a monthly basis including CPU, memory, swap space, io wait time, application response time and availability. Based on these metrics Team RIVA will propose system changes to enhance efficiency. Team RIVA will ensure that AWS workloads are following AWS best practices for component reuse. For reusability, Team RIVA will ensure that the deployment process includes as much automation as feasible to reduce cycle times and will leverage approached like using a “gold image” baseline for operating systems.
+A.4 Data Management Procedures
+Team RIVA will advise the NESDIS Project Team with regards to best practices for the architecture of the NESDIS Cloud system and how enhancements to the system and upgrades to the infrastructure will fit into the overall architecture. We will support the development of a reference architecture and coding standards that ensure Team RIVA and NESDIS IT staff have a shared understanding of the NESDIS Cloud Sandbox environment and applications. We will assist with the development and implementation of policies and procedures for change management, configuration management and software development standards and will provide software tools that support consistent understanding and use of these procedures. All cloud tasks will be in accordance with NOAA security policy.
+A.5 Understanding of Concept
+Team RIVA will manage the environment based on the requirements and approach outlined in Section
+A.3  Team RIVA understands that NESDIS is looking for a partner that can deliver a highly flexible cloud environment and be able to also adapt to changing technical requirements while still providing a stable structure and framework to accomplish the mission of a cloud environment for a mutli-environment algorithm testbed.
+ 
+
+A.6 Element One (1): Staffing
+Team RIVA will staff positions using qualified resources who have CSP certifications and direct network, storage, computer and management experience of AWS and Microsoft Azure cloud services. Team RIVA’s corporate executives have extensive experience managing cloud based environments and use both AWS and Azure environments currently for several business functions.
+A.6.1 Proposed Level of Employment
+Team RIVA will staff positions as outlined in the BPA Staffing Template
+A.6.2 Plan for Meeting Requirements for Hours of Operation at the Contractor’s Site
+Team RIVA will ensure availability of the of the NESDIS cloud environment and can tailor the availability and response requirements at a Task Order by Task Order basis. Team RIVA will resolve all defects related to existing functionality. Team RIVA will maintain provide and maintain a stable environment and will ensure that all are fully patched, functional, and upgraded according to NOAA’s security and application requirements and in accordance with CSP best practices. Team RIVA staff has experience managing sandbox environments in the cloud and is managing a similar environment for NESDIS currently. Team RIVA has the capacity to and current infrastructure in place to support both business hours and best efforts after hours. In addition, we have CSP experts on staff and at our disposal 24/7 (via escalation channel) to address requests in the following areas:
+
+Support Channels Approach
+Support forums Team RIVA has access to technical forums on AWS, Azure and Google Cloud
+Documentation, white papers, best practice guides Team RIVA follows CSP documentation available on CSP support sites and knowledge bases
+Access to Trusted Advisor Team RIVA will ensure that the CSP Plan includes access to a trusted advisor
+Access to Technical support (official CSP channels) Team Riva has experience in setting up official appropriate support channel and business plan that allows access to a CSP Trusted Advisor.
+Primary case handling Team RIVA has experience with opening CSP cases and the appropriate escalation channels
+Ability to create Technical Support cases Team RIVA will ensure that all Tech support personnel have the appropriate role assigned in the CSP IAM module
+Architecture support Best practice guidance API Support
+Third-party software support Infrastructure event management Management business reviews Team RIVA will ensure that CSP architecture and best practice guides are reviewed and followed by the technical lead on the project. In addition, Team RIVA will have the expertise to support APIs, 3rd party software as well as Infrastructure event mgmt.
+A.6.3 Plan for Meeting Stated Certification Requirements and Demonstrated Fully Trained Staff Team RIVA will staff Cloud BPA with qualified resources that either have extensive on-the-job experience as outlined in the BPA requirements and/or CSP certifications as listed below
+
+Labor Category Certifications/Experience
+Computer Network Architect 3-5 Years of Experience in direct CSP Environments and/or
+• AWS Certified Advanced Networking – Specialty
+• AWS Certified Security – Specialty
+Or as specified in the Task Order Requirements
+ 
+
+Cloud Integration Services Subject Matter Expert 3-5 Years of Experience in direct CSP Environments and/or
+• AWS Certified SysOps Administrator – Associate
+• AWS Certified Solutions Architect – Associate
+• AWS Certified DevOps Engineer – Professional Or as specified in the Task Order Requirements
+Computer Programmer or Equivalent 3-5 Years of Experience in direct CSP Environments and/or
+• AWS Certified Developer – Associate/Professional
+Cloud Integration Services System Programmer or Equivalent 3-5 Years of Experience in direct CSP Environments and/or
+• AWS Certified Developer – Associate/Professional Or as specified in the Task Order Requirements
+Network and Computer Systems Administrators or Equivalent 3-5 Years of Experience in direct CSP Environments and/or
+• AWS Certified Advanced Networking – Specialty
+• AWS Certified Security – Specialty
+Or as specified in the Task Order Requirements
+Cloud Integration Services Hardware/Software Specialist or Equivalent 3-5 Years of Experience in direct CSP Environments and/or
+• AWS Certified Solutions Architect – Associate/Professional
+Web Developer or Equivalent 3-5 Years of Experience in direct CSP Environments and/or
+• AWS Certified Developer – Associate/Professional
+
+
+A.6.4 Provide a Plan for Meeting the Government’s Security Requirements
+Once NOAA adopts a specific environment (either AWS or Azure), we will assist NESDIS to receive or maintain the authority to operate. Team RIVA will develop the following documents using the NOAA OIT recommended templates of security artifacts. The following deliverables will be submitted at least annually or upon significant change to the system, and the details contained in the documents will reflect the actual environment as built:
+• Security Categorization Form (SCF) to be completed with support from the Business Owner/ISSO
+• Privacy Impact Assessment (PIA) Form, which is signed off by the NOAA Director of Privacy
+• E-Authentication Form
+• System Security Plan (SSP)
+• Information System Contingency Plan (ISCP), to include the relevant parts specific to the system being developed/maintained.
+• ISCP Annual Exercise/Test
+Team RIVA will work with the Security Risk and Compliance teams to make sure the environment exceeds the necessary requirement and FISMA moderate standards. As the environment expands and scales, Team RIVA will ensure that the same secure configuration baseline that is derived from a “gold” image that is a known good. For IT System level, we engage the security accreditation team early and often to build security in at the beginning of every effort (when system waivers are not applicable). We recognize the lead times necessary for ATO and we make sure that no external team will ever wait on us to deliver artifacts. During system categorization, we build the necessary documentation to fully define Confidentiality, Integrity, and Availability (CIA) levels of High, Moderate, or Low, and then work with
+ 
+
+the external teams to define controls across the system. During system development we continuously assess, test, and scan those controls to ensure compliance at the appropriate categorization.
+",1
+MEDICAL FACILITY CUSTODIAL SERVICES FOR RAF CROUGHTON,"The Contractor shall provide all management, tools, equipment, transportation and labor necessary to ensure that custodial services are performed at the Medical Facility at RAF Croughton in support of U.S. Visiting Forces located in the United Kingdom. The services to be performed in a manner that will maintain a satisfactory facility condition in a safe and sanitary environment and present a clean, neat and professional appearance. The Contractor is encouraged and expected to use innovative approaches to efficiently and effectively accomplish the requirements of this PWS. All work performed by the Contractor shall be performed in accordance with all applicable laws, regulations, HQ AF standards, instructions, and best commercial practices, and as set forth by United Kingdom law, regulation, and legislation. Supplies and equipment shall meet the required specification and comply with United States Public Health Service standards and or comparable compliance with United Kingdom standards to ensure that the services produce an acceptable quality of cleanliness. Materials and cleaning techniques used when cleaning all floor surfaces shall be in accordance with the manufacturer’s recommendations or commercial/ industrial standards. ",0
+Geodetic,"SDLC & IT Expertise • Application of SDLC with Agile methodology as it best fits NOAA’s unique environment, to develop and deploy applications. 
+• Expert advisor in IT security solutions and planning
+• Commitment to compliance with stringent NOAA IT security standards and policies
+• Understanding of and expertise with FISMA, FIPS, and other security compliance programs and directives
+Help Desk Expertise • Extensive help desk experience providing end-user technical assistance
+• Focus on customer experience and meeting performance-based quality levels
+• Leverage help desk best practices, including Lean Six Sigma, ITSM/ITIL, CMMI, ISO, and PMBOK
+Relevant Past Performance & History Supporting NOAA • 26+ years at NOAA and 15 NOAA contracts, many held for multiple iterations.
+• Understanding of NOAA IT and security environment.
+• History of successful support for NOAA stakeholders
+Qualified and Capable Resources Who Understand the NGS Mission • SMRC HR Director Kirsten Schoenfeld and Recruiter Ms. Meriam Fadli use a phased recruiting approach for vetting our candidates not only for technical skillsets, but also for candidates seeking growth through training and development, to ensure that our personnel are focused on becoming the NOAA workforce of tomorrow.
+• Expert Resources with Advanced Scientific Software Development and System Sills (C++, J2EE, Perl, R, Python, GIS, UI/UX, LINUX/UNIX, Windows and HPC) and Geodetic / Geodesy / Remote Sensing / Mapping Subject Matter Expertise• Security Categorization Form (SCF) to be completed with support from the Business Owner/ISSO
+• Privacy Impact Assessment (PIA) Form, which is signed off by the NOAA Director of Privacy
+• E-Authentication Form
+• System Security Plan (SSP)
+• Information System Contingency Plan (ISCP), to include the relevant parts specific to the system being developed/maintained.
+• ISCP Annual Exercise/Test
+• Plan of Action and Milestones
+",1
+FORT RUCKER GROUNDS MAINTENANCE,"The Contractor shall maintain Improved, Semi-Improved Grounds and Unimproved Grounds
+The Contractor shall provide all personnel, equipment, supplies, facilities, transportation, tools, materials, supervision, quality control, and other items and non-personal services necessary to perform grounds maintenance at Fort Rucker, Alabama and surrounding areas.",0
+Gold,"Cybersecurity Team SMRC will ensure that the NOS IMO environment meets all cybersecurity objectives including Federal Mandates & Department of Commerce (DOC)/NOAA directives with trained and certified information security staff that have experience in similar operational environments.
+Sustain
+/Modernize
+/Transform Team SMRC staff will ensure that our staff has appropriate training/certs and experience to properly manage a broad array of NOS IT services. Our staff will support and implement new technologies while mitigating deployment risks and focusing on continuous improvement and maintaining excellent customer support.
+ITIL Team SMRC will support NOS IT 2020 vision & adoption, Microsoft 365, data center relocation, migration of network contracts to General Services Administration (GSA) Enterprise Infrastructure Solutions (EIS), and potential hyper converged infrastructure while ensuring that ITIL processes and ongoing maturation is not compromised. We will enforce these ITIL processes by leveraging the automation and workflows in existing platforms, such as Jira and chart a path to attain ITIL Maturity Level 3. 
+Risk Register & Risk Mitigation Plans as appropriate;
+ Operational schedules, including a master schedule of IT operations;
+ Opening/closing checklists of work elements;
+ Integrated daily operational calendars showing duty schedules and status of regularly scheduled work, regular audits and maintenance, and schedules of other work, as needed;
+ System artifacts (e.g., service tickets received/resolved, equipment deployed and operational) to demonstrate adherence to the schedules.
+2.1.2 IT Operations Management 2.2.2 Networking, Telecommunications and Storage Administration  2.2.2.1 Networking and Telecommunications Engineering and Operations 2.2.3 System Administration  2.2.3.1 System Administration  2.2.3.3 Microsoft Domain Administration and Engineering  Monitor the domain performance and reliability & manage and monitor domain replication;
+Ensure proper assignment and configuration of operations master roles;
+ Add/remove/upgrade domain controllers as needed;
+ Add new sites to domain as needed;
+ Configure directory service parameters;
+ Manage domain and domain controller security policies;
+ Manage domain users, computers and groups;
+ Attend Enterprise Systems Configuration Committee (ESCC) weekly meetings and present all domain wide changes to ESCC;
+ Ensure server rooms and LAN closets are properly secured, inventory accounted for and all cabling and wiring is properly labeled;
+ Provide Tier 2 and Tier 3 Support for all enterprise services;
+ Install and configure all systems servers including H/W & S/W. Servers supported include: file, print, web, SharePoint, Structured Query Language (SQL) and other enterprise service systems;
+ Travel to or remotely access NOS sites to troubleshoot and repair services;
+ Maintain record of all configuration changes for each system and all updates;
+ Review system performance as request by local IT management and recommend changes in writing;
+ Install, configure, troubleshoot and maintain all network and systems monitoring software (i.e., SCCM, SolarWinds, etc.) and H/W;
+ Establish and use an IT Operations Management Framework;
+ Perform vulnerability scanning using tools such as Nessus and Nipper, and mitigate scans;
+ Potentially provide backup to Storage Engineer and Windows Desktop Configuration Manager.
+Microsoft Domain Administration and Engineering Approach  Monitor the domain performance and reliability & manage and monitor domain replication;
+Ensure proper assignment and configuration of operations master roles;
+ Add/remove/upgrade domain controllers as needed;
+ Add new sites to domain as needed;
+ Configure directory service parameters;
+ Manage domain and domain controller security policies;
+ Manage domain users, computers and groups;
+ Attend Enterprise Systems Configuration Committee (ESCC) weekly meetings and present all domain wide changes to ESCC;
+Ensure server rooms and LAN closets are properly secured, inventory accounted for and all cabling and wiring is properly labeled;
+ Provide Tier 2 and Tier 3 Support for all enterprise services;
+ Install and configure all systems servers including H/W & S/W. Servers supported include: file, print, web, SharePoint, Structured Query Language (SQL) and other enterprise service systems;
+ Travel to or remotely access NOS sites to troubleshoot and repair services;
+ Maintain record of all configuration changes for each system and all updates;
+ Review system performance as request by local IT management and recommend changes in writing;
+ Install, configure, troubleshoot and maintain all network and systems monitoring software (i.e., SCCM, SolarWinds, etc.) and H/W;
+ Establish and use an IT Operations Management Framework;
+ Perform vulnerability scanning using tools such as Nessus and Nipper, and mitigate scans;
+ Potentially provide backup to Storage Engineer and Windows Desktop Configuration Manager.
+Enterprise Windows Desktop Configuration Management  Operating System/Image Deployment;
+ Software Update and Patching;
+ Application Management;
+ Anti-virus/Anti-Malware SW;
+ Encryption Management;
+ Linux/MacOS integration with Windows Active Directory;
+ Development and implementation of secure baselines for MacOS X/Linux;
+ Design, configuration, and maintenance of a Digital video Asset Management System based on MacOS X technology.  Monitor index usage to drop unwanted indexes;
+ Splitting partitions smaller increments (i.e., monthly to weekly);
+ Incremental gathering of database stats;
+ Increase redo log size;
+ Enable Parallelism;
+ Convert Global indexes to Local indexes;
+ Adding resources, CPU & Memory to the database server;
+ Increase System Global Area (SGA) (Shared Memory Space);
+ Optimizing expense on queries;
+ Enable Temporary Tablespace Group Management.
+
+",1
 to008 pifsc,"End user desktop support including software and operating system installation for Non-Windows
 (Linux and Macintosh) systems.
 Test software and Operating System upgrades prior to deployment.
@@ -32,17 +322,135 @@ Restroom services
 Perimeter services 
 Unscheduled cleaning
  Waste removal from buildings and service locations to collection points",0
-to003 imet,"Cyclical replacement of IMET IT systems/components (i.e. moving existing systems/services onto new hardware and/or to new releases of Operating Systems.)
-Patching Systems applications and/or Operating Systems
-Evaluation of requirements (Data flow, OS, etc.) for new and/or developed NWS LMET applications
-Assistance in the development and/or implementation of baseline security requirements for Fire Weather IMET systems.
-Provide helpdesk support for IMET system users
-Documentation and property management assistance of IMET systems
-	Advising NOAA8885 System Owner (SO) & Fire Weather Program managers on IT matters and trends
-Representing SO & Fire Weather Program managers on internal and external teams & committees as necessary.
-Provide general project oversight, coordination and management for each work task.",1
+NUCLEAR SAFETY CROSS CHECK ANALYSIS PERFORMANCE ANALYSIS AND TECHNICAL EVALUATION INDEPENDENT VERIFICATION AND VALIDATION  (NSCCA / PATE / IV&V),"The Department of the Air Force, Air Force Materiel Command, Air Force Nuclear Weapons Center, Intercontinental Ballistic Missile Systems Directorate has a continuing requirement for nuclear safety cross check analysis, performance analysis and technical evaluation, independent verification and validation contract. 
+
+BACKGROUND
+The Minuteman III (MMIII) is a mature weapon system that is in the Operations and Support Phase of its life cycle. As a critical leg in the strategic nuclear triad, the ICBM Weapon System requires continued sustainment of the critical software to ensure operational capabilities are maintained and new war-fighter requirements are implemented and independently certified for operational nuclear surety. The ICBM weapon system software requires updates and independent nuclear certification to provide a supportable and functional weapon system through 2075. The NSCCA/PATE/IV&V contractor independently assesses that nuclear critical software will only perform as intended: There has been no intentional/unintentional sabotage, and will not cause any unintended nuclear consequences.
+
+Based on historical data, the anticipated workload is expected to be approximately 85% NSCCA/PATE and 15% IV&V.
+
+REQUIREMENTS
+Nuclear Safety Cross Check Analysis/Performance Analysis and Technical Evaluation/Independent Verification and Validation
+
+Nuclear critical software evaluations are accomplished through NSCCA and IV&V code review, simulation testing, and deep analysis. Although these evaluations use many similar techniques, they typically have different requirements and, consequently, the analysis and reporting are different. Since NSCCA affects software that is nuclear critical, the contractor needs to consider that a significant majority of the effort under this PWS will be slanted toward NSCCA efforts and that IV&V efforts are subsidiary to NSCCA. IV&V efforts typically involve programs that support nuclear critical software. The analysis under IV&V ensures compliance with requirements levied on the software being studied. PATE efforts, currently not mandated by the Safety Center, are considered in parallel with other analysis. Both NSCCA and IV&V are performed by an organization that is technically, managerially, and financially independent of the developer. The AFSEC/SEW will make the final determination regarding independence requirements.
+
+Nuclear safety design certified software is evaluated according to the Government Certification Requirements Plan (CRP). AFMAN 91-119, Safety Design and Evaluation Criteria for Nuclear Weapon Systems Software, provides criteria for NSCCA evaluation. Requirements for software evaluation can range from full NSCCA to IV&V/NSATE to qualification testing, depending on the relationship to critical functions such as authorization, pre-arming, launching, releasing, arming, and targeting. Requirements for software evaluation can change according to the current Air Force directives. ALL current Air Force nuclear certification requirements must be integrated and followed and are to be followed by the NSCCA contractor as soon as declared in force unless exempted by waiver.
+
+NSCCA and IV&V evaluations will parallel the development lifecycle with incremental deliveries of requirements, design, and code changes from the program and developers as defined at task order level.
+
+Nuclear Surety
+
+The Air Force uses the DoD 3150.02, DoD Nuclear Weapons Surety Program definition for Nuclear Weapons Surety: Policies, procedures, controls, and actions that encompass safety, security, and control measures which ensure there will be no nuclear weapon accidents, incidents, or degradation of weapon effectiveness during its lifecycle. The contractor shall comply with requirements listed in Appendix B: Applicable Compliance/Reference Documents.
+
+The contractor shall support the Government in maintaining its ICBM Nuclear Certification Program IAW requirements detailed in DoD Directive (DoDD) 3150.02, DoD Nuclear Weapon Surety Program, DoD 3150.2-M, DoD Nuclear Weapon System Safety Program Manual, and AFI 63-125, Nuclear Certification Program.
+
+Engineering Services
+
+The contractor shall perform tasks in accordance with separately issued task orders providing engineering, technical, and support services, as specified therein.
+
+Tools Sustainment
+
+The contractor shall maintain and modify Government Furnished Property (GFP) (see Section 5: Property Management) that is provided in support of ICBM NSCCA/PATE IV&V task orders. The objectives of NSCCA/PATE/IV&V tools include accelerating analyses, reducing Government Test Lab needs by the NSCCA/PATE/IV&V contractor, and the ability to confirm anomalies that are difficult to or cannot be replicated in the Government labs.
+
+Program Support
+
+The contractor shall maintain technical, managerial, and financial independence from ICBM Program software developers IAW AFI 91-103. The Air Force Safety Center, Weapons Safety Division (AFSEC/SEW), will make the final determination regarding organizational independency requirements. The contractor shall include the ICBMSD in all communications between contractor and developer as required to maintain awareness of necessary developer interactions.",0
+to009 pmel cg,"o        Work closely with scientists to
+o        Design, create and produce scientific posters and visualizations for use in slides that are presented at scientific conferences and other events.
+o        Create and enhance scientific publication-ready graphics for use in manuscripts, flyers, posters and promotional material for both web-based and print media channels.
+o        Conceptualize the creation of digital media used in PMEL outreach efforts to the public, stakeholders and NOAA management.
+o        Support Communications staff in development of various messaging efforts.
+o        Operate and print large format posters on a poster printer.
+o        Work closely with the PMEL Computer and Network Support Division on technical matters related to poster printing.
+o        Integrate accessible design features (e.g., alternate text, accessible color contrasts) in graphic products.
+o        Coordination of graphics activities. Create graphic materials to illustrate research performed by scientists at NOAA 's Pacific Marine Environmental Laboratory (PMEL).",1
+to010 wcr,".        Shall act as the primary interface for IT support services for WCR end users and follow Information Technology Infrastructure Library (ITIL) best practices in performing regular operational IT functions;
+.        The contractor shall use the automated web-based Call tracking software (presently using SysAid) to log and track all customer calls to completion, and ensure a historical database of calls are retained. Reports of activities shall be produced from this database on a weekly basis as well as produce ad hoc reports as requested by the Task Manager;
+.        Research, evaluate, and provide feedback on trends and patterns on reported incidents;
+.        Develop, institute, and maintain Standard Operating Procedures (SOP) in the areas of incident management, service requests and Application Support services;
+.        Participate in the WCR change control board (CCB) meetings and provide user support impact assessment on proposed system change requests;
+.        Support other WCR project teams during implementation and testing of changes or enhancements to the WCR LAN and applications;
+.        Maintain appropriate telephone calling scripts/messages to ensure that end users are provide relevant, accurate information as quickly as possible;
+.        Provide formal and informal training to end-users on LAN resources such as servers, computers, mobile devices, printers, faxes and copiers;
+.        Support the technology needs of WCR users with off-site/off-campus meetings and conferences;
+.        Install equipment at offices, cubicles and conference rooms, establish and test LAN connectivity;
+.        Uncrate, accept/test, burn-in computers, laptops, mobile devices, printers and other new peripheral equipment upon receipt;
+.        Install and update approved software, firmware and operating systems on end user computers and other devices;
+.        Respond to reports of malware infections on computing devices and support remediation efforts by following established NOAA incident response policy and procedures; .	Assist WCR users in scheduling and monitoring video teleconference calls and support the video equipment during conferences. Additional capabilities including register new endpoints, perform diagnostics support, coordinate complex problems with vendors and internal resources and perform maintenance. Train other support technicians on basic operations;
+.	Provide primary telephone support for calls related to WCR Portland or other WCR Site telephone usage;
+.	Input and maintain Accountable IT Inventory in IT Database Application;",1
 "USACE AEC FY20 SATOC IDIQ NELLIS AFB IN CLARK COUNTY NEVADA
 ","The contractor shall conduct construction activities such as renovation, repairs, earthwork, parking lots, communications, security fencing and alarm systems, security team escorts, electrical replacement, roofing and siding replacement, hangar door repair, and generator replacement , building repairs, roof repairs, civil, communication, mechanical, plumbing, structural, electrical, heating, ventilation, replace doors, air conditioning (HVAC), anti-terrorism and force protection.",0
+DOc,"IT Security Specialist II
+Zhifa Liu (Key)  Programmer Analyst V
+Trey Honeycutt Project Manager I
+Eric Daniels IT/Computer Specialist II
+Jason Hartman System Administrator I
+Catherine Polk Web Designer/Developer II
+Jyothi Sankuri Web Designer/ Developer II
+Kristin Chader-Bostic Web Designer/Developer III
+Krik Yedinak Web Designer/Developer IV
+Jason Decker Help Desk Specialist III
+Deane Lanier Help Desk Specialist III
+Daniel Barton Systems Administrator I
+Support continued use of a Cloud and/or centralized government hosted solution as an alternative to existing in-house supported or stand-alone technologies. Team RIVA currently works with both NWS and NESDIS developing a Cloud Computing Platform that supports various virtualization needs, from Virtual Desktop Imaging (VDI), to cloud migration, managed services, and Cloud Service Provider (CSPs) implementation and transition. NCCOS is currently using Microsoft Azure and is using its services (Infrastructure as a Service (IaaS), PaaS, Software as a Service (SaaS)) in support of NCCOS modernization efforts and we will be establishing a phased approach to cloud transitions minimizes impact to current services and maintains nominal operations state as we roll out more cloud services. 
+
+Team RIVA works with NCCOS to establish a security and identity strategy first. Perform an on-premise system cloud candidate analysis, resources assessment (incumbent staff) and enterprise readiness assessment to establish a system baseline (staff, computing, processing and storage); identify potential services and issues that could impact cloud services (Storage performance, NOAA policies, NOAA network infrastructure, routing, Internet Protocol (IP) network address conflicts, etc.). Develop an optimal cloud design and procedures (subscription and resource management) to migrate and operate cloud services. Establish a project plan (scope, schedule, risks and cost) to migrate to servers/service to the cloud. Establish performance measures to provide progress during migration and beyond. We acknowledge that a primary element of cloud hosted services is architecture. We propose the use of a cloud architect with hands-on experience with Microsoft Azure to assist throughout all phases of this project. 
+
+Benefits: Support of DCOIi, Cloud First initiatives, minimize Operating Expenses (OPEX), maintain an actual and accurate IT cost spending, Leverage new cloud services as the NCCOS Roadmap evolves.
+Support IT solutions and services are capable of sufficient capacity and flexibility to handle unexpected enterprise requirements.
+ Team RIVA’s NOS/ agile approach is structured to support program/ project management, planning, design, implementation, service /network/ security management and monitoring. Our solutions architect and PM works with the NCCOS Task Manager (TM) and key stakeholders to provide design and architectural support. Our team is ITILv3 trained allowing for holistic understanding of the business processes in this requirement. Our approach encourages a robust, reliable, flexible, secure, controlled infrastructure in support of the entire NCCOS architecture and its services. Capacity and Demand management business processes are embedded throughout our core service model. This allows us to proactively monitor services Service Level Agreements (SLAs) and technology, capabilities and capacity (network throughput, storage capacity, performance, and resources) in order to meet current and future demands - to include common shared services. 
+
+Benefit: Maintain services at optimal state, meet customer demand, and Allow access to Team RIVA Operational Dashboards to track Acceptable Quality Levels AQL/SLAs.
+Computational Science & Statistical Modeling The task objective area, (Computation Science) focuses on Compute Model /HPC capability for models and simulations and running parallel models and this objective area is expected to grow significantly in adoption.
+IT Infrastructure, Network and System Support Empower contractor staff to take Cloud relevant training and obtain certifications such as Microsoft MCSA Cloud certifications as well as attend relevant conferences to ensure our staff can leverage modern and innovative approaches to technical challenges
+IT Security Support Conduct IT Security related tasks in a proactive fashion by planning for FedRAMP, A&A activities including Business Impact Analysis (BIA) and leverage the Microsoft Azure Security Center to track security related metrics.
+Desktop and End-User Support Possesses the in-depth knowledge, skills, and experience supporting a customer and IT environment focused on delivering outstanding customer service and progressive IT transformation based on quantifiable metrics, emerging technologies, and best practices. Enable a virtual Service Desk Concept of operations by having anyone at any location with ability to execute any task
+IT Infrastructure, Network and System Is experienced in working collaboratively/seamlessly with enterprise service providers (NOS, NWAVE, etc.) and stakeholders and across geographically dispersed locations to provide cohesive and comprehensive IT support services and solutions
+Applies to all Standardizes and automates services and solutions to strengthen reliability, scalability, consistency, and security; follows and updates proven frameworks, processes, and SOP based on industry standards (e.g., ITIL, PMBOK, Agile, NIST, etc.); helps reduce the IT footprint and leverage enterprise tools and services
+Applies to all Provides a talented and experienced workforce with intimate knowledge of the IT support services environment and enhances their skills through training and professional certifications and foster communication between the team regardless of location.
+",1
+to007 nws opg,"1.2. Objectives: This position is located at the NWSTC in Kansas City, Missouri.  It is established to perform work necessary to plan, design, develop, acquire, document, test, implement, integrate, maintain, or modify information technology systems for solving problems and accomplishing work processes specific to NWSTC and the OPG. 
+ 
+1.3. Scope/High-level Description: Scope of work includes the following major duties and responsibilities: 1.3.1. Serves as technical focal point for AWIPS-2 and administrative site hardware design and configuration as it applies to OPG and NWSTC operations, including component connectivity, configuration, performance, capacity, and evolutionary path 1.3.2. Serves as technical authority on system hardware implementation, including applicable AWIPS and/or other enterprise systems 1.3.3. Leads task forces / teams in advanced systems software/hardware project efforts 1.3.4. Analyzes and evaluates requirements, cost drivers, expansion capabilities, and technology trends, for potential testing and evaluation relevant to future NWS capabilities 1.3.5. Applies available technologies and basic management principles to adapt computer methods to a variety of subject matter situations 1.3.6. Oversees or performs equipment installation, testing and acceptance processes 1.3.7. Responds to, and resolves, problems with software, hardware and systems management 1.3.8. Integrates hardware, software, and/or computer related services to provide an integrated information system, including virtualization processes and cloud computing solutions 1.3.9. Evaluates vendor or employee developed software to assure it provides desired results and operates properly and efficiently on assigned systems in compliance with industry standards 1.3.10. Provides architecture oversight and technical leadership in the areas of virtualization and cloud computing 1.3.11. Supports cloud computing strategy and roadmap development from a mission and technical perspective including identification of potential obstacles and solutions regarding the use of cloud computing in a distributed IT network environment ",1
+National Marine Fisheries Service (NMFS) ,"• Safeguarding cloud credentials
+o Timely rotation of access credentials
+o Leverage multi-factor authentication through VPN connection between NOAA site and Public cloud
+• Restrict users to AWS resources
+o Create different users and groups with different access privileges (policies) using AWS Identity and Access Management (IAM) features to restrict and allow access to specific AWS resources
+o Continuously revisit and monitor IAM user policies
+o Leverage the power of security groups in Amazon EC2
+• Protect data by encrypting it at-rest (AES) and in-transit (SSL)
+o Automate security policies
+• Adopt a recovery strategy
+o Create periodic EBS snapshots and RDS backups.
+o Test backups using automated restore scripts
+Senior Java (Oracle) Developer (Web Programmer IV) Salam Albu Hamzah • 15 years’ experience as Oracle and SQL Server developer for system development and implementation of Oracle 9i, 10g, 11g and SQL Server 2005 and 2008
+• Experience with SQL*Plus, SQL Developer, PL/SQL Developer, Toad and SQL Server Management Studio
+• Experience creating back-end, front-end management systems using PHP, JavaScript, HTML, CSS, XML
+• Oracle PL/SQL Developer Certified Associate March 2012 to Present Oracle 11g SQL Certified July 2011 to Present
+SharePoint Developer (Web Programmer IV) Latonnya Peterson • 8+ years’ experience with SharePoint administration
+• Software: SharePoint 2010, SharePoint 2013, Office 365, JIRA tracking, Windows Server 2008 R2, Windows Server 2012 R2, , SharePoint Designer 2007/2010
+• Manage permissions, enterprise content, security, and governance; Managed Metadata and monitored performance through SharePoint Central Administration
+• Experience utilizing relational databases (Microsoft SQL Server) along with Structured Query Language (SQL) to create and/or maintain queries, routines, stored procedures.
+Mid-Level Oracle Forms/ETL Developer (Web Designer/ Developer III) William T. Sheridan • More than 23 years as Oracle DBA, Developer, and Oracle Forms Developer, 41 years in the IT industry
+• ORACLE: Enterprise Manager, Oracle E-Business Suite, Applications, Financials, HR, Manufacturing, Discoverer, Developer, Designer, Pro*C, SQL, PL/SQL, DBA, SOA, RAC, WebLogic Fusion MiddleWare, WebCenter, Portal, Forms, Reports, ADF, ODI, BI, Erwin, AutoVue, Golden Gate, ETL, RICEW, FNDLOAD, SQL*Loader, DataPump, TOAD, MySQL
+Mid-Level Web Developer (Web Designer/Developer III) Steven Kubrak • Web developer with 22 years of experience in both front-end and back-end applications, and IT management
+• Drupal Developer for NOAA Center for Climate Prediction; ESTful API's from Google Maps API, ESRI, and ARC GIS; GitLab, Google Aps Suite, Drush and JQuery
+• Software/Languages:  HTML 4/5, ColdFusion 9-11/ColdFusion Server, CSS 3, SQL/SQL Server, JavaScript/jQuery, AJAX, Drupal 6-7, PHP, MySQL,MSSQL, ORACLE 9i, Adobe CS5, GIT, Eclipse, Bugzilla, Jira
+Mid-Level Web Developer (Web Designer/Developer III) Samir Kello • 10+ years relevant experience as web developer, content administrator, and web specialist
+• Windows Server, Linux, Mac OS X, Apache, IIS, Azure, AWS, PowerShell, TFS, TCP/IP, DNS, DHCP, RDP, VPN, Active Directory, Subnetting, SCCM, TrendMicro, Google Search Appliance
+Senior Business/ Quality Assurance Analyst (QA Specialist III) Kulvinder B. Kaur • PMP-certified professional with 25+ years of industry experience, 19 years’ focus on Quality Assurance, Systems Analysis and Agile development
+• Knowledge if SDLC, ISO-9001, SEI-CMMI processes.
+• Fault injection, integration, Black Box and White Box, regression, IVR, 508 Compliance, API, REST, WebService and SaaS testing
+Business/Quality Assurance Analyst (QA Specialist III) Mahmood Satter • 8 years’ experience in Quality Assurance, including Automated, Manual, Functional, and Performance testing of Web and Client Server applications on UNIX /Windows environment
+• Experience defining detailed application software test plans, including organization, participants, schedule, test, and application coverage scope.
+• Experience gathering and defining functional and user interface requirements
+Communications Support Analyst (Media Specialist IV) Janeen Said • 21 years’ professional communications experience
+• Program content support, research, analysis, and documentation.
+• Keynote/PowerPoint, Microsoft Office Suite, Adobe Photo Shop, Dreamweaver, SharePoint, CyberRecruiter, Internet Research, SalesForce, Base Camp, Experience in Customer Service, Tier I level IT support (Mac and PC platforms)
+Communications Support Analyst (Media Specialist IV) N. Victoria Ozokwelu • Communications professional with 10+ years in communications (internal/external); writing and editing; public affairs; local political journalism; integrated marketing and outreach
+",1
 DENVER FEDERAL CENTER CUSTODIAL SERVICES,"The General Services Administration, Public Buildings Service, Region 8, Denver Federal Center (GSA) has a requirement for custodial, composting, and pest control services at the Denver Federal Center for buildings 1, 1A, 15, 16, 20, 21, 25, 94, 95, 40, 41, 44, 45, 46, 50, 52, 53, 54, 55, 64, 64A, 710, 710A and Guard Shacks 1-7. 
 
 BACKGROUND
@@ -59,6 +467,152 @@ supplies
 repair parts
 tools and equipment 
 must plan, schedule, coordinate and assure effective, timely performance of all services",0
+AEC AE SERVICES FOR BOILER REPLACEMENET PHOENIX VA HEALTH CARE SYSTEM,"The existing boiler plant at the PVAHCS is outdated and requires improvements to modernize the steam and hot water systems to meet the performance, safety, energy, and redundancy requirements of a modern hospital and VA central office guidance
+Two existing steam boilers are both past their useful life and have experienced numerous failures over the past few years, endangering some of the core services of the hospital. A strategic boiler plant plan, along with many of the corresponding design documents have been developed and represents the first part of this two-part design-build process
+This project will take the existing documents and designs, validate that their requirements and assumptions are accurate, correct any deficiencies, incorporate any changes to the facility that may impact these systems, and design and install an integrated system that meets the objectives of capacity, redundancy, safety, maintainability, and energy efficienc",0
+AEC FY20 P1090 MARINE EXPEDITIONARY FORCE CONSOLIDATED INFORMATION CENTER (P1090),"The Contractor shall:
+
+construct a multi-story consolidated information center and support structures to include a central plant and an Area Distribution Node (A.D.N.) for the communications infrastructure.
+provide a secure and Department of Defense (DOD) accredited facility to accommodate and integrate all aspects of intelligence for I MEF and major subordinate commands.
+include an operations center, administrative offices, and academic instruction classrooms with video-teleconference capability, management and support spaces, a watch floor on raised access flooring, and secure storage spaces for Marine Corps Information and intelligence Battalions.",0
+to001 chps,"1.02 Objectives: The overall objective of this task is to obtain contractor support to supplement the specialized CHPS support â€œhelp
+deskâ€ functions performed by the Hydrology Support Group (HSG) in the Office of Central Processing (OCP) Field Support and
+Infrastructure Team (FSIT). The HSG provides Tier 1 and Tier 2 support for the CHPS operations at RFCs. The contract staff works
+alongside the federal HSG members, and the specific task requirements are provided by the HSG staff. Historically, the full CHPS
+support has been handled by a team consisting of 2-3 federal employees supplemented by (2) contract employees. Significant
+coordination between HSG staff and the RFCs and other support providers within the NWS enterprise is required, using verbal and
+written forms of communication, in order to effectively provide the customer support.
+The contractor provides technical support to ensure the operational performance and integrity of CHPS. This support includes the
+following objectives:
+1) Provide specialized â€œhelp-deskâ€ technical support whereby operational problems, issues, and questions are presented to the
+contractor for resolution. Support will be provided in the form of problem tracking, problem analysis, and ultimately
+problem resolution for CHPS issues (a.k.a. â€œticketsâ€ or â€œcasesâ€) reported by the RFCs. This support can be provided by
+action taken on an RFC computer system, direct communication to RFC staff, or advice and instructions which address the
+reported problem. Communication may include direct phone conversations, e-mail, or software documentation. The â€œhelpdeskâ€
+problem resolution typically involves relatively specific issues reported with CHPS which often require prompt
+attention.
+2) Provide technical support for NWS projects associated with CHPS. This can include projects related to the CHPS software
+system environment, the CHPS hardware configuration, or the hydrometeorologic functions embodied within CHPS. The
+project support typically involves more general needs of the CHPS operations, and generally do not require immediate
+attention. These project outcomes result in more stable, more efficient operation of CHPS at RFCs.
+3) Provide technical guidance (written and verbal), training, and coordination of operational functions in a pro-active manner,
+including monitoring and preventative maintenance of systems executing the CHPS software suite. Collectively, these
+activities result in a support enterprise that promotes a high level of competence for operational readiness, competence, and
+awareness among RFC users of CHPS.
+These objectives comprise part of and are consistent with the formal operating plan goal of the NWS to â€œProvide 24 x 7 support to
+address operational issues related to AWIPS and CHPS hydrologic software at 13 RFCs and 122 WFOsâ€. The end result of the
+completed objectives is the stable and functional operation of the NWS RFC river forecasting services provided by CHPS. This
+operation allows formal NWS products to be issued and NWS services to be provided to the other NWS offices, the public, and the nationâ€™s water resource enterprise. Note that this task does not involve direct support for NWS WFOs (Weather Forecast Office),
+which execute AWIPS, but do execute CHPS.",1
+MEDICAL FACILITY CUSTODIAL SERVICES FOR RAF ALCONBURY,"The Contractor shall provide all management, tools, equipment, transportation and labor necessary to ensure that custodial services are performed at the Medical Facility at RAF Alconbury in support of U.S. Visiting Forces located in the United Kingdom.  The services to be performed in a manner that will maintain a satisfactory facility condition in a safe and sanitary environment and present a clean, neat and professional appearance. The Contractor is encouraged and expected to use innovative approaches to efficiently and effectively accomplish the requirements of this PWS. All work performed by the Contractor shall be performed in accordance with all applicable laws, regulations, HQ AF standards, instructions, and best commercial practices, and as set forth by United Kingdom law, regulation, and legislation.  Supplies and equipment shall meet the required specification and comply with United States Public Health Service standards and or comparable compliance with United Kingdom standards to ensure that the services produce an acceptable quality of cleanliness. Materials and cleaning techniques used when cleaning all floor surfaces shall be in accordance with the manufacturer’s recommendations or commercial/ industrial standards. ",0
+CUSTODIAL SERVICE IN AREA IV SOUTH KOREA,"The Department of the Army has a requirement for custodial service for USAG-Daegu, Camp Carroll, and Busan Area in Area IV, South Korea.
+
+REQUIREMENTS
+This is a non-personal service contract to provide custodial and cleaning services for buildings and family housing quarters located in Camps Henry, George, Walker, SP-47, Carroll, DRMO (A-PO) & Busan area. The Contractor shall perform to the terms and conditions of this contract to complete custodial services provided. This will be an ongoing service that will be provided regularly throughout the period of performance.",0
+"Teaming Partner Ocean Associates, Inc. (OAI) ","• Software and Hardware configuration management
+• Environment Management (Linux and any Virtualized environments, operating system, COTS and security patches)
+• Release documentation 
+• Testing and quality of all baseline software deployed to the field 
+• Linux System Administration
+• Trouble Tickets support
+• Release/Project Management for all the releases deployed to the field: baseline updates; maintenance releases & emergency releases
+• Support Software Development as necessary of existing and new software
+SMRC will follow the AQL methodology for continuously monitoring and periodically • SMRC staff will write documentation according to project requirements. This includes SOPs, requirements documents and other documentation
+• SMRC developers will develop software and create associated configuration files. They will also prepare and submit code and configuration files for internal review and conduct thorough testing and fix all bugs uncovered during testing.
+• SMRC staff will provide support to NWFSC, including the Montlake facility and its five research stations (Mukilteo, Manchester, Hammond, Pasco, and Newport) during beta testing 
+• SMRC staff will reproduce problems experienced at field offices, determine the cause of the problem, and provide a workaround if needed.
+• SMRC staff will provide effective communication to NWFSC as appropriate.
+• SMRC staff will attend technical meetings 
+• SMRC System Administrations provide technical support for Linux Servers.
+Development of Project Plans, sprints, and daily scrums using Confluence Wiki, JIRA, JIRA Agile  Developed Project Plans on NOAA POEMS and used tools like JIRA and Confluence on NOAALink CHPS project for requirements management
+Analysis of existing application prototypes; Evaluated JAVA J2EE Dashboard prototypes as part of the NOAALink AOML Project
+Software requirements analysis via use cases, process flows, function analysis and reporting requirements; Models use cases, process flows and reporting requirements on the NOAALink CHPS project
+Database design (preliminary and detailed) using SQL Developer and Modeler; Database administrators use SQL Modeler and Developer tools on the NOAA CWOW program
+Software development /web design using: Oracle APEX, SQL, Oracle PL/SQL, JavaScript, HTML5, CSS, XML, Python; Web developers use HTML5, CSS, XML and J2EE applications on the NOAALink AOML Project
+Interface to Oracle DBMS Configures interfaces to large scale databases on the NOAA CWOW project
+Software unit testing; Software regression, function, load, data quality assurance, and integration testing; Used JUnit and/or similar tools (Selenium, Solarwinds) for unit testing on the NOAALink AOML Project
+Associated life cycle application document creation and test scripts; Used JUnit and/or similar tools (Selenium, Solarwinds) for unit testing on the NOAALink AOML Project
+Maintain all progress status using JIRA, JIRA Agile and SDM MyTask; Maintains requirements using a cloud-based tool similar to JIRA on the NOAA POEMS contract
+Help desk support for OMI custom applications; Manages help desks for custom applications on NOAALink PMEL, IMET and NOAA CWOW programs
+Perform Linux System Administration duties (as backup to NWFSC Linux System Administrator). Manages large Linux deployments for High Performance Computing (HPC) on the NOAALink GLERL program
+Web Designer/Developer III 
+(APEX) (Position 1)
+
+Web Designer/Developer III 
+(APEX/ ArcGIS) (Position 2)
+
+Web Designer/ Developer III (Java/Script) (Position 6) Modify and/or enhance existing software applications (1.3.1)
+Develop new software applications (1.3.3) 
+Troubleshoot/fix errors occurring in… software applications (1.3.4)
+Adhere to project-specific SW development guidelines (1.3.13) 
+Complete software projects…according to…schedules (1.3.15)
+Participate in status and technical meetings (1.3.17)
+Track all activities in SDM My Task application by Project (1.3.18) a) Dev/Design with Oracle APEX, SQL, Oracle PL/SQL, JavaScript, HTML5, CSS, XML, Python
+b) Analysis of existing application prototypes  
+c) Database design using SQL Developer and Modeler  
+d) Interface to Oracle DBMS 
+e) Maintain progress status using JIRA, JIRA Agile and SDM MyTask  
+Quality Assurance Specialist III (Positions 3 and 8) Capture requirements and business process flows (1.3.2)
+Participate in field evaluations of SW applications (1.3.7) 
+Provide user support for existing and new applications (1.3.8)
+Adhere to DOC/NOAA/NMFS IT policies/ procedures (1.3.12)
+Assure that SW development projects are complete, accurate (1.3.14) 
+Participate in status and technical meetings (1.3.17)
+Track all activities in SDM My Task application by Project (1.3.18) 
+ a) Software unit testing  
+b) Software regression, function, load, data quality assurance, and integration testing 
+c) Associated life cycle application document creation, test scripts 
+d) Maintain progress status using JIRA, JIRA Agile and SDM MyTask 
+e) Help desk support for OMI custom applications  
+
+Programmer Analyst II
+(Position 4)
+ Prepare and deliver software development reviews (1.3.5)
+Prepare system and user requirements (1.3.6)
+Provide user support for existing and new applications (1.3.8)
+Review and create metadata for NWFSC data sets (1.3.9)
+Develop data migration and dissemination routines (1.3.10)
+Complete software projects…according to…schedules (1.3.15)
+Participate in status and technical meetings (1.3.17)
+Track all activities in SDM My Task application by Project (1.3.18) a) Develop Project Plans, sprints, daily scrums using Confluence Wiki, JIRA, JIRA Agile  
+b) SW requirements analysis via use cases, process flows, function analysis, reporting requirements 
+c) Maintain progress status using JIRA, JIRA Agile and SDM MyTask  
+
+System Administrator III
+(Position 5) Provide Linux System Administration (1.3.11)
+Participate in status and technical meetings (1.3.17) a) Help desk support for OMI custom applications 
+b) Perform Linux System Administration duties (as backup to NWFSC Linux  System Administrator)  
+Technical Writer
+(Position 7) Capture requirements and business process flows (1.3.2) 
+Prepare and deliver software development reviews (1.3.5)
+Prepare system and user requirements (1.3.6)
+Review and create metadata for NWFSC data sets (1.3.9)
+Participate in status and technical meetings (1.3.17) a) Associated life cycle application document creation and test scripts  
+
+",1
+to002 isso,"1.3 Objectives:  The scope of information systems security reporting effort is to serve as the Information Systems Security Officer for the Southeast Fisheries Science Center (SEFSC) Information Resource Management department. To serve as the security subject matter expert onsite at SEFSC for senior management, technical staff, and end user needs.  Requirements:  The contractor shall:   ï‚· Keep abreast of Federal, Department of Commerce, NOAA, and NMFS computer security regulations, priorities, and processes and recommends process improvements. ï‚· Leverage NMFS Common and Hybrid Controls, develops and implements the SEFSC comprehensive computer security programs and maintains detailed documentation of system security procedures.  ï‚· Periodically conducts and documents security reviews, performs risk analysis and vulnerability assessments ï‚· In coordination with the NMFS IT Security Program and the Independent Assessor, recommends corrective action as necessary to correct identified security weaknesses.  ï‚· Document progress related security weakness mitigation with Plan of Actions and Milestones (POA&Ms) within the tool(s) as directed by NOAA and NMFS. Ensures that documentation is timely and complete and completed on schedule. ï‚· Serves as system point of contact and coordinates with NMFS and NOAA on all SEFSC IT Security Incidents. ï‚· Support the NOAA required annual security awareness training for all personnel with IT system access 
+ï‚· At the direction of the NMFS IT Security Program, coordinates the quarterly review of core documents including: o Contingency Plan o Privacy Threshold Assessment (PTA) o Privacy Impact Analysis (PIA)  o Risk Assessment (RA) ï‚· Participate in the quarterly Security Assessment Report Briefing with the Independent Assessor. ",1
+USACE AEC DESIGN REPAIR AND RENOVATE EXISTING BUILDING 3448 IN FORT WAINWRIGHT ALASKA,"The selected contractor is required to have sufficient staff, flexibility, and capability to be available on an as-needed basis. Interested firms must be able to provide all management, tools, supplies, parts, materials, equipment, transportation, and trained labor necessary to design, repair and renovate existing building 3448. Design and repair sprinkler and standpipe system. Design and repair exterior features.
+Design and repair HVAC and controls. Option to install insulated metal panels on the exterior of the building. The facility and equipment are permanent construction. The building currently includes functional spaces for a Company Operation Facility (COF) in the basement, unit medical care facility on the first floor, and barracks on the upper three floors. The building occupancy and use will remain as existing.",0
+to005 oar aoml,"1.3 Objectives
+Since all three FMCs (OAR/AOML, OAR/STAR, NESDIS/STAR) have common control and compliance requirements, the goal of this project will be to modify the development and production infrastructure currently in operation at OAR/AOML to accept and process internal management control actions from multiple FMCs (AOML/PMEL/NESDIS).
+The development infrastructure at OAR/AOML will need to implement additional infrastructure in order to scale up development efforts to meet the overall development requirements. The code base will also need to be reviewed to identify new requirements as well as any necessary code refactoring. One of the modules in the system will need to function on mobile devices such as Apple IPAD with the ability to work offline.
+Infrastructure changes
+Implement Automated Testing x Implement Continuous Integration Server
+Code Review & User Requirements
+Work with OAR/AOML staff to create and document system requirements for enhancement approved by FMC management x Work with OAR/AOML staff to implement enhancements based on the priorities approved by FMC management x Review existing and new code for any errors and inefficiencies to include possible system vulnerabilities Review secure code review procedures and provide possible enhancements x Implement mobile based module that has the ability to work offline and data sync once network connection is re-established
+1.03 Scope/High-level Description: The contractor personnel will work with OAR/AOML personnel on-site in Miami. OAR/AOML uses Oracle databases with a customized based JavaEE front end based on the Vaadin framework and Vaadin CDI. It also uses a JasperReports reporting engine. The delivered solutions (computer systems, websites, computer code, etc.) will be a browser-based solution that will not require any type of client installed program (such as java plugin, etc) that will provide all users in their respective office the ability to process their own actions.
+",1
+REPAIR AIR HANDLING UNITS BUILDING 106,"
+The Department of the Air Force, Air Force Research Laboratory, has a requirement for HVAC modernization to repair air handling units in Building 106 in Rome, NY.
+
+REQUIREMENTS
+ 
+
+The contractor shall:
+
+Upgrade air handling systems
+Modify/upgrade electrical systems to accommodate HVAC modifications",0
 to006 glerl,".          Perform System Administration for high performance computing (HPC) platforms.
 
 .          Operating system maintenance and support (Centos, Linux)
@@ -96,115 +650,23 @@ federal security standards.
 .          Monitoring and troubleshooting network performance
 
 ",1
-to007 nws opg,"1.2. Objectives: This position is located at the NWSTC in Kansas City, Missouri.  It is established to perform work necessary to plan, design, develop, acquire, document, test, implement, integrate, maintain, or modify information technology systems for solving problems and accomplishing work processes specific to NWSTC and the OPG. 
- 
-1.3. Scope/High-level Description: Scope of work includes the following major duties and responsibilities: 1.3.1. Serves as technical focal point for AWIPS-2 and administrative site hardware design and configuration as it applies to OPG and NWSTC operations, including component connectivity, configuration, performance, capacity, and evolutionary path 1.3.2. Serves as technical authority on system hardware implementation, including applicable AWIPS and/or other enterprise systems 1.3.3. Leads task forces / teams in advanced systems software/hardware project efforts 1.3.4. Analyzes and evaluates requirements, cost drivers, expansion capabilities, and technology trends, for potential testing and evaluation relevant to future NWS capabilities 1.3.5. Applies available technologies and basic management principles to adapt computer methods to a variety of subject matter situations 1.3.6. Oversees or performs equipment installation, testing and acceptance processes 1.3.7. Responds to, and resolves, problems with software, hardware and systems management 1.3.8. Integrates hardware, software, and/or computer related services to provide an integrated information system, including virtualization processes and cloud computing solutions 1.3.9. Evaluates vendor or employee developed software to assure it provides desired results and operates properly and efficiently on assigned systems in compliance with industry standards 1.3.10. Provides architecture oversight and technical leadership in the areas of virtualization and cloud computing 1.3.11. Supports cloud computing strategy and roadmap development from a mission and technical perspective including identification of potential obstacles and solutions regarding the use of cloud computing in a distributed IT network environment ",1
-USACE AEC APG BUILDING 5103 RENOVATIONS ABERDEEN PROVING GROUND MARYLAND,"The repairs for E5103 is a comprehensive project that will restore the facility quality to Q1/F1 as well as provide labor, equipment and materials to repair the building to current communication center standards. The project scope will include engineering and design services for the repairs. Building components and systems to be repaired include exterior structural and architectural components; interior walls, floors, ceilings, fixtures and finishes; ADA-compliant accessibility features to include a ramp, elevator, and restrooms; failed or failing heating, ventilation, and air conditioning (HVAC) systems; domestic, sanitary, and heating system plumbing; electrical power supply, capacity, distribution, grounding, and emergency backup; interior, exterior, and emergency lighting; telecommunications cabling and wiring; and fire safety systems, including sprinklers, suppression systems, and egress signage. As a communication center building, Building E5103 will require secure and non-secure repairs and upgrades. Also included is the abatement of HAZMAT materials (asbestos) that are prevalent throughout the structure.",0
-AEC AE SERVICES FOR BOILER REPLACEMENET PHOENIX VA HEALTH CARE SYSTEM,"The existing boiler plant at the PVAHCS is outdated and requires improvements to modernize the steam and hot water systems to meet the performance, safety, energy, and redundancy requirements of a modern hospital and VA central office guidance
-Two existing steam boilers are both past their useful life and have experienced numerous failures over the past few years, endangering some of the core services of the hospital. A strategic boiler plant plan, along with many of the corresponding design documents have been developed and represents the first part of this two-part design-build process
-This project will take the existing documents and designs, validate that their requirements and assumptions are accurate, correct any deficiencies, incorporate any changes to the facility that may impact these systems, and design and install an integrated system that meets the objectives of capacity, redundancy, safety, maintainability, and energy efficienc",0
-to004 pmel,"    Provide complete Tier 2 and 3 desktop support to all users.
-     Follow government guidelines to provide systems security and the development of procedures for the use and maintenance of Desktop and Laptop computers, Servers, peripherals, and software.
-       Provide support for the installation, configuration, and maintenance of microcomputer and LAN equipment.
-      Assist with the installation, maintenance, and answer user questions for all PMEL approved software packages.
-    Install and configure Desktop and Laptop computers. This includes the installation of adapters and devices, peripherals,
-scanners, sound, video, printers, and other peripherals. Manage and optimize Desktop systems so users can realize the full potential of the desktop device. PMEL operating systems include, Windows 7, Windows 10, Windows Server 2008,
-Windows Server 2012, Windows Server 2016, Red Hat Linux 6, Red Hat Linux 7, Mac OSX IO.I I, Mac OSX 10.12..        Perfonn scheduled preventative maintenance on workstations, printers and other peripherals as required to ensure maximum operability and uptime.
-    Diagnose and correct problems with Desktop and Laptop computers. Perform hardware diagnostics and isolate hardware problems on Desktop and Laptop computers and peripherals. Perfonn the necessary replacement or repair to correct the hardware problems.
-    Maintain a Standard Operational Procedures Manual containing the installation and configuration procedures, passwords, backup procedures, and contact infonnation (needed when problems occur) for Desktop and Laptop computers, Server hardware and software.
-      Provide software assistance to resolve problems using the software. Interface with software vendors to solve software problems or provide an acceptable work around.
-   Maintain LDAP accounts, including email lists in coordination with the Network Manager and government directives.
-   Assist in the support of a backup system (e.g., tape backup hardware). Ensure that all Server systems are backed up on a daily/weekly basis (according to the latest policy for backing up systems), add/delete systems to be backed up, upgrade the backup software clients, and assist Users with problems and recovery of files from backup when necessary. Provide users with options for backing up Desktop and Laptop computers. Current backup software includes Symantec Backup Exec.
-   Assist in the evaluation and procurement of new hardware and software by reviewing requirements and specifications to insure appropriate hardware acquisition consistent with PMEL and NOAA IT Architecture, best practices and scientific requirements. Provide technical interface with the vendors during the procurement process.
-     Process old system for PMEL Excess. Remove Drives and optical media and remove system from DNS and the PMEL Node Database.
-    Provide system management for Desktop and Laptop workstations. Help with backups/restore requests, patches, upgrades, and security settings on all current systems.
-     Assist in fielding user questions regarding problems with Desktop workstations, and Laptops.
-    PMEL averages 150 Windows users (PC & Mac) and 20 Linux users. Most machines are located at the Western Region Campus WRC in Seattle, WA. A few other machines are located at the Newport, Oregon site. Others are used for teleworking.
-   Maintain an inventory for software program masters, operational firmware, documentation, and developmental system software for assigned hardware and software. A listing of each program by version, revision level, and other information may need to be developed..        Assist in the operation of the network, including LDAP and Active Directory authentication services. Perform network administration, which includes the addition and deletion of users, control access rights, manage services, and monitor the network.
-   Responsible for the configuration and administration of the network management software to include software metering, PC hardware and software inventories, and remote control of networked PC's.
-     Support secure remote connectivity (YPNs).
-      PMEL campus-wide network cabling installation and maintenance..        Support the IP-based VTC system.
-   Provide Audio/Video Support in the Multi-Media Center (MMC) and PMEL Conference Rooms.
-   Maintain VTC/MMC online Calendar..	Provide frontline network printer support.
-Maintain printer supplies and paper.
-Monitor central print queue..	System IT development.
-Science IT research and development.
-Application development.",1
-FORT RUCKER GROUNDS MAINTENANCE,"The Contractor shall maintain Improved, Semi-Improved Grounds and Unimproved Grounds
-The Contractor shall provide all personnel, equipment, supplies, facilities, transportation, tools, materials, supervision, quality control, and other items and non-personal services necessary to perform grounds maintenance at Fort Rucker, Alabama and surrounding areas.",0
-to010 wcr,".        Shall act as the primary interface for IT support services for WCR end users and follow Information Technology Infrastructure Library (ITIL) best practices in performing regular operational IT functions;
-.        The contractor shall use the automated web-based Call tracking software (presently using SysAid) to log and track all customer calls to completion, and ensure a historical database of calls are retained. Reports of activities shall be produced from this database on a weekly basis as well as produce ad hoc reports as requested by the Task Manager;
-.        Research, evaluate, and provide feedback on trends and patterns on reported incidents;
-.        Develop, institute, and maintain Standard Operating Procedures (SOP) in the areas of incident management, service requests and Application Support services;
-.        Participate in the WCR change control board (CCB) meetings and provide user support impact assessment on proposed system change requests;
-.        Support other WCR project teams during implementation and testing of changes or enhancements to the WCR LAN and applications;
-.        Maintain appropriate telephone calling scripts/messages to ensure that end users are provide relevant, accurate information as quickly as possible;
-.        Provide formal and informal training to end-users on LAN resources such as servers, computers, mobile devices, printers, faxes and copiers;
-.        Support the technology needs of WCR users with off-site/off-campus meetings and conferences;
-.        Install equipment at offices, cubicles and conference rooms, establish and test LAN connectivity;
-.        Uncrate, accept/test, burn-in computers, laptops, mobile devices, printers and other new peripheral equipment upon receipt;
-.        Install and update approved software, firmware and operating systems on end user computers and other devices;
-.        Respond to reports of malware infections on computing devices and support remediation efforts by following established NOAA incident response policy and procedures; .	Assist WCR users in scheduling and monitoring video teleconference calls and support the video equipment during conferences. Additional capabilities including register new endpoints, perform diagnostics support, coordinate complex problems with vendors and internal resources and perform maintenance. Train other support technicians on basic operations;
-.	Provide primary telephone support for calls related to WCR Portland or other WCR Site telephone usage;
-.	Input and maintain Accountable IT Inventory in IT Database Application;",1
-to002 isso,"1.3 Objectives:  The scope of information systems security reporting effort is to serve as the Information Systems Security Officer for the Southeast Fisheries Science Center (SEFSC) Information Resource Management department. To serve as the security subject matter expert onsite at SEFSC for senior management, technical staff, and end user needs.  Requirements:  The contractor shall:   ï‚· Keep abreast of Federal, Department of Commerce, NOAA, and NMFS computer security regulations, priorities, and processes and recommends process improvements. ï‚· Leverage NMFS Common and Hybrid Controls, develops and implements the SEFSC comprehensive computer security programs and maintains detailed documentation of system security procedures.  ï‚· Periodically conducts and documents security reviews, performs risk analysis and vulnerability assessments ï‚· In coordination with the NMFS IT Security Program and the Independent Assessor, recommends corrective action as necessary to correct identified security weaknesses.  ï‚· Document progress related security weakness mitigation with Plan of Actions and Milestones (POA&Ms) within the tool(s) as directed by NOAA and NMFS. Ensures that documentation is timely and complete and completed on schedule. ï‚· Serves as system point of contact and coordinates with NMFS and NOAA on all SEFSC IT Security Incidents. ï‚· Support the NOAA required annual security awareness training for all personnel with IT system access 
-ï‚· At the direction of the NMFS IT Security Program, coordinates the quarterly review of core documents including: o Contingency Plan o Privacy Threshold Assessment (PTA) o Privacy Impact Analysis (PIA)  o Risk Assessment (RA) ï‚· Participate in the quarterly Security Assessment Report Briefing with the Independent Assessor. ",1
-to009 pmel cg,"o        Work closely with scientists to
-o        Design, create and produce scientific posters and visualizations for use in slides that are presented at scientific conferences and other events.
-o        Create and enhance scientific publication-ready graphics for use in manuscripts, flyers, posters and promotional material for both web-based and print media channels.
-o        Conceptualize the creation of digital media used in PMEL outreach efforts to the public, stakeholders and NOAA management.
-o        Support Communications staff in development of various messaging efforts.
-o        Operate and print large format posters on a poster printer.
-o        Work closely with the PMEL Computer and Network Support Division on technical matters related to poster printing.
-o        Integrate accessible design features (e.g., alternate text, accessible color contrasts) in graphic products.
-o        Coordination of graphics activities. Create graphic materials to illustrate research performed by scientists at NOAA 's Pacific Marine Environmental Laboratory (PMEL).",1
-CUSTODIAL SERVICE IN AREA IV SOUTH KOREA,"The Department of the Army has a requirement for custodial service for USAG-Daegu, Camp Carroll, and Busan Area in Area IV, South Korea.
+AEC BASE WIDE CHILLER REPLACEMENT,"The Department of the Navy, Naval Facilities Engineering Command, NAVFAC Mid-Atlantic, has a requirement for Base Wide Chiller Replacement. 
 
 REQUIREMENTS
-This is a non-personal service contract to provide custodial and cleaning services for buildings and family housing quarters located in Camps Henry, George, Walker, SP-47, Carroll, DRMO (A-PO) & Busan area. The Contractor shall perform to the terms and conditions of this contract to complete custodial services provided. This will be an ongoing service that will be provided regularly throughout the period of performance.",0
-MEDICAL FACILITY CUSTODIAL SERVICES FOR RAF ALCONBURY,"The Contractor shall provide all management, tools, equipment, transportation and labor necessary to ensure that custodial services are performed at the Medical Facility at RAF Alconbury in support of U.S. Visiting Forces located in the United Kingdom.  The services to be performed in a manner that will maintain a satisfactory facility condition in a safe and sanitary environment and present a clean, neat and professional appearance. The Contractor is encouraged and expected to use innovative approaches to efficiently and effectively accomplish the requirements of this PWS. All work performed by the Contractor shall be performed in accordance with all applicable laws, regulations, HQ AF standards, instructions, and best commercial practices, and as set forth by United Kingdom law, regulation, and legislation.  Supplies and equipment shall meet the required specification and comply with United States Public Health Service standards and or comparable compliance with United Kingdom standards to ensure that the services produce an acceptable quality of cleanliness. Materials and cleaning techniques used when cleaning all floor surfaces shall be in accordance with the manufacturer’s recommendations or commercial/ industrial standards. ",0
-AEC EMIGRANT CREEK INTERAGENCY FIRE BUILDING,"The Department of Agriculture, Forest Service has a requirement for the design and installation of a 14,800 sf building pre-manufactured or similar located at 265 Highway 20 South, Hines, Oregon.
+The Contractor shall replace chillers at the following facilities:
 
-REQUIREMENTS
-The contractor shall perform:
-
-Design and installation of a 14,800 sf building pre-manufactured or similar. This includes site demolition, grading, drainage, utilities, landscaping, and hardscaping",0
-MEDICAL FACILITY CUSTODIAL SERVICES FOR RAF CROUGHTON,"The Contractor shall provide all management, tools, equipment, transportation and labor necessary to ensure that custodial services are performed at the Medical Facility at RAF Croughton in support of U.S. Visiting Forces located in the United Kingdom. The services to be performed in a manner that will maintain a satisfactory facility condition in a safe and sanitary environment and present a clean, neat and professional appearance. The Contractor is encouraged and expected to use innovative approaches to efficiently and effectively accomplish the requirements of this PWS. All work performed by the Contractor shall be performed in accordance with all applicable laws, regulations, HQ AF standards, instructions, and best commercial practices, and as set forth by United Kingdom law, regulation, and legislation. Supplies and equipment shall meet the required specification and comply with United States Public Health Service standards and or comparable compliance with United Kingdom standards to ensure that the services produce an acceptable quality of cleanliness. Materials and cleaning techniques used when cleaning all floor surfaces shall be in accordance with the manufacturer’s recommendations or commercial/ industrial standards. ",0
-to005 oar aoml,"1.3 Objectives
-Since all three FMCs (OAR/AOML, OAR/STAR, NESDIS/STAR) have common control and compliance requirements, the goal of this project will be to modify the development and production infrastructure currently in operation at OAR/AOML to accept and process internal management control actions from multiple FMCs (AOML/PMEL/NESDIS).
-The development infrastructure at OAR/AOML will need to implement additional infrastructure in order to scale up development efforts to meet the overall development requirements. The code base will also need to be reviewed to identify new requirements as well as any necessary code refactoring. One of the modules in the system will need to function on mobile devices such as Apple IPAD with the ability to work offline.
-Infrastructure changes
-Implement Automated Testing x Implement Continuous Integration Server
-Code Review & User Requirements
-Work with OAR/AOML staff to create and document system requirements for enhancement approved by FMC management x Work with OAR/AOML staff to implement enhancements based on the priorities approved by FMC management x Review existing and new code for any errors and inefficiencies to include possible system vulnerabilities Review secure code review procedures and provide possible enhancements x Implement mobile based module that has the ability to work offline and data sync once network connection is re-established
-1.03 Scope/High-level Description: The contractor personnel will work with OAR/AOML personnel on-site in Miami. OAR/AOML uses Oracle databases with a customized based JavaEE front end based on the Vaadin framework and Vaadin CDI. It also uses a JasperReports reporting engine. The delivered solutions (computer systems, websites, computer code, etc.) will be a browser-based solution that will not require any type of client installed program (such as java plugin, etc) that will provide all users in their respective office the ability to process their own actions.
-",1
-to001 chps,"1.02 Objectives: The overall objective of this task is to obtain contractor support to supplement the specialized CHPS support â€œhelp
-deskâ€ functions performed by the Hydrology Support Group (HSG) in the Office of Central Processing (OCP) Field Support and
-Infrastructure Team (FSIT). The HSG provides Tier 1 and Tier 2 support for the CHPS operations at RFCs. The contract staff works
-alongside the federal HSG members, and the specific task requirements are provided by the HSG staff. Historically, the full CHPS
-support has been handled by a team consisting of 2-3 federal employees supplemented by (2) contract employees. Significant
-coordination between HSG staff and the RFCs and other support providers within the NWS enterprise is required, using verbal and
-written forms of communication, in order to effectively provide the customer support.
-The contractor provides technical support to ensure the operational performance and integrity of CHPS. This support includes the
-following objectives:
-1) Provide specialized â€œhelp-deskâ€ technical support whereby operational problems, issues, and questions are presented to the
-contractor for resolution. Support will be provided in the form of problem tracking, problem analysis, and ultimately
-problem resolution for CHPS issues (a.k.a. â€œticketsâ€ or â€œcasesâ€) reported by the RFCs. This support can be provided by
-action taken on an RFC computer system, direct communication to RFC staff, or advice and instructions which address the
-reported problem. Communication may include direct phone conversations, e-mail, or software documentation. The â€œhelpdeskâ€
-problem resolution typically involves relatively specific issues reported with CHPS which often require prompt
-attention.
-2) Provide technical support for NWS projects associated with CHPS. This can include projects related to the CHPS software
-system environment, the CHPS hardware configuration, or the hydrometeorologic functions embodied within CHPS. The
-project support typically involves more general needs of the CHPS operations, and generally do not require immediate
-attention. These project outcomes result in more stable, more efficient operation of CHPS at RFCs.
-3) Provide technical guidance (written and verbal), training, and coordination of operational functions in a pro-active manner,
-including monitoring and preventative maintenance of systems executing the CHPS software suite. Collectively, these
-activities result in a support enterprise that promotes a high level of competence for operational readiness, competence, and
-awareness among RFC users of CHPS.
-These objectives comprise part of and are consistent with the formal operating plan goal of the NWS to â€œProvide 24 x 7 support to
-address operational issues related to AWIPS and CHPS hydrologic software at 13 RFCs and 122 WFOsâ€. The end result of the
-completed objectives is the stable and functional operation of the NWS RFC river forecasting services provided by CHPS. This
-operation allows formal NWS products to be issued and NWS services to be provided to the other NWS offices, the public, and the nationâ€™s water resource enterprise. Note that this task does not involve direct support for NWS WFOs (Weather Forecast Office),
-which execute AWIPS, but do execute CHPS.",1
+Bldg. 309: Current chiller 85 tons, @208v. Replace with 87 ton Scroll.
+Bldg. AS4030: Current chiller 55 tons, @230v Replace with 57 ton Scroll.
+Bldg. HP127: Current chiller 120tons, @460v Replace with 131 ton Scroll.
+Bldg. HP305: Current chillers Units 2 x- 110tons, @460v Replace with 2, 118 ton Scroll.
+Bldg. HP550: Current chiller 80tons, @208v Replace with 87 ton Scroll.
+Bldg. WC140: Current chiller Needs 100tons, @208v Replace with 108ton Scroll.
+Bldg. FC530: Current chiller 65 tons, @208v Replace with 67 ton Scroll.
+Bldg. FC555: Current chiller 65 tons, @208v Replace with 67 ton Scroll.
+Bldg. FC560: Current chiller 65 tons, @208v Replace with 67 ton Scroll.
+Bldg. FC565: Current chiller 65 tons, @208v Replace with 67 ton Scroll.
+Bldg. HP170: Current chiller Units x 2- 120tons, @460v Replace with single 131 ton Scroll.
+Bldg. HP210: Current chiller Units X 3- 110tons, @460v Replace with 2 100 ton Scroll.
+Bldg. HP267: Current chiller Units x 3- 100tons, @460v Replace with 2 100 Scrolls
+Bldg. HP140: Current chiller 250tons, @460v Replace with 2 100 ton scrolls
+Bldg. HP56: Current chiller 120tons, @460v Replace with 118 ton Scroll",0
