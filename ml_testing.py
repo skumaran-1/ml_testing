@@ -136,7 +136,7 @@ def build_dataset(words, n_words):
     reversed_dictionary = dict(zip(dictionary.values(), dictionary.keys()))
     return data, count, dictionary, reversed_dictionary
 
-vocabulary_size = 50000
+vocabulary_size = 100000
 
 real = [item for sublist in pre for item in sublist]
 
@@ -144,7 +144,6 @@ data, count, dictionary, reverse_dictionary = build_dataset(real, vocabulary_siz
 
 print('Most common words (+UNK)', count[:5])
 print('Sample data', data[:10], [reverse_dictionary[i] for i in data[:10]])
-
 
 ####
 
@@ -161,6 +160,9 @@ for list in pre:
             sentence.append(word)
     finalWordsNumberList.append(sentence)
 
+# this def is for a custom word2vec layer that we never used bc we found out keras took care of it for us
+#def random():
+    # something
 '''
 data_index = 0
 # generate batch data
@@ -247,6 +249,7 @@ with graph.as_default():
 
   # Compute the cosine similarity between minibatch examples and all embeddings.
   norm = tf.sqrt(tf.reduce_sum(tf.square(embeddings), 1, keep_dims=True))
+
   normalized_embeddings = embeddings / norm
   valid_embeddings = tf.nn.embedding_lookup(
       normalized_embeddings, valid_dataset)
@@ -299,6 +302,8 @@ with tf.Session(graph=graph) as session:
         print(log_str)
   final_embeddings = normalized_embeddings.eval()
   print(final_embeddings)
+  print(final_embeddings[0])
+  print(len(final_embeddings))
     ####
     # word embbeded layer
     ####
@@ -330,11 +335,8 @@ try:
 
 except ImportError:
   print('Please install sklearn, matplotlib, and scipy to show embeddings.')
-
 '''
-
 finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsNumberList, value=0, padding='post', maxlen=128)
-
 
 model = tf.keras.Sequential()
 model.add(tf.keras.layers.Embedding(10000, 16))
