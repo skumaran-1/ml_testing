@@ -4,9 +4,18 @@ import pandas as pd                                 #for data manipulation and a
 from bs4 import BeautifulSoup
 import re, contractions, nltk, unicodedata, inflect, collections, random, math
 from nltk.corpus import stopwords
+# import for multi layers for the model
 from tensorflow.python.keras.layers import Dense, Dropout, Activation, Embedding, Conv1D, GlobalMaxPooling1D, LSTM, MaxPooling1D
 
+# pandas cvs
 df = pd.read_csv(r'ITMO_raw_data.csv')
+
+################################################
+
+# all these function will strip raw text and turn them into
+# useful things
+# there are other things that do this but this was easiest
+# and for our purpose this was the best
 
 def strip_html(text):
     soup = BeautifulSoup(text, "html.parser")
@@ -99,12 +108,17 @@ def stem(words):
     stems = stem_words(words)
     return stems
 
+# end of functions
+#################################################
+
 lenOfdf = len(df.index)
 
 pre = []
 
 pol = []
 
+# change all the raw text into useful stuff and store them in pre and pol
+# runtime: O(n)
 for i in range(lenOfdf):
     text = df['Contract description'].iloc[i]
     polarity = df['Polarity'].iloc[i]
@@ -117,6 +131,12 @@ for i in range(lenOfdf):
 
 pol = df['Polarity'].to_numpy().tolist()
 
+# this will build the data set into 4 things
+# data, count, dictionary, reversed_dictionary
+# data will be the raw data
+# count will be counters
+# dictionary is the thing we care about most
+# reverse_dictionary is reverse_dictionary
 def build_dataset(words, n_words):
     """Process raw inputs into a dataset."""
     count = [['UNK', -1]]
@@ -137,14 +157,14 @@ def build_dataset(words, n_words):
     reversed_dictionary = dict(zip(dictionary.values(), dictionary.keys()))
     return data, count, dictionary, reversed_dictionary
 
-vocabulary_size = 100000
+vocabulary_size = 10000
 
 #print(pre)
-
+# takes each sen in pre and flattens
 real = [item for sublist in pre for item in sublist]
 
 #print(real)
-
+#builds based on the flat
 data, count, dictionary, reverse_dictionary = build_dataset(real, vocabulary_size)
 
 #print('Most common words (+UNK)', count[:5])
@@ -152,7 +172,7 @@ data, count, dictionary, reverse_dictionary = build_dataset(real, vocabulary_siz
 #print('data len =', len(data))
 
 ####
-
+# turn words into numbers and gets the ultimate dataset
 finalWordsNumberList = []
 for list in pre:
     sentence = []
@@ -165,6 +185,10 @@ for list in pre:
             word = 0
             sentence.append(word)
     finalWordsNumberList.append(sentence)
+
+################################################################################
+# this is the end of the pre process
+################################################################################
 
 #rint('finalWordsNumberList =', finalWordsNumberList)
 #print('finalWordsNumberList index 0 =', finalWordsNumberList[0])
@@ -350,6 +374,12 @@ def random():
     '''
     return 1
 
+################################################################################
+# this is the start the model itself
+################################################################################
+
+################################################################################
+# start of the custom word embedding layer
 EMBED_SIZE = 256
 VOCAB_LEN = len(dictionary.keys())
 
@@ -366,14 +396,24 @@ def getList(dict):
 words_ids = tf.constant(getList(reverse_dictionary))
 
 embeddings = tf.keras.layers.Embedding(VOCAB_LEN, EMBED_SIZE)
+# this is the embedding layer that is matched to our dimensions for our vocab set
 
 finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsNumberList, value=0, padding='post', maxlen=256)
+# this pads the finalWordsNumberList sentences so that they are all the same length
+# adding 0s after will allow it to fit in the model
 
+#end of custom word embedding
+################################################################################
+
+# this is the real model
 model = tf.keras.Sequential()
 #model.add(tf.keras.layers.Embedding(10000, 16))
 model.add(embeddings)
 
 ################ option 1
+# this was the base option we got and used at the begining
+# after the model was done and shows some progress
+# we upgraded to option 3
 '''
 model.add(tf.keras.layers.GlobalAveragePooling1D())
 model.add(tf.keras.layers.Dense(16, activation=tf.nn.relu))
@@ -384,8 +424,10 @@ filters = 64
 kernel_size = 5
 pool_size = 4
 lstm_output_size = 70
-
+# multi layer model
+# dropout
 model.add(Dropout(0.25))
+# convo layer that helped
 model.add(Conv1D(filters,
                  kernel_size,
                  padding='valid',
@@ -393,16 +435,21 @@ model.add(Conv1D(filters,
                  strides=1))
 model.add(MaxPooling1D(pool_size=pool_size))
 model.add(LSTM(lstm_output_size))
+# might change to 16 we'll see
 model.add(Dense(1))
 model.add(Activation('sigmoid'))
 
-############## option 4
+# end model build
+################################################################################
 
 model.summary()
 
 model.compile(optimizer='adam',
               loss='binary_crossentropy',
               metrics=['acc'])
+
+################################################################################
+# data splitting/fitting/training/ and evaluating
 
 x_val = finalWordsNumberList[:5]
 partial_x_train = finalWordsNumberList[5:25]
@@ -424,11 +471,20 @@ results = model.evaluate(test_data, test_labels)
 
 print(results)
 
+
+###
+# this is where the real data predict would go
+###
 #result = model.predict(finalWordsNumberList)
 
 #print(result)
 
+################################################################################
+# end model building
+################################################################################
 
+# graph evaluation for us to adjust models which we commented out
+'''
 history_dict = history.history
 history_dict.keys()
 
@@ -464,3 +520,4 @@ plt.ylabel('Accuracy')
 plt.legend()
 
 plt.show()
+'''
