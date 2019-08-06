@@ -4,6 +4,7 @@ import pandas as pd                                 #for data manipulation and a
 from bs4 import BeautifulSoup
 import re, contractions, nltk, unicodedata, inflect, collections, random, math
 from nltk.corpus import stopwords
+from tensorflow.python.keras.layers import Dense, Dropout, Activation, Embedding, Conv1D, GlobalMaxPooling1D, LSTM, MaxPooling1D
 
 df = pd.read_csv(r'ITMO_raw_data.csv')
 
@@ -371,9 +372,31 @@ finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsN
 model = tf.keras.Sequential()
 #model.add(tf.keras.layers.Embedding(10000, 16))
 model.add(embeddings)
+
+################ option 1
+'''
 model.add(tf.keras.layers.GlobalAveragePooling1D())
 model.add(tf.keras.layers.Dense(16, activation=tf.nn.relu))
 model.add(tf.keras.layers.Dense(1, activation=tf.nn.sigmoid))
+'''
+############### option 3
+filters = 64
+kernel_size = 5
+pool_size = 4
+lstm_output_size = 70
+
+model.add(Dropout(0.25))
+model.add(Conv1D(filters,
+                 kernel_size,
+                 padding='valid',
+                 activation='relu',
+                 strides=1))
+model.add(MaxPooling1D(pool_size=pool_size))
+model.add(LSTM(lstm_output_size))
+model.add(Dense(1))
+model.add(Activation('sigmoid'))
+
+############## option 4
 
 model.summary()
 
@@ -393,7 +416,7 @@ test_labels = pol[25:]
 history = model.fit(partial_x_train,
                     partial_y_train,
                     epochs=40,
-                    batch_size=512,
+                    batch_size=516,
                     validation_data=(x_val, y_val),
                     verbose=2)
 
@@ -406,7 +429,6 @@ print(results)
 #print(result)
 
 
-'''
 history_dict = history.history
 history_dict.keys()
 
@@ -442,4 +464,3 @@ plt.ylabel('Accuracy')
 plt.legend()
 
 plt.show()
-'''
