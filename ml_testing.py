@@ -521,3 +521,10 @@ plt.legend()
 
 plt.show()
 '''
+
+################################################################################
+# atfer this will be to save and export the model
+################################################################################
+model.save("ITOM_model")
+
+# model = load_model("ITOM_model")
