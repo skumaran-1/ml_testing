@@ -1,0 +1,1449 @@
+tm_govsuite__deal_summary__c,tm_govsuite__contacts__c,tm_govsuite__fetched_documents__c,tm_govsuite__primary_naics_id__c,tm_govsuite__related_articles__c,tm_govsuite__govwin_old_opportunity_id__c,tm_govsuite__procurement__c,tm_govsuite__remaining_documents__c,tm_govsuite__fbo_notices__c,tm_govsuite__capture_plan_status__c,tm_govsuite__pursue_recommendation_status__c,tm_govsuite__workshare__c,tm_govsuite__account__c,tm_govsuite__total_budget_actual__c,tm_govsuite__solicitation_date__c,recordtypeid,tm_govsuite__gov_entity_title__c,tm_govsuite__source_url__c,tm_govsuite__expense_cost_estimate_calculated__c,tm_govsuite__solicitation_date_deltekestimate__c,tm_govsuite__our_role__c,tm_govsuite__total_related_documents__c,tm_govsuite__govwincompetition_type__c,tm_govsuite__is_clone__c,tm_govsuite__govwintype__c,name,tm_govsuite__solicitation_number__c,sca_yes_or_no__c,tm_govsuite__contract_type__c,tm_govsuite__gov_entity_id__c,tm_govsuite__naics_text__c,tm_govsuite__iqopportunityid__c,tm_govsuite__award_date_deltekestimate__c,tm_govsuite__closedate__c,tm_govsuite__primary_requirement__c,lastmodifieddate,opportunity_modified__c,tm_govsuite__primary_naics_size_standard__c,ownerid,tm_govsuite__opportunity_value__c,tm_govsuite__priority__c,tm_govsuite__related_documents__c,tm_govsuite__update_date__c,isdeleted,tm_govsuite__milestones__c,systemmodstamp,tm_govsuite__acronym__c,lastmodifiedbyid,tm_govsuite__award_date_value__c,tm_govsuite__primary_naics_title__c,tm_govsuite__contracts__c,tm_govsuite__submission_date__c,lpta__c,tm_govsuite__place_of_performance__c,tm_govsuite__govwinstatus__c,tm_govsuite__solicitationdate_value__c,tm_govsuite__contract_vehicle__c,tm_govsuite__category__c,tm_govsuite__stage__c,tm_govsuite__govwin_iq_opportunity_url__c,createddate,tm_govsuite__description__c,tm_govsuite__places_of_performance__c,tm_govsuite__companies__c,tm_govsuite__type__c,tm_govsuite__type_of_award__c,tm_govsuite__attachment_status_iq__c,createdbyid,tm_govsuite__pop_zip_code__c,tm_govsuite__amount__c,tm_govsuite__title__c,tm_govsuite__govwin_opportunity_id__c,lastreferenceddate,tm_govsuite__resource_management_lock__c,tm_govsuite__web_href__c,tm_govsuite__task_order_number__c,tm_govsuite__duration__c,tm_govsuite__internal_status__c,tm_govsuite__contract_vehicles__c,tm_govsuite__gov_entity__c,tm_govsuite__delivery__c,sfid,id,_hc_lastop,_hc_err,tm_govsuite__external_analysis_description__c,tm_govsuite__opportunity_analysis_description__c,tm_govsuite__internal_analysis_description__c
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP110462/contacts,10,541513,https://services.govwin.com/neo-ws/opportunities/OPP110462/relatedArticles,OPP110462,"A redacted version of GAO&#39;s December 18, 2018 denial of OST&#39;s protest was released February 15, 2018. A copy is available in the Resources&gt;Related Documents section of this report. OST protested the evaluation of its proposal as well as the best value tradeoff that resulted in award to Attain, LLC.",17-Oct,https://services.govwin.com/neo-ws/opportunities/OPP110462/fboNotices,red,red,,0014P000026SpIAQA0,0,3/17/2017,0124P000000rFYAQA2,NATIONAL ENERGY TECHNOLOGY LABORATORY,https://www.fbo.gov/?s=opportunity&mode=form&tab=core&id=2c841a28fb405b069a0aa1f40cb7b6ab,0,FALSE,,17,Small Bus Set-Aside,FALSE,trackedopp,INFORMATION TECHNOLOGY SUPPORT SERVICES (ITSS),DESOL0010408,No,Firm Fixed Price;Task Order;Cost Plus Award Fee,26155,,110462,FALSE,9/13/2017,Information Technology,8/7/2019 15:21,TRUE,$27.5 million annual receipts,0054P000009CjeAQAS,36937000,,https://services.govwin.com/neo-ws/opportunities/OPP110462/relatedDocuments,2/15/2018 20:11,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP110462/milestones,8/7/2019 15:21,ITSS,0054P000009CjeAQAS,9/13/2017,Computer Facilities Management Services,https://services.govwin.com/neo-ws/opportunities/OPP110462/contracts,,,"Oregon, United States;Pittsburgh, Pennsylvania, United States;Morgantown, West Virginia, United States",Awarded,3/17/2017,CHIEF INFORMATION OFFICER SOLUTIONS AND PARTNERS 3 SMALL BUSINESS,,Gate 2 - Pursuit,,8/5/2019 13:23,"Attain, LLC is fulfilling the US Department of Energy, National Energy Technology Laboratory (NETL) continuing requirement for logistics &amp; administrative support for IT activities, project management, software license &amp; maintenance management, cybersecurity planning, and enterprise architecture support. 
+
+ BACKGROUND 
+
+ The National Energy Technology Laboratory is a multi-purpose national laboratory, owned and operated by the U.S. Department of Energy (DOE). The NETL implements research and development (R&amp;D) programs to advance energy and energy-related environmental technology and focuses on finding tools and processes that simultaneously address the three overarching issues that characterize today&#39;s energy situation in the United States: energy affordability, supply security, and environmental quality. 
+
+ NETL has three research laboratories that span the Nation. Laboratories in Pittsburgh, Pa., and Morgantown, W.Va., conduct a broad range of research and development (R&amp;D) to increase the supply of traditional energy resources, improve the efficiency and environmental performance of thermoelectric power generation, and help end-users to conserve energy. Researchers at the NETL laboratory in Albany, Ore., focus on developing advanced materials for use in the energy industry. NETL also has small offices in Tulsa, Oklahoma and Fairbanks, Alaska, that address challenges unique to those energy-rich regions. All five locations support DOE&#39;s mission to advance the national, economic, and energy security of the United States. 
+ 
+As the only national laboratory owned and operated by DOE, NETL is unique in how it conducts business and in the relationships it forms with industry, academia, research organizations, and other national laboratories. The laboratory conducts cutting-edge R&amp;D on site. About one quarter of NETL&#39;s 1,200 Federal and contractor employees are engaged in research with industry, government, and academic partners to solve problems that would otherwise become barriers to commercializing advanced power systems, fuels, and environmental and waste-management technologies. NETL obtains basic and fundamental research through collaboration with universities and through its competitively selected site support contracts; this work supplements the applied research performed by NETL&#39;s Federal scientist and engineers. 
+ 
+In addition NETL applies its extensive technology- and project management capabilities to shape, fund, and manage research conducted throughout the United States and in more than 40 foreign countries. The laboratory&#39;s research portfolio includes more than 1,300 projects, with a total award value of nearly $11 billion and private sector cost sharing of nearly $6 billion. To secure these projects, NETL uses a variety of contracting arrangements with corporations, small businesses, universities, non-profit organizations, and other national laboratories and government agencies. 
+ 
+NETL also provides strategic information and analysis to the policymakers responsible for providing direction and funds to ensure that America has a continuing supply of clean, affordable energy. NETL provides (1) expert scientific and engineering analysis of technology options, developmental pathways, energy scenarios, and technical advancements; (2) programmatic and socio-economic impact analysis and benefits appraisals; (3) expert simulation and modeling using state-of-the-art systems; and (4) analysis of energy systems infrastructure inter dependencies, including policy implications. 
+ 
+NETL funds nearly 500 R&amp;D projects at U.S. universities to advance energy science and technology and to provide a trained workforce for the energy industry of the future. NETL&#39;s outreach efforts also include a speakers&#39; bureau, visiting professor program, Adopt-a-School program, high school science bowls, in-school demonstrations, computer donations to area schools, job shadowing for high school students, and other initiatives that encourage careers in science and engineering. NETL expects the same level of educational support from its contractors and looks for organization that meet or exceed those expectations by forming partnerships and teaming with universities. 
+ 
+NETL&#39;s organization structure comprises seven areas of interest: 
+Strategic Center for Natural Gas and Oil 
+Strategic Center for Coal 
+Office of Systems, Analysis and Planning 
+Project Management Center 
+Office of Research and Development 
+Office of Institutional and Business Operations 
+The Office of Crosscutting Functions 
+
+ REQUIREMENTS 
+
+ 
+	 A key objective is to acquire the ability to be responsive to new information technology (IT) requirements and to quickly respond to the ever-changing requirements of the complex IT environment 
+	 In support of this objective, the following activities will be performed or products delivered:
+	 
+		 Technology focused feasibility studies 
+		 Process re-engineering 
+		 Business analysis 
+		 Systems analysis 
+		 System design 
+		 Enterprise architecture 
+		 Software development at increasingly higher levels of the Software Engineering Institute/Capability Maturity Model 
+		 Preparation of technical specifications related to acquisition of hardware and software 
+		 Deployment of complex rapidly developing new technologies into the existing IT environment 
+		 Risk assessments 
+		 Electronic data interchange 
+		 Electronic commerce and E-Government 
+		 Knowledge management 
+		 Infusion of new cyber security technologies 
+	 
+	 
+	 Another important objective is to support the day-to-day operations of NETL computer facilities and other computing resources and to achieve 100 percent availability of these resources to the user community 
+ 
+
+ FORECAST REQUIREMENTS 
+
+ 
+	 Core IT services would include:
+	 
+		 Cyber security 
+		 ITD governance 
+		 Internet and intranet 
+		 Information housing and hosting 
+		 Networks 
+		 Telecommunications meeting room support 
+		 Helpdesk and other crosscutting IT maintenance 
+	 
+	 
+ 
+
+ It is expected that CMMI Level-SVC Level III or higher procedures, policies, and knowledge is required to be followed in support of this requirement.",https://services.govwin.com/neo-ws/opportunities/OPP110462/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP110462/companies,,Task / Delivery Order,All attachments are available,0054P000009CjeAQAS,,36937000,INFORMATION TECHNOLOGY SUPPORT SERVICES (ITSS),OPP110462,8/7/2019 15:21,FALSE,https://iq.govwin.com/neo/opportunity/view/110462,,3 year(s) base plus 2 x 1 year(s) option(s) null,,https://services.govwin.com/neo-ws/opportunities/OPP110462/contractVehicles,https://services.govwin.com/neo-ws/govEntities/26155,,a0S4P000007UPzMUAW,484,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP110469/contacts,8,541512,https://services.govwin.com/neo-ws/opportunities/OPP110469/relatedArticles,OPP110469,"Protest # B-416377.4 filed by IntelliDyne, LLC was Denied on April 18, 2019. No additional Protests have been filed to date. Deltek contacted the Contracting Office to inquire about the status of the source selection process and to see if there is an approximate time frame for the remaining awards to be made.",8-Aug,https://services.govwin.com/neo-ws/opportunities/OPP110469/fboNotices,red,red,,0014P000026SpqvQAC,0,2/22/2017,0124P000000rFYAQA2,JUSTICE MANAGEMENT DIVISION,https://www.fbo.gov/?s=opportunity&mode=form&tab=core&id=bce5072a20a3e3e3a6c01fed31a0c537&_cview=1,0,FALSE,,8,Full and Open / Unrestricted;Service Disabled Veteran Owned Small Business,FALSE,trackedopp,INFORMATION TECHNOLOGY SUPPORT SERVICES 5 (ITSS-5),DJJP17RFP1022,No,Indefinite Delivery Indefinite Quantity,25378,,110469,TRUE,6/27/2019,Information Technology,8/7/2019 18:48,TRUE,$27.5 million annual receipts,0054P000009CjeAQAS,1400000000,,https://services.govwin.com/neo-ws/opportunities/OPP110469/relatedDocuments,5/13/2019 16:22,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP110469/milestones,8/7/2019 18:48,ITSS-5,0054P000009CjeAQAS,6/27/2019,Computer Systems Design Services,https://services.govwin.com/neo-ws/opportunities/OPP110469/contracts,,,"Washington County, District Of Columbia, United States",Partial Award,2/22/2017,,,Gate 5 - Proposal Submittal,,8/7/2019 18:45,"The U.S. Department of Justice (DOJ), Justice Management Division has a continuing requirement for a wide range of Information Technology Support Services (ITSS) across the entire systems development life cycle. 
+
+ BACKGROUND 
+
+ This requirement is referred to as &quot;Information Technology Support Services&quot; or ITSS. Each successive generation of awarded contract has added a numerical value to identify its generation: 
+
+ 
+	 
+	 This requirement is referred to as ITSS-5 
+	 
+	 
+	 The contracts awarded in 2011 are referred to as ITSS IV or ITSS-4 
+	 
+	 
+	 The contracts awarded in 2004 were referred to as ITSS III or ITSS-3 
+	 
+	 
+	 The contracts awarded in 1999 were referred to as ITSS II or ITSS-2 
+	 
+	 
+	 The original contracts, awarded in 1996 were referred to as ITSS 
+	 
+ 
+
+ Most Department of Justice (DOJ) organizations have their own small staff of computer specialists, systems analysts, and programmers to provide information technology (IT) support services. Nevertheless, they do not maintain a sufficient staff of personnel to meet the anticipated demand for systems development and other IT support services. Nor do they maintain technical expertise in the multiplicity of equipment, operating systems, languages and applications currently in use, planned or potentially applicable within the Department. 
+ 
+When DOJ organizations cannot fulfill their requirements using in-house staff, they often need contractor support quickly. Realizing this need, the Department decided to establish a set of contracts to provide software development and other IT-related services to Department components. 
+ 
+Since its inception, the Department has required that the contractors under the ITSS program compete for the work at the task order level. Competition at the task order level has proven cost-effective, and has yielded significant savings. It has enabled the Government to obtain high-quality technical expertise at a reasonable cost. 
+ 
+The ITSS contracts are available for use on a voluntary basis. 
+ 
+Fee-for-Service. This IDIQ Multiple Award Contract vehicle may be utilized by any DOJ component (e.g. Office, Bureau, or Division) on a fee-for-service basis. The DOJ Office of the Chief Information Officer (CIO) will coordinate with the COTR to create the specific fee-for-service schedule for the program and establish Intra-agency Agreements as necessary to transfer and/or reimburse funds to DOJ to compete, award, and oversee the work plan requests and resulting task orders. The fee-for-service schedule established at the onset of this contract may change from time-to-time as determined by the Office of the CIO, but not more than once per fiscal year. The unit prices contained in this contract do not include any kind of industrial funding fee or similar charging factor. 
+ 
+Non-DOJ Federal agencies have used the ITSS program to avoid the administrative costs of creating and managing their own Task Order services program. For non-DOJ agencies, the requesting agency is required to certify that it has met its own internal agency review requirements and that it has decided to use the DOJ contracts. 
+ 
+The contracts may be used to fulfill a wide range of requirements in any of the Systems Development Life Cycle (SDLC) areas. While the variety and scope of services that will be required is known, the specific tasks to be ordered over the coming years, and their distribution across the SDLC, are not clear. The continuing emergence and rapid adoption of new technologies by Government agencies strongly suggest that the very nature of IT support services tasks will not necessarily resemble that of prior years. Large-scale systems integration acquisitions, new applications within DOJ component organizations, and the integration of and modifications to current systems will have significant impacts on future development efforts in DOJ agencies. 
+ 
+The Department anticipates that the ITSS contracts will be used to provide IT services that: 
+
+ 
+	 Go beyond sustaining and expanding use of current hardware, operating systems and software 
+	 Increase business effectiveness and automation through the effective use and adoption of systems by leveraging new technologies and applications, best practices, and software 
+	 Create new applications and introduce new technologies as they emerge 
+	 Give expert assistance in configuring and managing computer hardware, software and networks, in training users, and in improving systems and network security 
+	 Facilitate business change and flexibility by architecting, designing, and developing solutions that enable the rapid realization of new or changed requirements 
+	 Protect the business by ensuring that systems, applications, and practices are secure 
+	 Measure and continually improve customer service and satisfaction 
+ 
+
+ REQUIREMENTS 
+
+ The ITSS-5 contracts may be used to fulfill a wide range of requirements in any of the Systems Development Life Cycle (SDLC) areas. While the variety and scope of services that will be required is known, the specific tasks to be ordered over the coming years, and their distribution across the SDLC, are not clear. 
+
+ The continuing emergence and rapid adoption of new technologies by Government agencies strongly suggest that the very nature of IT support services tasks will not necessarily resemble that of prior years. Large-scale systems integration acquisitions, new applications within DOJ component organizations, and the integration of and modifications to current systems will have significant impacts on future development efforts in DOJ agencies. 
+
+ The Department anticipates that the ITSS contracts will be used to provide IT services that: 
+
+ 
+	 Go beyond sustaining and expanding use of current hardware, operating systems and software. 
+	 Increase business effectiveness and automation through the effective use and adoption of systems by leveraging new technologies and applications, best practices, and software. 
+	 Create new applications and introduce new technologies as they emerge. 
+	 Give expert assistance in configuring and managing computer hardware, software and networks, in training users, and in improving systems and network security. 
+	 Facilitate business change and flexibility by architecting, designing, and developing solutions that enable the rapid realization of new or changed requirements. 
+	 Protect the business by ensuring that systems, applications, and practices are secure. 
+	 Measure and continually improve customer service and satisfaction. 
+ 
+
+ Functional Areas 
+
+ 
+	 Design, Develop, Test, Deploy 
+	 IT Operations and Maintenance Support 
+	 Help Desk Support 
+	 IT Security 
+	 IT Program Management 
+	 IT Planning and Enterprise Architecture Support 
+ 
+
+ Information Systems 
+
+ 
+	 System Types 
+	 DBMS and Language Types 
+	 Computer Environment and Operating Systems 
+ 
+
+ Staffing Requirements 
+
+ 
+	 Program Manager 
+	 Task Manager 
+	 Project Manager 
+	 Business Process Engineer 
+	 Business Systems Analyst 
+	 Business Consultant 
+	 Service Delivery Manager 
+	 Information Services Consultant 
+	 Enterprise Architect 
+	 Configuration/Data Management Analyst 
+	 Information Systems Security Specialist 
+	 Computer Security Systems Specialist 
+	 Data Security Specialist 
+	 Information Systems Security Engineer 
+	 Cyber Security Specialist 
+	 Systems Security Architect 
+	 Systems Engineer 
+	 Systems Programmer 
+	 Systems Analyst 
+	 Software Engineer 
+	 Programmer Analyst 
+	 Programmer 
+	 Management Analyst 
+	 Integration &amp; Test Engineer 
+	 Communications Specialist 
+	 Telecommunications Engineer 
+	 Network Engineer 
+	 Network Administrator 
+	 Quality Assurance Analyst 
+	 Software Tester 
+	 IV&amp;V Test Engineer 
+	 Systems Administrator 
+	 Database Administrator 
+	 Web Designer 
+	 Web Software Developer 
+	 Web Content Administrator 
+	 Data Warehousing/Mining Specialist 
+	 Technical Support Specialist 
+	 Help Desk Manager 
+	 Help Desk Specialist 
+	 Training Specialist 
+	 Operations/Technical Support Manager 
+	 Administrative Specialist 
+	 Technical Writer 
+	 Graphics Specialist 
+	 Emerging Technology Specialist 
+	 Subject Matter Expert 
+	 Subject Matter Specialist 
+	 Expert Consultants - Various Disciplines and Skills",https://services.govwin.com/neo-ws/opportunities/OPP110469/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP110469/companies,,IDIQ - Agency Specific,All attachments are available,0054P000009CjeAQAS,,1400000000,INFORMATION TECHNOLOGY SUPPORT SERVICES 5 (ITSS-5),OPP110469,8/7/2019 18:48,FALSE,https://iq.govwin.com/neo/opportunity/view/110469,,Refer to Other Program Information,,https://services.govwin.com/neo-ws/opportunities/OPP110469/contractVehicles,https://services.govwin.com/neo-ws/govEntities/25378,,a0S4P000007UQK0UAO,647,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP151357/contacts,,541519,https://services.govwin.com/neo-ws/opportunities/OPP151357/relatedArticles,OPP151357,"The Contracting Office released a Request for Information on July 24, 2019 via GSA eBUY utilizing GSA Schedule 70 SINS 132 45 under reference number: RFQ1380811. A Solicitation is anticipated to be released by early August 2019. An Award is anticipated to be made in October 2019. Jonathan Bettis is the Point of Contact for this effort. Deltek has limited visibility into GSA eBuy procurements and does not have copies of the procurement documents. Therefore, vendors are encouraged to monitor their eBUY portals for future developments.",0/0,https://services.govwin.com/neo-ws/opportunities/OPP151357/fboNotices,red,red,,0014P000026SpoVQAS,0,8/13/2019,0124P000000rFYAQA2,PATENT AND TRADEMARK OFFICE,https://www.ebuy.gsa.gov,0,FALSE,,,HUBZone Set-Aside,FALSE,trackedopp,IT CYBER SECURITY SUPPORT,RFQ1380811,No,Blanket Purchase Agreement,24856,,151357,FALSE,10/30/2019,Information Technology,8/7/2019 14:23,TRUE,$27.5 million annual receipts except 150 Employees for Information Technology Value Added Resellers,0054P000009CjeAQAS,35498000,,https://services.govwin.com/neo-ws/opportunities/OPP151357/relatedDocuments,7/25/2019 18:41,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP151357/milestones,8/7/2019 14:23,,0054P000009CjeAQAS,10/30/2019,Other Computer Related Services,https://services.govwin.com/neo-ws/opportunities/OPP151357/contracts,,,United States,Pre-RFP,8/13/2019,GSA SCHEDULE 70 IT EQUIPMENT SOFTWARE AND SERVICES,,Gate 4 - Bid Validation,,8/7/2019 14:18,"The US Department of Commerce, Patent and Trademark Office (USPTO) has a continuing requirement for IT Cyber Security Support. 
+
+ BACKGROUND 
+
+ The United States Patent and Trademark Office (USPTO) is the federal agency for granting U.S. patents and registering trademarks. In doing this, the USPTO fulfills the mandate of Article I, Section 8, Clause 8, of the Constitution that the legislative branch &quot;promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries.&quot; The USPTO registers trademarks based on the commerce clause of the Constitution (Article I, Section 8, Clause 3). Under this system of protection, American industry has flourished. New products have been invented, new uses for old ones discovered, and employment opportunities created for millions of Americans. The strength and vitality of the U.S. economy depends directly on effective mechanisms that protect new ideas and investments in innovation and creativity. The continued demand for patents and trademarks underscores the ingenuity of American inventors and entrepreneurs. The USPTO is at the cutting edge of the nation&#39;s technological progress and achievement. 
+
+ REQUIREMENTS 
+
+ The contractor shall perform the following tasks: 
+
+ 
+	 Risk Management Framework (RMF) Support (All NIST Related Activities for all USPTO Internally Hosted Systems) 
+	 Vulnerability and Compliance Scanning and Analysis:  
+	 Threat Analysis and Advanced Penetration Testing Support 
+	 Program, Project, Audits, Data Calls, IT Security Awareness Training, and Security Policies Support 
+	 Security Architecture and Engineering Support: 
+	 All Contractor systems and Cloud System Support",https://services.govwin.com/neo-ws/opportunities/OPP151357/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP151357/companies,,BPA,,0054P000009CjeAQAS,,35498000,IT CYBER SECURITY SUPPORT,OPP151357,8/7/2019 14:26,FALSE,https://iq.govwin.com/neo/opportunity/view/151357,,TBD,,https://services.govwin.com/neo-ws/opportunities/OPP151357/contractVehicles,https://services.govwin.com/neo-ws/govEntities/24856,,a0S4P000007UQHLUA4,624,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP155191/contacts,10,541519,https://services.govwin.com/neo-ws/opportunities/OPP155191/relatedArticles,OPP155191,"The Contracting Office released a Modification via GSA eBuy on July 18, 2019 under Reference number RFQ1354981 to provide final Questions and Answers, provide a revised Solicitation and to extend the Quotes due date. Quotes are now due no later than 12:00 PM ET on August 16, 2019. Tiarra Leysath is the Point of Contact for this effort. Due to Deltek&rsquo;s limited visibility into GSA eBuy procurements, vendors are encouraged to monitor their GSA eBuy portal for developments.",19-Oct,https://services.govwin.com/neo-ws/opportunities/OPP155191/fboNotices,red,red,,0014P000026SpoSQAS,0,5/30/2019,0124P000000rFYAQA2,OFFICE OF THE CHIEF INFORMATION OFFICER,https://www.fbo.gov/?s=opportunity&mode=form&tab=core&id=93fa53c61bc583541faf7168d9687a01&_cview=1,0,FALSE,,19,Small Bus Set-Aside,FALSE,trackedopp,NOAA MISSION INFORMATION TECHNOLOGY SERVICES (NMITS),RFQ1354981,No,Firm Fixed Price;Time and Materials;Labor Hour;Task Order;Blanket Purchase Agreement,116434,,155191,TRUE,1/6/2020,Information Technology,8/7/2019 14:34,TRUE,$27.5 million annual receipts except 150 Employees for Information Technology Value Added Resellers,0054P000009CjeAQAS,2100000000,,https://services.govwin.com/neo-ws/opportunities/OPP155191/relatedDocuments,7/18/2019 20:11,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP155191/milestones,8/7/2019 14:34,NMITS,0054P000009CjeAQAS,1/6/2020,Other Computer Related Services,https://services.govwin.com/neo-ws/opportunities/OPP155191/contracts,,,CONUS,Post-RFP,5/30/2019,GSA SCHEDULE 70 IT EQUIPMENT SOFTWARE AND SERVICES,,Gate 4 - Bid Validation,,8/7/2019 13:59,"The U.S. Department of Commerce, National Oceanic and Atmospheric Administration (NOAA), Office of Chief Information Officer (OCIO) has a requirement for NOAA Mission Information Technology Services (NMITS). 
+
+ BACKGROUND 
+
+ The National Oceanic and Atmospheric Administration (NOAA), a bureau of the United States Department of Commerce (DOC), has the reach that extends from the surface of the sun to the depth of the ocean floor, as it works to keep citizens informed of the changing environment around them. NOAA is comprised of various Line, Staff, and Program Offices that serve as vital contributors to NOAA&#39;s overall mission. From daily weather forecasts, severe storm warnings, and climate monitoring, to fisheries management, coastal restoration, and marine commerce support, NOAA products and services support economic vitality and impact more than one-third of America&#39;s gross domestic product. NOAA&rsquo;s dedicated scientists use cutting-edge research and high-tech instrumentation to provide citizens, planners, emergency managers, and other decision makers with reliable information they need - when they need it. 
+
+ The NOAA Office of the Chief Information Officer (OCIO) serves as a vital contributor to the NOAA mission. The CIO leads NOAA&rsquo;s principal IT research and provides advice to NOAA management about information resources and information systems management. The OCIO also promotes and shapes an effective strategic and operational IT planning process for NOAA, coordinates the preparation of NOAA&rsquo;s IT budget and associated materials, oversees select NOAA-wide operational systems and services, and is responsible for other assigned programs that are interagency and/or international in scope. 
+
+ REQUIREMENTS 
+
+ The contractor shall perform the following Core Management Components: 
+
+ 
+	 Enterprise Services
+	 
+		 Technology Assessment and Evaluation 
+		 Systems/Infrastructure Engineering 
+		 Independent Testing and Evaluation 
+		 Logistical Support and Inventory Management 
+		 Asset and Configuration Management 
+		 Technical Writing and Documentation Support 
+	 
+	 
+	 Customer Support Services
+	 
+		 Customer Relationship Management Services 
+		 End User Computing Support 
+		 Customer Experience Management and Operations 
+		 Customer Education and Training 
+		 Customer IT Infrastructure Installation, Build Outs, and Decommissioning 
+		 Service Desk 
+		 Desktop Management 
+	 
+	 
+	 Mission and Business Applications, Tools, Portals, and Web Services
+	 
+		 Software Engineering, Development, and Integration 
+		 Mission and Business Application/Tool Development, Test, Integration, and Maintenance 
+		 Web and Portal Systems Development, Integration, Maintenance, and Management 
+		 Knowledge and Content Management 
+		 Life Cycle Software License Management and Control 
+	 
+	 
+	 Enterprise Computing, Cloud, Storage, Shared and Field Services
+	 
+		 Server and Workstation Baseline Creation, Standardization, Deployment, and Patch Management 
+		 Enterprise Systems Maintenance and Repair 
+		 Field Service Support 
+		 Server Administration and Management 
+		 Storage Administration and Management 
+		 Data Services, Data Administration, and Database Management 
+		 Enterprise Cloud Services, Administration, and Management 
+		 Enterprise Operations, Event Monitoring and Management, Performance Monitoring, and Analysis 
+		 Enterprise Infrastructure Maintenance and Repair 
+		 Service Delivery Center, Data Center, and Equipment Room IT Management 
+		 Enterprise Data Backup, Disaster Recovery (DR), and Continuity of Operations (COOP) Program Operations and Support 
+	 
+	 
+	 Data and Voice Network Services
+	 
+		 Collaboration Services 
+		 Cable/Fiber Installation, Testing, Troubleshooting, and Management 
+		 Network Administration and Maintenance 
+		 Network Operations, Event Monitoring and Management, Performance Monitoring, and Analysis 
+		 Wireless and Mobile Device Support 
+		 Voice Installation, Operations, and Maintenance 
+		 Video and Video Teleconferencing Installation, Operations, and Maintenance 
+		 Knowledge Wall and Video Display Integration, Operations, and Maintenance 
+		 Satellite Communications Initialization, Operations, and Management IT Support 
+	 
+	 
+	 Cybersecurity and Information Assurance Services
+	 
+		 Develop a Security Operations Center (SOC) 
+		 Provide security services 
+	 
+	 
+ 
+
+ Cross-cutting services include: 
+
+ 
+	 Program Management 
+	 Subcontracted Technical Support Services 
+	 Call Out/Per Call Support Services 
+	 Surge Support Services 
+	 Deployment Support Services",https://services.govwin.com/neo-ws/opportunities/OPP155191/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP155191/companies,,Task / Delivery Order,All attachments are available,0054P000009CjeAQAS,,2100000000,NOAA MISSION INFORMATION TECHNOLOGY SERVICES (NMITS),OPP155191,8/7/2019 14:35,FALSE,https://iq.govwin.com/neo/opportunity/view/155191,,5 year(s) base plus 1 x 5 year(s) option(s) Task order up to 60 months past end of ordering period (up to 15 Year total),,https://services.govwin.com/neo-ws/opportunities/OPP155191/contractVehicles,https://services.govwin.com/neo-ws/govEntities/116434,,a0S4P000007UQGNUA4,611,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP174255/contacts,10,541512,https://services.govwin.com/neo-ws/opportunities/OPP174255/relatedArticles,OPP174255,"The Contracting Office released Amendment #1 on August 2, 2019 to provide a clarification regarding the Questions due date. Questions are due no later than 10:00 AM ET on August 12, 2019. Proposals remain due no later than 12:01 PM ET on September 16, 2019. Melody Bryant and Anke Taylor are the Points of Contact.",26-Oct,https://services.govwin.com/neo-ws/opportunities/OPP174255/fboNotices,red,red,,0014P000026Spk7QAC,0,8/1/2019,0124P000000rFYAQA2,SECURITIES AND EXCHANGE COMMISSION,https://www.fbo.gov/?s=opportunity&mode=form&tab=core&id=e4b16a763c2fbff1faf4a8ee4f9d386a,0,FALSE,,26,Small Bus Set-Aside,FALSE,trackedopp,ONE OIT PROGRAM FOR SEC ON RAMP,50310219R0016,No,Indefinite Delivery Indefinite Quantity;Firm Fixed Price;Time and Materials;Labor Hour,25680,,174255,TRUE,2/7/2020,Information Technology,8/7/2019 14:26,TRUE,$27.5 million annual receipts,0054P000009CjeAQAS,2500000000,,https://services.govwin.com/neo-ws/opportunities/OPP174255/relatedDocuments,8/2/2019 19:38,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP174255/milestones,8/7/2019 14:26,,0054P000009CjeAQAS,2/7/2020,Computer Systems Design Services,https://services.govwin.com/neo-ws/opportunities/OPP174255/contracts,,,"Washington, District Of Columbia, United States",Post-RFP,8/1/2019,,,Gate 4 - Bid Validation,,8/7/2019 14:16,"The Securities and Exchange Commission has a requirement to provide SEC with integrated information technology (IT), or &ldquo;One OIT&rdquo;, solutions for evolving enterprise needs.  
+
+ BACKGROUND 
+
+ The Office of Information Technology (OIT) supports the Commission and staff of the SEC in all aspects of information technology. OIT has overall management responsibility for the Commission&#39;s IT program including, but not limited to, Platform Application Management and Development, Business Solution Delivery, IT Infrastructure Management, Information Security, Data Management, IT Governance, and Technology Business Management.  
+
+ It is anticipated that this on-ramp event is for the restricted (small business) pool and proposals may be requested by Service Channel to allow interested contractors to propose to a specific channel rather than covering all seven (7) Service Channels. The SEC is contemplating to set-aside for small business in certain socioeconomic categories. This procurement action intends to add a reasonable number of multiple award contractors to the existing ONE IT pool, dependent on business needs and/or quality proposals received. 
+
+ REQUIREMENTS 
+
+ 
+	 The Master Contract provides maximum flexibility in acquiring any IT services-based solution for any conceivable IT services-based requirement, driving government savings through efficiencies and improved reporting data with greater integrity, while maintaining a &ldquo;One IT&rdquo; philosophy 
+	 The Master Contract scope includes any and all components of an integrated IT services-based solution, including all current leading-edge technologies and any new technologies which may emerge during the Master Contract period of performance. The Master Contract provides IT Solutions through performance of a broad range of services which may include the integration of various technologies critical to the services being acquired. As the definition of IT changes over the lifecycle of the Master Contract, the scope of the Master Contract will be considered to coincide with the current IT definition at any given time 
+	 The scope of the Master Contract includes all conceivable aspect of IT Business Need, including but not limited to:
+	 
+		 Big Data 
+		 Cloud Computing 
+		 Context-aware Computing 
+		 Critical Infrastructure Protection and Information Assurance 
+		 Information Security 
+		 Data-Centers and Data-Center Consolidation 
+		 Digital Government 
+		 Digital Trust and Identity Integration and Management 
+		 Digitization and Imaging 
+		 Energy and Sustainability Measurement and Management 
+		 Enterprise Application Stores 
+		 Mobile Security 
+		 Enterprise Resource Planning 
+		 Integration Services 
+		 IT Helpdesk 
+		 IT Operations and Maintenance 
+		 IT Services for Integrated Total Workplace Environment 
+		 Mobile-Centric Application Development, Operations and Management 
+		 Network Operations, Infrastructure, and Service Oriented Architecture 
+		 Open Source Integration and Customization  
+		 Outsourcing IT Services 
+		 Remote Access 
+		 Sensors, Devices and Radio Frequency Identification (RFID) 
+		 Software Development and Testing 
+		 Technology Business Management 
+		 Telecommunications Support Services 
+		 Virtualization 
+		 Voice and Voice Over Internet Protocol (VOIP) 
+		 Web Analytics 
+		 Web Application &amp; Maintenance 
+		 Web Services  
+		 Web Hosting",https://services.govwin.com/neo-ws/opportunities/OPP174255/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP174255/companies,,IDIQ - Agency Specific,All attachments are available,0054P000009CjeAQAS,,2500000000,ONE OIT PROGRAM FOR SEC ON RAMP,OPP174255,8/7/2019 14:26,FALSE,https://iq.govwin.com/neo/opportunity/view/174255,,5 year(s) base plus 1 x 5 year(s) option(s) null,,https://services.govwin.com/neo-ws/opportunities/OPP174255/contractVehicles,https://services.govwin.com/neo-ws/govEntities/25680,,a0S4P000007UQHGUA4,622,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP35867/contacts,9,541611,https://services.govwin.com/neo-ws/opportunities/OPP35867/relatedArticles,OPP35867,"Through a Freedom of Information Act request (FOIA), Deltek received a copy of Contract # W91WAW11D0018, held by Armed Forces Services Corporation. The documents are now available for a fee through the Contracts section of this opportunity report.",10-Sep,https://services.govwin.com/neo-ws/opportunities/OPP35867/fboNotices,red,red,,0014P000026SpgfQAC,0,4/9/2009,0124P000000rFYAQA2,DEFENSE CONTRACTING CENTER OF EXCELLENCE,https://www.fbo.gov/?s=opportunity&mode=form&tab=core&id=33aacb58785c7992b4c4acb876d4860d&_cview=0,0,FALSE,,10,Full and Open / Unrestricted,FALSE,trackedopp,HUMAN RESOURCE RECRUITMENT AND RETENTION SUPPORT SERVICES (HRSS),W91WAW09R0013,No,Indefinite Delivery Indefinite Quantity;Firm Fixed Price;Time and Materials;Cost Plus Fixed Fee,26449,,35867,FALSE,11/12/2010,IT Services,8/7/2019 15:23,TRUE,$15 million annual receipts,0054P000009CjeAQAS,273279000,,https://services.govwin.com/neo-ws/opportunities/OPP35867/relatedDocuments,1/12/2017 21:32,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP35867/milestones,8/7/2019 15:23,HRSS,0054P000009CjeAQAS,11/12/2010,Administrative Management and General Management Consulting Services,https://services.govwin.com/neo-ws/opportunities/OPP35867/contracts,,,CONUS;OCONUS,Awarded,4/9/2009,,,Gate 2 - Pursuit,,8/5/2019 13:52,"Several contractors are currently fulfilling the US Army Mission and Installation Contracting Command, Contracting Center of Excellence (CCE) at the Pentagon, on behalf of HRsolutions Program Office continuing requirement for human resource recruitment and retention support services. 
+
+ BACKGROUND: 
+
+ HR encompasses the full life cycle of personnel categories, services, and support to Defense personnel and their communities, civilians, military components, families, veterans, retirees, and communities worldwide. HR Solutions Program Office was launched in 2004 and is now one of the Business Transformation initiatives housed in Headquarters, Department of the Army. Today, HR Solutions is a living component of the Army&#39;s continuing efforts to transform itself in order to offer best business practices for HR services (through contracts) and ultimately to ensure quality and predictability of cost and effective services, where and when needed. It is designed totally as a performance based program and organized to streamline the acquisition of human resource (HR) services, through competitive, efficient, standardized and well managed process, that emphasizes accountability and performance. This full life-cycle contract support is provided in a competitively managed multiple-contractor environment. The program office has initiated contracts with multiple vendors that cover all HR-related functional areas and disciplines that support those functions. The range of services implementation, operational and planning levels covers a broad array of requirements from individual services world wide to agency-wide organizational and program operations, including the provision of centralized management is to provide standardized programs to individuals and decentralized organizations throughout the world. The vision of HR Solutions to enhance its capabilities to assume greater responsibility to senior leaders in supporting HR mission and functions related requirements triggered by current events, congressional mandates, or resourcing constraints due to Brac Realignments and Code of Federal Regulations (CFR), Title 10. 
+
+ The Army Contracting Agency (ACA) is a Field Operating Agency reporting to the Assistant Secretary of the Army for Acquisition, Logistics, and Technology. The ACA became an operational Agency on 1 October 2002. The reason behind the creation of the ACA was to ensure that the Army contracting is reshaped to: 
+
+ 
+	 Consolidate similar and common use contracts to reduce redundancy and leverage economies of scale 
+	 Complete the implementation of centers and satellites contract requirements consolidation and 
+	 Reduce management overhead and realign personnel to maximize efficient and effective operations 
+ 
+
+ In order to accomplish this mission, two regional service-contracting centers and one Electronic Commerce/Commercial Contracting Center (E-commerce Center) for non-tactical/strategic information technology (IT) and commercial items was established. The regional contracting centers divided the CONUS contracting structure along Geographical line to align with and complement the Centralized Installation Management (CIM) realignment plan. 
+ 
+ REQUIREMENTS: 
+ 
+Provide the following: 
+
+ 
+	 Human Resource services, specifically, Recruitment and Retention 
+	 The Recruitment and Retention requirements include the following:
+	 
+		 Processing Support service members&#39; transition from the active service to reserve status
+		 
+			 This includes tracking and monitoring transferring members to ensure they report as required after separation from the active component 
+			 Support established transfer-processing sites 
+			 Information Handling 
+			 Dissemination of information to military personnel such as data on the location and phone numbers to local career counselors who can assist with military service obligations and options for basic benefits and local appointment procedures for Reserve Components 
+			 Provide coordination services to unit level commanders and family readiness groups with information, referral, outreach, and assistance 
+		 
+		 
+		 Track, monitor, and maintain records of personnel within the Recruitment and Retention program 
+		 Recruitment and Retention: Assist in conducting military recruiting, retention, and outplacement functions 
+		 Provide products and services support that will enhance reserve retention initiatives 
+		 General Administrative Support: Provide incidental administrative support in furtherance of the military recruiting and retention mission, to include answering telephone calls, questions, referring callers to subject matter experts, maintaining call logs, facilitating problem resolution, preparing appointment letters, and drafting orders 
+		 Professional Program Support: Provide support to recruitment and retention program analysis, information technology related to the program, local marketing and training 
+		 Develop policies and procedures related to recruitment and retention operations
+		 
+			 For example, design, develop, integrate and test program related software applications and provide Webmaster services 
+			 Also review monthly unit strength reports, highlight concerns, propose solutions and tract trends 
+		 
+		 
+		 Assessment: Conduct assessment of Recruitment and Retention programs to recommend the number of potential recruitment vacancies 
+		 Point of Contact: Serve as the centralized point of contact to collect and assess the relevance for all information provided for reserve sources 
+		 Help Desk: Operate help desks to assist members in transferring and reporting to their new units. (10) Counseling  Provide counseling to members and dependents 
+		 Administrative Program Support: Provide administrative support to the recruiting and retention program management, to include coordination, funds management, order production, retention operations, and general administration 
+		 Credentialing: Provide support for the credentialing processes for skilled providers 
+		 Training: Provide development, maintenance, and training of courseware to support activities in the PWS 
+		 Provide products that, when combined with training will enhance reserve retention and transition missions 
+		 Civilian Recruitment and Retention: Provide support for the full continuum (retaining a service member from active to reserve to civilian back to service status) of service.",https://services.govwin.com/neo-ws/opportunities/OPP35867/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP35867/companies,,IDIQ - Agency Specific,,0054P000009CjeAQAS,,273279000,HUMAN RESOURCE RECRUITMENT AND RETENTION SUPPORT SERVICES (HRSS),OPP35867,8/7/2019 15:23,FALSE,https://iq.govwin.com/neo/opportunity/view/35867,,1 year(s) base plus 4 x 1 year(s) option(s) null,,https://services.govwin.com/neo-ws/opportunities/OPP35867/contractVehicles,https://services.govwin.com/neo-ws/govEntities/26449,,a0S4P000007UQ0oUAG,498,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP52956/contacts,0,561210,https://services.govwin.com/neo-ws/opportunities/OPP52956/relatedArticles,OPP52956,The Contracting Office stated the effort remains under evaluation and a decision to move forward with a Solicitation has not been determined yet. James Wuest is the Point of Contact for this effort.,0/2,https://services.govwin.com/neo-ws/opportunities/OPP52956/fboNotices,red,red,,0014P000026SpoVQAS,0,9/1/2019,0124P000000rFYAQA2,PATENT AND TRADEMARK OFFICE,https://www.fbo.gov/?s=opportunity&mode=form&tab=core&id=07ac34a7c9e3fa027dd08aa0723086ac,0,TRUE,Prime,2,8(a) Set-Aside,FALSE,trackedopp,KNOWLEDGE MANAGEMENT SUPPORT SERVICES REQUIREMENT,ACQ19KMS,No,Indefinite Delivery Indefinite Quantity;Time and Materials,24856,,52956,TRUE,12/1/2019,IT Services,7/22/2019 8:38,TRUE,$38.5 million annual receipts,0054P000009CjJBQA0,197751000,,https://services.govwin.com/neo-ws/opportunities/OPP52956/relatedDocuments,7/1/2019 15:41,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP52956/milestones,7/22/2019 8:38,,0054P000009CjJBQA0,12/10/2019,Facilities Support Services,https://services.govwin.com/neo-ws/opportunities/OPP52956/contracts,,,"Alexandria, Virginia, United States",Pre-RFP,9/3/2019,,,Gate 3 - Preliminary Bid,,7/22/2019 8:38,"The Department of Commerce, United States Patent and Trademark Office (USPTO) has a continuing requirement for library related services and training support. 
+
+ BACKGROUND 
+
+ USPTO intends for this requirement to have three (3) major elements. 1) Patent Search Support Services; 2) Library Services; and 3) Training Support Services. 
+
+ The examination of patent and trademark applications results in the need for extensive information access and retrieval along with instructional support and training on how to use automated information systems, tools and information resources.  The USPTO utilizes a Contractor to provide this instructional and training support. 
+
+ The USPTO patent examining corps is divided into nine (9) Technology Centers (TCs) and Work Groups within each of the TCs.  The TCs/Working Groups are responsible for the examination of patent applications in specific fields of technology. 
+
+ REQUIREMENTS 
+
+ 
+	 The requirements include:
+	 
+		 Perform Search Services  
+		 
+		 ABSS/Sequence Searching 
+		 
+		 
+		 Structure (Chemical) Searching 
+		 
+		 
+		 Text (General) Searching 
+		 
+		 
+		 Analysis of Requestor&rsquo;s Search History and Search Strategy for Text (General) Searching",https://services.govwin.com/neo-ws/opportunities/OPP52956/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP52956/companies,New Business,IDIQ - Agency Specific,,0054P000009CjJBQA0,,197751000,KNOWLEDGE MANAGEMENT SUPPORT SERVICES REQUIREMENT,OPP52956,,FALSE,https://iq.govwin.com/neo/opportunity/view/52956,,1 year(s) base plus 4 x 1 year(s) option(s) with 5x1 year Award Term Options,,https://services.govwin.com/neo-ws/opportunities/OPP52956/contractVehicles,https://services.govwin.com/neo-ws/govEntities/24856,,a0S4P000007UOLEUA4,302,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP52956/contacts,1,561210,https://services.govwin.com/neo-ws/opportunities/OPP52956/relatedArticles,OPP52956,"According to the Deltek Contracts Database, Modification #P19024 was issued on the incumbent contract on July 29, 2019 for additional work. The incumbent contract has been extended and is now scheduled to expire in August 2020. Previously, the Contracting Office stated the effort remained under evaluation and a decision to move forward with a Solicitation has not been determined yet. James Wuest is a Point of Contact for this effort.",2-Jan,https://services.govwin.com/neo-ws/opportunities/OPP52956/fboNotices,red,red,,0014P000026SpoVQAS,0,1/9/2020,0124P000000rFYAQA2,PATENT AND TRADEMARK OFFICE,https://www.fbo.gov/?s=opportunity&mode=form&tab=core&id=07ac34a7c9e3fa027dd08aa0723086ac,0,TRUE,,2,8(a) Set-Aside,FALSE,trackedopp,KNOWLEDGE MANAGEMENT SUPPORT SERVICES REQUIREMENT,ACQ19KMS,No,Indefinite Delivery Indefinite Quantity;Time and Materials,24856,,52956,TRUE,8/13/2020,IT Services,8/7/2019 15:14,TRUE,$38.5 million annual receipts,0054P000009CjeAQAS,218551000,,https://services.govwin.com/neo-ws/opportunities/OPP52956/relatedDocuments,7/30/2019 15:09,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP52956/milestones,8/7/2019 15:14,,0054P000009CjeAQAS,8/13/2020,Facilities Support Services,https://services.govwin.com/neo-ws/opportunities/OPP52956/contracts,,,"Alexandria, Virginia, United States",Pre-RFP,1/9/2020,,,Gate 3 - Preliminary Bid,,8/7/2019 13:28,"The Department of Commerce, United States Patent and Trademark Office (USPTO) has a continuing requirement for library related services and training support. 
+
+ BACKGROUND 
+
+ USPTO intends for this requirement to have three (3) major elements. 1) Patent Search Support Services; 2) Library Services; and 3) Training Support Services. 
+
+ The examination of patent and trademark applications results in the need for extensive information access and retrieval along with instructional support and training on how to use automated information systems, tools and information resources.  The USPTO utilizes a Contractor to provide this instructional and training support. 
+
+ The USPTO patent examining corps is divided into nine (9) Technology Centers (TCs) and Work Groups within each of the TCs.  The TCs/Working Groups are responsible for the examination of patent applications in specific fields of technology. 
+
+ REQUIREMENTS 
+
+ 
+	 The requirements include:
+	 
+		 Perform Search Services  
+		 
+		 ABSS/Sequence Searching 
+		 
+		 
+		 Structure (Chemical) Searching 
+		 
+		 
+		 Text (General) Searching 
+		 
+		 
+		 Analysis of Requestor&rsquo;s Search History and Search Strategy for Text (General) Searching",https://services.govwin.com/neo-ws/opportunities/OPP52956/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP52956/companies,,IDIQ - Agency Specific,,0054P000009CjeAQAS,,218551000,KNOWLEDGE MANAGEMENT SUPPORT SERVICES REQUIREMENT,OPP52956,8/7/2019 15:14,FALSE,https://iq.govwin.com/neo/opportunity/view/52956,,1 year(s) base plus 4 x 1 year(s) option(s) with 5x1 year Award Term Options,,https://services.govwin.com/neo-ws/opportunities/OPP52956/contractVehicles,https://services.govwin.com/neo-ws/govEntities/24856,,a0S4P000007UQFFUA4,596,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP58295/contacts,2,541990,https://services.govwin.com/neo-ws/opportunities/OPP58295/relatedArticles,OPP58295,Deltek is tracking the potential recompete of this requirement under Govwin Opp ID: 178914.,2-Feb,https://services.govwin.com/neo-ws/opportunities/OPP58295/fboNotices,red,red,,0014P000026SpoSQAS,0,5/8/2014,0124P000000rFYAQA2,NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION,https://www.fbo.gov/index?s=opportunity&mode=form&id=2c3043ef17accc4b96be8c2e85947c30&tab=core&_cview=0,0,FALSE,,2,Full and Open / Unrestricted,FALSE,trackedopp,TECHNICAL SUPPORT SERVICES FOR ASSESSMENT OF CHEMICAL HAZARDS ASSOCIATED WITH OI,AB133C14RP0045,No,Indefinite Delivery Indefinite Quantity;Firm Fixed Price,24847,,58295,FALSE,1/9/2015,IT Services,8/7/2019 15:27,TRUE,$15 million annual receipts,0054P000009CjeAQAS,3980000,,https://services.govwin.com/neo-ws/opportunities/OPP58295/relatedDocuments,4/19/2019 18:48,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP58295/milestones,8/7/2019 15:27,,0054P000009CjeAQAS,1/9/2015,"All Other Professional, Scientific, and Technical Services",https://services.govwin.com/neo-ws/opportunities/OPP58295/contracts,,,United States,Awarded,5/8/2014,,,Gate 3 - Preliminary Bid,,8/7/2019 13:11,"Louisiana State University is fulfilling the Department of Commerce, National Oceanic and Atmospheric Administration&#39;s (NOAA) requirement for technical support services for the assessment of the chemical and material hazards associated with oil. 
+
+ BACKGROUND: 
+
+ The contractor shall provide technical and scientific support to the National Oceanic and Atmospheric Administration&#39;s (NOAA) Office of Response and Restoration (ORR). The contractor shall provide support through an indefinite delivery indefinite quantity (IDIQ) type contract. Task orders will be issued against the contract on an as-needed basis for the required work. 
+ 
+Contractor support may be required to respond to tasks on both an emergency and non-emergency time frame. It is anticipated that a higher percentage of effort will be for non-time critical support, but the ability of the contractor to respond quickly during an emergency event is critical to ORR&#39;s mission and paramount to the fulfillment of the contractor&#39;s obligations. The focus of the technical and scientific support is chemistry-related issues during hazardous material and petroleum spills, but ORR may support all hazards missions, such as disaster responses and port security contingency planning issues that involve chemical risks. 
+
+ REQUIREMENTS: 
+
+ The Tasks associated with this opportunity include: 
+
+ 
+	 Incident Response &amp; Incident Response Preparation:
+	 
+		 Respond to calls from ORR within one-hour of the initial contact and be able to provide support directly by verbal consultation or have access to the resources required to investigate the request and provide follow-up communications both verbally and in writing 
+		 Provide oral and written reports as required, reflecting information or specific support requested 
+		 A common request will be a concise assessment of the hazards associated with the spilled chemical, the transport and fate of the chemical relative to the specific incident environment, and any unique or scenario-specific concerns 
+		 Such reports are generally defined as Chemical Hazard Assessments rather than risk assessment since they identify threats rather than probability 
+		 Other emergency requests might include recommendations for sampling or a review of proposed sampling and/or analytical protocols, or to recommend or review mitigation techniques 
+		 Perform On-Scene Response Support, requiring travel to the site of the incident to provide direct consultation and technical/scientific support to federal response personnel and cleanup personnel on issues related to chemistry 
+	 
+	 
+	 Workshops and Training:
+	 
+		 Develop training materials and conduct training and workshops as requested. Training may be requested as part of planned activities across the U.S. and its territories or at the contractor&#39;s base of operations. On rare occasions, a workshop or training activity will require travel outside of the U.S. 
+	 
+	 
+	 Research and Development:
+	 
+		 Provide technical support in the area of chemistry as required to support ORR in its mission critical activities. 
+		 This may require the contractor to develop, manage, and perform research projects, as well as contribute to the projects managed by ORR personnel 
+	 
+	 
+	 Analytical and Laboratory Support:
+	 
+		 Provide analytical support for the analysis of environmental samples contaminated with petroleum and/or petroleum products to determine the relevant physical characteristics, short-term fate, and apparent toxicity of the oil based on the relative distribution of PAH 
+		 Analytical support may extend into the identification of other chemical pollutants or unknowns, but will not extend to the analysis of any known highly dangerous samples that would be outside the scope of work for a typical commercial laboratory 
+		 The proposed contractor must be able to assess the quality of the data from the chemical analyses provided and interpret the results in terms of its implications to operational decisions",https://services.govwin.com/neo-ws/opportunities/OPP58295/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP58295/companies,,IDIQ - Agency Specific,All attachments are available,0054P000009CjeAQAS,,3980000,TECHNICAL SUPPORT SERVICES FOR ASSESSMENT OF CHEMICAL HAZARDS ASSOCIATED WITH OIL AND HAZARDOUS MATERIALS RELEASES,OPP58295,8/7/2019 15:27,FALSE,https://iq.govwin.com/neo/opportunity/view/58295,,1 year(s) base plus 4 x 1 year(s) option(s) null,,https://services.govwin.com/neo-ws/opportunities/OPP58295/contractVehicles,https://services.govwin.com/neo-ws/govEntities/24847,,a0S4P000007UQEbUAO,589,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP102021/contacts,6,541519,https://services.govwin.com/neo-ws/opportunities/OPP102021/relatedArticles,OPP102021,"The Contracting Office released a Modification on August 18, 2015 for the Special Notice released on July 13, 2015. The purpose of the Modification is to provide additional information regarding the Agency&#39;s action and the current status of this requirement. After considering the extensive market research conducted for the Contact Center Modernization requirement, the USPTO made the determination not to pursue the CCM due to competing budgetary priorities.The USPTO is taking a strategic pause on CCM and is considering alternatives to the requirement in its current form. Once the USPTO has its revised concept for CCM, it will commence market research. Due to the actions taken by the Agency, Deltek will no longer track this program for developments.",6-Jun,https://services.govwin.com/neo-ws/opportunities/OPP102021/fboNotices,red,red,,0014P000026SpoVQAS,0,8/7/2019,0124P000000rFYAQA2,PATENT AND TRADEMARK OFFICE,https://www.fbo.gov/index?s=opportunity&mode=form&tab=core&id=676aa5984edd7579c14d57e18a98f612&_cview=1,0,FALSE,,6,Undetermined,FALSE,trackedopp,CONTACT CENTER MODERNIZATION,SSPAPT1400602,No,TBD,24856,,102021,FALSE,,IT Services,8/7/2019 15:12,TRUE,$27.5 million annual receipts except 150 Employees for Information Technology Value Added Resellers,0054P000009CjeAQAS,0,,https://services.govwin.com/neo-ws/opportunities/OPP102021/relatedDocuments,8/18/2015 22:05,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP102021/milestones,8/7/2019 15:12,,0054P000009CjeAQAS,,Other Computer Related Services,https://services.govwin.com/neo-ws/opportunities/OPP102021/contracts,,,"Alexandria, Virginia, United States",Deleted/Canceled,,,,Gate 3 - Preliminary Bid,,8/7/2019 13:37,"The Department of Commerce, United States Patent Trademark Office no longer has a requirement to modernize and consolidate its contact centers. 
+
+ BACKGROUND: 
+
+ The United States Patent Trademark Office (USPTO) administers the laws relevant to patents and trademarks and advises the Secretary of Commerce, the President of the United States, and the administration on patent, trademark, and copyright protection and on trade-related aspects of intellectual property. Via its contact centers, USPTO provides information and assistance to a broad customer base that includes, but is not limited to, independent inventors, attorneys, paralegals, patent agents, third-party firms, other government entities, the general public, and internal organizations. 
+
+ REQUIREMENTS: 
+
+ The Contractor shall help provide modernized solutions to improve contact center service and performance, including: 
+
+ 
+	 Voice services 
+	 Email services 
+	 Technology, including ACD, IVR, and quality monitoring and recording 
+	 Integration with backend systems such as Siebel, Oracle, and Remedy 
+	 Advanced channels such as click-to-chat, co-browsing, and social media integration 
+	 Agent staffing and training 
+	 Management information system for reporting and analytics 
+	 Workforce management 
+	 Next generation applications and tools 
+	 The solution can include but is not limited to:
+	 
+		 Hosted agent/technology services 
+		 Cloud offerings 
+		 In-house agent services 
+		 Hybrid combinations",https://services.govwin.com/neo-ws/opportunities/OPP102021/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP102021/companies,,Undetermined,All attachments are available,0054P000009CjeAQAS,,0,CONTACT CENTER MODERNIZATION,OPP102021,8/7/2019 15:12,FALSE,https://iq.govwin.com/neo/opportunity/view/102021,,TBD,,https://services.govwin.com/neo-ws/opportunities/OPP102021/contractVehicles,https://services.govwin.com/neo-ws/govEntities/24856,,a0S4P000007UQFUUA4,600,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP110485/contacts,8,541519,https://services.govwin.com/neo-ws/opportunities/OPP110485/relatedArticles,OPP110485,"The Contracting Office released a Justification and Approval Notice on May 8, 2019. The purpose of the J&amp;A is to award task order HC1047-19-F-6240 under Contract HC1028-18-D-0013 on a sole source basis. Additional information is added on the Related Articles and Document Sections of this Opportunity Report.",Aug-40,https://services.govwin.com/neo-ws/opportunities/OPP110485/fboNotices,red,red,,0014P000026Spp2QAC,0,3/2/2016,0124P000000rFYAQA2,DEFENSE INFORMATION SYSTEMS AGENCY,https://www.fbo.gov/index?s=opportunity&mode=form&tab=core&id=956e115a406f2b01e899b17c5992a8a2&_cview=1,0,FALSE,,40,Small Bus Set-Aside;Full and Open / Unrestricted,FALSE,trackedopp,ENCORE III,HC102815R0030,No,Indefinite Delivery Indefinite Quantity;Firm Fixed Price;Cost Reimbursement,26707,,110485,FALSE,9/7/2018,IT Services,8/7/2019 19:01,TRUE,$27.5 million annual receipts except 150 Employees for Information Technology Value Added Resellers,0054P000009CjeAQAS,17500000000,,https://services.govwin.com/neo-ws/opportunities/OPP110485/relatedDocuments,5/8/2019 17:22,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP110485/milestones,8/7/2019 19:01,,0054P000009CjeAQAS,9/7/2018,Other Computer Related Services,https://services.govwin.com/neo-ws/opportunities/OPP110485/contracts,,,CONUS;OCONUS,Awarded,3/2/2016,,,Gate 5 - Proposal Submittal,,8/7/2019 18:53,"Multiple vendors are providing services to the Department of Defense (DoD), Defense Information Systems Agency (DISA), requirement for a wide range of information technology services to support their mission including Enterprise IT Policy and Planning, Custom Application Development and Product Integration (ENCORE III). 
+
+ BACKGROUND: 
+
+ The current ENCORE II contracts includes all activities within the Military Services and DoD to satisfy their Information Technology (IT) requirements. IT solutions encompass a range of capabilities from old legacy systems to new, emerging net-centric technologies. Under these contracts, the contractor shall assist the government in providing IT solutions for activities throughout all operating levels of all customer organizations in support of all functional requirements including Command and Control (C2), Intelligence, and Mission support areas, and to all elements of the Global Information Grid (GIG). 
+
+ DISA is an integral component in the development of the Global Information Grid (GIG), a network-centric environment required to achieve information superiority. The GIG is the globally-interconnected, end-to-end set of information capabilities, associated processes, and personnel to manage and provide information on demand to warfighters, policy makers and supporting personnel. It will enhance combat power through greatly increased battlespace awareness, improved ability to employ weapons beyond line-of-sight, employment of massed effects instead of massed forces and reduced decision cycles. It will also contribute to the success of non-combat military operations. Unique user data, information and user applications are not considered part of the GIG, but can also be accommodated under the contract (i.e., support for other Federal agencies). The emerging revolution in DoD&#39;s business affairs requires a distributed approach to conducting day-to-day operations that the contract can provide. 
+ 
+DISA is helping to meet these challenges by: 
+
+ 
+	 Identifying and maintaining the legacy baseline of requirements, processes, applications and automated systems 
+	 Collecting, validating and integrating requirements 
+	 Managing data standardization 
+	 Performing cross-functional analysis for data sharing through corporate/shared data structures 
+	 Developing integration standards, processes and methodologies 
+	 Performing cross-functional analysis for applications interfaces, interoperability and integration; developing migration/integration strategies and plans; providing functional and technical integration solutions; developing common shared infrastructure services; prototyping functional applications and required infrastructure support to validate requirements and solutions 
+	 Managing migration and integration through the use of program metrics tools and capabilities 
+ 
+
+ REQUIREMENTS: 
+
+ The contractor shall assist the government in providing IT solutions for activities throughout all operating levels of all customer organizations in support of functional requirements including: 
+
+ 
+	 Command and Control (C2) 
+	 Intelligence, 
+	 Mission support areas 
+	 Unified capabilities 
+	 Enterprise services 
+	 Business systems 
+	 All elements of the DoD Information Network (DoDIN) 
+ 
+
+ IT solutions, services and support anticipated under this contract exist within the scope of the 19 performance areas identified below. 
+
+ Below each Performance Area, there is a snippet of each requirement : 
+
+ 
+	 Performance Area 1 - Enterprise IT Policy and Planning
+	 
+		 The DoD requires enterprise services capabilities that provide an information advantage through network-enabled, commander-centric operations and seamless collaboration across the entire enterprise, while moving the power of information to the tactical edges for DoD Customers 
+	 
+	 
+	 Performance Area 2 - Integrated Solutions Management
+	 
+		 The requirements of this performance area include management and technical support for research, analysis, recommendation, and documentation of integration issues and approaches 
+	 
+	 
+	 Performance Area 3 - Process, Performance, and Strategic Benchmarking
+	 
+		 This performance area includes process, program/product, functional, technical, data, and strategic benchmarking efforts to include the development of related benchmarking tools, methods for integration, and metrics 
+	 
+	 
+	 Performance Area 4 - Business Process Reengineering (BPR)
+	 
+		 This performance area involves the use of BPR as an approach for improving organization performance and covers the range of BPR activities including services needed to implement new or revised business or functional processes arising from BPR undertakings 
+	 
+	 
+	 Performance Area 5 - Requirements Analysis
+	 
+		 Under this performance area, the contractor shall assist the government in design, development, installation, verification, and validation testing of optimal application and database solutions for enterprise use to address government requirements and configure, test, and tune applications and databases to determine the best cross-functional solutions integral to the integration process 
+	 
+	 
+	 Performance Area 6 - Market Research and Prototyping
+	 
+		 Under this Performance Area, the contractor shall conduct market research analysis and prototyping for DoD-related IT and telecommunications technology solutions 
+	 
+	 
+	 Performance Area 7 - Information and Knowledge Management
+	 
+		 The contractor shall provide for development and cross-checking of information flow models across functional domains; functional data models; standardization and implementation of common data elements; prototyping, development and implementation of shared databases in standard/common/migration/distributed system or systems, data mining, and development of data migration strategies to identify the plans and processes for the transition of legacy data to shared data through the utilization of data standards 
+	 
+	 
+	 Performance Area 8 - Custom Application Development
+	 
+		 The contractor shall assist the government to design, develop, document, test, implement, and sustain custom applications and their infrastructures 
+	 
+	 
+	 Performance Area 9 - Product Integration
+	 
+		 Integration strategies are structured processes to combine systems to provide a seamless function that incorporates the inputs, processing, and presentation capabilities of the original systems into a relatively seamless whole 
+	 
+	 
+	 Performance Area 10 - Test and Evaluation (T&amp;E)
+	 
+		 The contractor shall provide technical support to developmental testing, interoperability evaluations, cybersecurity testing, early operational assessments, operational testing, and evaluation of IT and National Security Systems (NSS); however, there are two exceptions involving DISA Operational Test &amp; Evaluation (OT&amp;E) and DoD interoperability T&amp;E 
+	 
+	 
+	 Performance Area 11 - Asset Management
+	 
+		 The contractor shall provide maintenance and support to control the entire asset life-cycle, from procurement to retirement, that includes applications, license agreements, IT systems and hardware, as well as IT support equipment such as video teleconferencing (VTC) operations 
+	 
+	 
+	 Performance Area 12 &ndash; Network Support
+	 
+		 This performance area addresses network design, development, implementation and sustainment for programs, labs and command systems, as defined in individual task orders. It includes network design; network policy dissemination; performance monitoring and fault management which includes networks, servers, applications and force generation databases; collection of operational performance statistics; data analysis; identification of potential problems and recommendation of engineering solutions for these problems; network architecture design and development of implementation options in conformance with specified guidelines; network engineering for Internet protocol (IP) convergence and integrated Unified Capabilities (UC), Cloud services, voice, data and video communications systems; network technologies and Mobility capabilities; and review and update of system and network management CONOPS. This also includes provision of a control point to resolve and implement local area network (LAN) configuration issues and equipment hookups; analysis, isolation and coordination of corrective action for communications related problems; configuration of communications equipment to satisfy specific test bed requirements of the user; and provision of networking capability for customers to ensure customers are isolated from each other to prevent unintentional harmful actions of one customer from impacting other customers. This effort may include engineering efforts for defensive actions necessary to prevent unauthorized access that could impact the performance of the DoDIN and its end users 
+	 
+	 
+	 Performance Area 13 &ndash; Cyber Security Assessment, Authorization, and Authorization
+	 
+		 This task area addresses contractor planning, design, development, testing, demonstration, rapid prototyping, integration, site survey, installation, operation and maintenance of C2 communications, displays, firewall/guards, intrusion detection systems, and information sensors of computer/network systems and infrastructure operations 
+	 
+	 
+	 Performance Area 14 &ndash; Information Communications Technology
+	 
+		 The contractor shall provide value-added telecommunications support to improve IT systems by enhancing form or content or by providing for more efficient storage and retrieval 
+	 
+	 
+	 Performance Area 15 - Computer-Telephony Integration (CTI)
+	 
+		 The contractor shall provide computer telephony (use of computers to manage telephone calls). This includes computerized services of call centers, such as those that direct phone calls to the correct department or office 
+	 
+	 
+	 Performance Area 16 - Web Services
+	 
+		 The contractor shall provide web design and mainten",https://services.govwin.com/neo-ws/opportunities/OPP110485/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP110485/companies,,IDIQ - Agency Specific,,0054P000009CjeAQAS,,17500000000,ENCORE III,OPP110485,8/7/2019 19:01,FALSE,https://iq.govwin.com/neo/opportunity/view/110485,,5 year(s) base plus 5 x 1 year(s) option(s) null,,https://services.govwin.com/neo-ws/opportunities/OPP110485/contractVehicles,https://services.govwin.com/neo-ws/govEntities/26707,,a0S4P000007UQKAUA4,649,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP124225/contacts,10,541512,https://services.govwin.com/neo-ws/opportunities/OPP124225/relatedArticles,OPP124225,"According to the GAO Bid Protest Docket, Protest B-413104.39 was dismissed on August 5, 2019. For the full list of protests and their status, please refer to the Other Program Information section of this report.",10/187,https://services.govwin.com/neo-ws/opportunities/OPP124225/fboNotices,red,red,,0014P000026SpptQAC,0,3/14/2016,0124P000000rFYAQA2,NATIONAL INSTITUTES OF HEALTH,https://www.fbo.gov/?s=opportunity&mode=form&tab=core&id=68c107754666d32e5b8fda178a4931d9&_cview=1,0,FALSE,,187,Small Bus Set-Aside,FALSE,trackedopp,CHIEF INFORMATION OFFICER SOLUTIONS AND PARTNERS 3 ON RAMP (CIOSP3),NIHJT2016015,No,Indefinite Delivery Indefinite Quantity;Firm Fixed Price;Time and Materials;Cost Reimbursement,25223,,124225,TRUE,8/30/2019,IT Services,8/7/2019 19:06,TRUE,$27.5 million annual receipts,0054P000009CjeAQAS,20000000000,,https://services.govwin.com/neo-ws/opportunities/OPP124225/relatedDocuments,8/6/2019 13:14,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP124225/milestones,8/7/2019 19:06,CIOSP3,0054P000009CjeAQAS,8/30/2019,Computer Systems Design Services,https://services.govwin.com/neo-ws/opportunities/OPP124225/contracts,,,"Rockville, Maryland, United States",Protest,3/14/2016,,,Gate 5 - Proposal Submittal,,8/7/2019 19:02,"Multiple Vendors are currently fulfilling the Department of Health and Human Services&#39; National Institute of Health (NIH) requirement to incorporate additional contracts into the CIO-SP3 GWAC in order to maintain adequate competition for information technology (IT) integration and outsourcing support services through a combination of the Chief Information Officer Solutions and Partners (CIOSP) program. 
+
+ BACKGROUND: 
+
+ The federal government is committed to changing its business processes to achieve a world class standard of excellence. This is being accomplished by adopting best business practices and the latest technology to create a more efficient, citizen-centered federal government. 
+ 
+The National Institutes of Health (NIH) has been designated as an executive agent for purposes of providing Information Technology (IT) to the government. Under this authority, NIH established three Government-Wide Acquisition Contracts (GWACs) to support the full range of IT needs across the federal government, with a particular emphasis on agencies like NIH and its parent, HHS, that are involved in health care and clinical and biological research. 
+ 
+The NIH Information Technology Acquisition and Assessment Center (NITAAC) took its first major step in developing a successor GWAC to its current Chief Information Officer - Solutions and Partners 2 Innovations (CIO-SP2i) and the Image World 2 New Dimensions (IW2nd) GWACs, which both expired in December 2010, by posting a Request for Information (RFI) in FedBizOps on April 30, 2008. The successor contract will continue to support government IT efforts with a focus on health and biomedical-related IT services in support of federal agencies&#39; health missions. 
+
+ REQUIREMENTS: 
+
+ Provide the following for the below Task Areas: 
+
+ IT Services for Biomedical Research and Healthcare (Task Area 1) 
+
+ A non-exhaustive list of examples of the type of work to be performed under this task area is: 
+
+ 
+	 Bioinformatics Software (e.g. Gene Array Design, Gene Array Analysis, Proteomics Software,etc.) 
+	 Bioinformatics Services 
+	 Biological Databases (e.g. Gene Sequences, Protein Sequences) 
+	 Natural Language Processing Software and Services (Biology/Medicine Focus) 
+	 Biomedical Information Services 
+	 Research Software 
+	 Healthcare Systems Studies 
+	 Medical Decision Support Software 
+	 Electronic Health Record Systems 
+	 Scientific Computing Services 
+	 Patient Management Systems 
+	 Laboratory Management Systems 
+	 Clinical Support Systems 
+	 Biomedical Informatics 
+	 Computational Biology 
+	 BioSurveillance and Disease Management support 
+	 Health Promotion Activities Support Systems 
+	 Health Communication Support Systems to Facilitate Collaboration at the Federal, State and Local Levels 
+	 Payer and Reimbursement Systems for Medicaid and Medicare; Medicaid Information Technology Architecture 
+	 Interoperability of Surveillance and Information and Health Exchange Systems 
+	 Integration of Health Systems across Federal Agencies and the U.S. Healthcare System 
+	 Security of Healthcare and Biomedical Research Systems 
+	 Ancillary systems automation (e.g., ePrescribe, eLab, Enterprise Radiology Systems) 
+	 Modernization and Enhancement of Existing Health IT Legacy Systems 
+	 Standards Development for Health IT Systems 
+	 Technological Improvements to Enhance the Clinical Environment and Enable the Sharing of Medical Data and Records 
+	 Automation of Administrative and Clinical Systems 
+	 High performance Computing and Grid Computing in support of research 
+	 Telemedicine 
+	 Health Data Interchange 
+	 Medical Robotics 
+	 Health Care Financial Systems (Claims and Payment Processing) 
+	 Biomedical Visualization 
+	 Biomedical Simulation 
+	 Medical Computer-based Training 
+	 Health Sensor Networks and Early-warning Mechanisms 
+	 Healthcare Payment Processes and Fraud and Abuse in Medical Claims 
+	 Health Emergency Preparedness and Response to include IT Support for Epidemic and Bio-terrorism Simulations Emergency Response Training, Exercise Support, etc 
+	 Modeling and Simulation 
+	 Claims Processing Software Systems 
+	 Disability Exam Decision Support Systems 
+	 Biostatistical Support 
+ 
+
+ Chief Information Officer (CIO) Support (Task Area 2) 
+
+ A non-exhaustive list of examples of the type of work to be performed under this task area is: 
+
+ 
+	 Agency Information Technology Architecture Support 
+	 Agency Enterprise Architecture Support 
+	 Program Analyses (including Business Cases Analysis, Cost/Benefit Analysis and Cost Effectiveness Analyses) 
+	 Market Research 
+	 Total Cost of Ownership Studies 
+	 Stakeholders Analyses 
+	 A-76 Studies Specific to IT Operations or Support 
+	 Workforce Management  
+	 IT Organizational Development 
+	 OMB and IT Investment Board Justification and Reporting 
+	 IT Governance Process Development and Management 
+	 CMMI Analyses and Implementation Support 
+	 Capital Planning and Investment Control Support 
+	 IT Portfolio Analysis 
+	 Performance Management and Metrics 
+	 Risk Management 
+	 Program Management Office Support 
+	 Independent Verification and Validation 
+	 Technology Advisory/Audit Services (associated with activity-based costing and A123) 
+	 Advisory and Assistance Services 
+	 FEA Alignment Support Services 
+ 
+
+ Imaging (Task Area 3) 
+
+ A non-exhaustive list of examples of the type of work to be performed under this task area is: 
+
+ 
+	 Document Management Systems 
+	 Workflow management for digital imaging functions 
+	 Digital library management 
+	 Enterprise Content Management 
+	 Identity and Access Management 
+	 Image Analysis 
+	 Image Conversion 
+	 Image Content Management 
+	 Document management 
+	 Reproduction Systems 
+	 Document imaging 
+	 3D Immersive Visualization 
+	 Medical Imaging, including Picture Archiving and Communication Systems 
+	 Laboratory and Test Equipment 
+	 Geo-Spatial and Scientific Imaging 
+	 Business and Documentation Imaging q) Security Imaging 
+	 Environmental Imaging 
+	 Ancillary Imaging Equipment 
+ 
+
+ Outsourcing (Task Area 4) 
+ 
+A non-exhaustive list of examples of the type of work, as applied to any outsourced functions that might be performed under this task area is: 
+
+ 
+	 Program Management 
+	 Transition Planning 
+	 Management of Call Centers 
+	 Hardware and Software Configurations 
+	 Network Operations and Web Management Support 
+	 Leasing of Hardware and Software 
+	 Tools and Applications (including Application Service Provider) 
+	 Infrastructure Networking 
+	 Capacity Management 
+	 Data Base Administration and Data Storage Management 
+	 Backup and Recovery Services System Console Operations 
+	 Production Control 
+	 Mission Management Support 
+	 Information Assurance 
+	 Hardware/Software Maintenance 
+	 Asset Management 
+	 IT Acquisition Management 
+	 Technology Infusion for Managed Services 
+	 Desktop Computing as a Unified Service 
+	 Managed IT Services Support 
+	 Managed IT Services Impact Analyses 
+	 Workflow Management 
+	 ISO 9000 Analyses and Implementation Support 
+	 Business Process Re-engineering for Managed Services 
+	 Solution Leasing 
+ 
+
+ Operations and Maintenance (Task Area 5) 
+
+ A non-exhaustive list of examples of the type of work to be performed under this task area is: 
+
+ 
+	 Operational Support 
+	 Software Maintenance 
+	 Network/Hardware Support 
+	 Technical Support 
+	 LAN/WAN Maintenance 
+	 Telecommunications Maintenance (Data, Voice, Images, including Wireless) 
+	 Help Desk/IT Assistance Hotline 
+	 IT Service Management 
+	 Network Management 
+	 System Management 
+	 Asset Management 
+	 Electronic Software Distribution 
+	 Electronic Software Licensing Services including license: deployment, management, tracking, upgrading, etc. 
+	 IT Maintenance 
+	 Web Technology Maintenance 
+	 Client/Server Operations 
+	 IT Training 
+	 IT Operation and Maintenance Planning 
+	 Server Consolidation 
+	 Office Automation Software Support 
+	 Organizational Change Management Support 
+	  IT Logistics Support 
+	 Data Quality Management 
+	 Transformation Services 
+	 Continual Service Improvement 
+	 Service-oriented Infrastructure Management 
+	 Service Catalogues 
+	 Balanced Scorecard for Operations 
+	 IT Infrastructure Optimization 
+	 IT Energy Efficiency 
+	 Resource Management 
+	 Backup and Recovery Management 
+	 Strategic Sourcing Support 
+	 Data Center Consolidation and Optimization (e.g., using virtualization and blade server architectures) 
+ 
+
+ Integration Services (Task Area 6) 
+
+ A non-exhaustive list of examples of the type of work to be performed under this task area is: 
+
+ 
+	 Gap Analysis 
+	 Benchmarking 
+	 Business Process Reengineering 
+	 Test and Evaluation Services 
+	 Financial Analysis (Make/Buy Decisions) 
+	 Feasibility Studies 
+	 Trade Studies 
+	 Requirements Analysis 
+	 System Design Alternative Studies 
+	 Systems Engineering 
+	 Acquisition Support 
+	 Customization 
+	 Installation, configuration, and tuning 
+	 Network planning 
+	 Archival Analyses 
+	 Data Migration 
+	 Collaboration and presence 
+	 Federal Lines of Business support 
+	 Internet protocol migration and systems engineering 
+	 Infrastructure Engineering, Development, Implementation, Integration 
+	 Program Management Support Services 
+	 Engineering Risk and Reliability Management 
+	 IT Infrastructure Relocation 
+	 Data cleansing and harmonization 
+	 Risk assessment 
+	 Architecture validation and verification 
+	 Open Source Integration 
+ 
+
+ Critical Infrastructure Protection and Information Assurance (Task Area 7) 
+
+ A non-exhaustive list of examples of the type of work to be performed under this task area is: 
+
+ 
+	 Critical Infrastructure Asset Identification and Configuration Management Databases 
+	 Information Assurance of Critical Infrastructure 
+	 Risk Management (Vulnerability Assessment and Threat Identification) 
+	 Critical Infrastructure Continuity and Contingency Planning 
+	 Facility Protection Planning 
+	 Information Systems Security 
+	 Information Assurance 
+	 Emergency Preparedness 
+	 Training and Awar",https://services.govwin.com/neo-ws/opportunities/OPP124225/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP124225/companies,,IDIQ - GWAC,All attachments are available,0054P000009CjeAQAS,,20000000000,CHIEF INFORMATION OFFICER SOLUTIONS AND PARTNERS 3 ON RAMP (CIOSP3),OPP124225,8/7/2019 19:06,FALSE,https://iq.govwin.com/neo/opportunity/view/124225,,On-ramp awards will not exceed the remaining period of performance.,,https://services.govwin.com/neo-ws/opportunities/OPP124225/contractVehicles,https://services.govwin.com/neo-ws/govEntities/25223,,a0S4P000007UQKFUA4,650,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP125179/contacts,0,541512,https://services.govwin.com/neo-ws/opportunities/OPP125179/relatedArticles,OPP125179,"The Contracting Office released a Modification on June 24, 2019 to inform the Industry that the current FBO announcement under reference number #AQPP1600769 will be retired now that the Agency has completed its Presolicitation planning. A new announcement is planned for release in Q4FY19 under reference number #ACQ191870, introducing the USPTO&rsquo;s new Business Oriented Software Solutions (BOSS) requirement. Stephan Batt is a Point of Contact for this effort.",0/20,https://services.govwin.com/neo-ws/opportunities/OPP125179/fboNotices,red,red,51,0014P000026SpoVQAS,0,1/1/2020,0124P000000rFYAQA2,CHIEF INFORMATION OFFICER,https://www.fbo.gov/,0,TRUE,Prime,20,Small Bus Set-Aside;Full and Open / Unrestricted,FALSE,trackedopp,BUSINESS ORIENTED SOFTWARE SOLUTIONS (BOSS),ACQ191870,No,Indefinite Delivery Indefinite Quantity;Firm Fixed Price;Time and Materials;Labor Hour,125785,,125179,TRUE,9/1/2020,IT Services,7/19/2019 11:35,TRUE,$27.5 million annual receipts,0054P000009CjJBQA0,1500000000,,https://services.govwin.com/neo-ws/opportunities/OPP125179/relatedDocuments,6/24/2019 13:59,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP125179/milestones,8/6/2019 17:43,BOSS,0054P000009CjJBQA0,9/8/2020,Computer Systems Design Services,https://services.govwin.com/neo-ws/opportunities/OPP125179/contracts,,,"United States;Alexandria, Virginia, United States",Pre-RFP,1/7/2020,,,Gate 3 - Preliminary Bid,,7/19/2019 11:33,"The Department of Commerce, United States Patent and Trademark Office has an ongoing requirement for software development and integration next generation, professional Information Technology (IT) services. 
+
+ BACKGROUND 
+
+ The U.S. Patent and Trademark Office (USPTO) anticipates an ongoing requirement for software development and integration of professional information technology (IT) services. Software Development and Integration &ndash; Next Generation (SDI-NG) is the USPTO&rsquo;s contract for software development and integration services for Commercial off the Shelf (COTS) products with customized software applications, database applications, and other solutions. The USPTO IT vision is to transform the agency with next-generation technology and services. To achieve this vision, the USPTO has established strategic plans to optimize Patent and Trademark quality and timeliness, including the following IT objectives: 
+
+ 
+	 Ensure Optimal IT Service Delivery to All Users 
+	 Provide Leadership and Education on Intellectual Property Policy and Awareness 
+	 Leverage IT Investments to Achieve Business Results 
+ 
+
+ REQUIREMENTS 
+
+ The core elements of this contract are Software Development and Integration, Development Testing, Configuration Management Support, Production Support and Software Maintenance and Transition, and Program Management Support. Integration may include the integration of technical components, organizational components, and documentation. 
+
+ Technical Requirements: 
+
+ 
+	 Program Management:
+	 
+		 Provide project management support 
+		 Adhere to USPTO Project Management policies and procedures and follow the USPTO System Development Life Cycle (SDLC) 
+		 Establish a Work Breakdown Structure (WBS) describing the project tasks to be executed and identify project dependencies in project plans 
+		 Provide notification of issues that impact project schedules within the same business day 
+		 Collaborate with USPTO or other Contractor resources as required to achieve maximum productivity 
+		 Provide Earned Value Management reporting on all discrete tasks that exceed $1,000,000.00 unless otherwise stated 
+		 Provide weekly status updates on all aspects of performance 
+		 Ensure that all requirements are buildable, testable and traceable 
+	 
+	 
+	 System and Software Development:
+	 
+		 Provide application software design, development, testing, production installation and post-installation support 
+		 Provide requirements traceability for designs, development, configurations, bug fixes, and scripts 
+		 Provide architecture and design documents specifying the changes made/proposed 
+	 
+	 
+	 Architecture and Design:
+	 
+		 Adhere to the USPTO architecture to include storage, database designs, interfaces, services, technologies, and frameworks 
+		 Adhere to all USPTO policies and standards for all design to include quality, performance, scalability, maintainability, accessibility, usability, security, and logging 
+		 Adhere to USPTO Technical Reference Model (TRM), security requirements, and federal requirements to include Section 508 accessibility and usability requirements in accordance with NISTIR 7432 
+		 Identify and document all interfaces and services in the design for USPTO review 
+		 Recommend alternative technologies in unique cost-effective implementations when they will improve function and advance the initiatives of the OCIO to provide service excellence 
+	 
+	 
+	 Coding:
+	 
+		 Develop and provide build instructions, configuration, integration with automated builds and deployment, install scripts for server, database, and desktop deployments, deployment instructions for software releases 
+		 Ensure that development, builds, testing and deployments follow USPTO Configuration Management (CM) policy and procedures. All code deliveries shall meet USPTO coding standards 
+		 Participate collaboratively in code reviews, and provide results from their internal code review 
+		 Review the results of USPTO code reviews and provide remediation 
+	 
+	 
+	 
+	 Unit, Integration, and Regression Test: 
+
+	 
+		 
+		 Perform unit and regression testing on all software developed for the USPTO 
+		 
+		 
+		 Integrate the unit tests into the build per CM policies and monitor test results via the test automation dashboards provided 
+		 
+		 
+		 Update test plans, documentation, and unit tests to reflect any changes found 
+		 
+		 
+		 Work with USPTO and all other designated resources throughout the testing phases 
+		 
+		 
+		 Provide automated test plans and scripts 
+		 
+	 
+	 
+	 
+	 Configuration and Release Management: 
+
+	 
+		 
+		 Check code, scripts, and configuration files into the USPTO CM Repository as developed and in accordance with CM policy, specifically the Continuous Integration Configuration Management (CICM) User Guide, to developing Software on the CICM platform 
+		 
+		 
+		 Ensure that USPTO can recreate all builds for every release exclusively from code in the CM Repository 
+		 
+		 
+		 Provide detailed documentation describing how to build the delivered, tested software 
+		 
+	 
+	 
+	 
+	 Bug Triage: 
+
+	 
+		 
+		 Participate in bug triage following the USPTO Defect Management Plan using USPTO defect management tools 
+		 
+		 
+		 Identify, correct, and document defects in the defect management tools 
+		 
+	 
+	 
+	 
+	 Production Support: 
+
+	 
+		 
+		 Ensure that USPTO can support any proposed software solution and that the solution includes all technical support data and maintenance procedures to detect and isolate issues in production 
+		 
+		 
+		 Provide configuration and installation information for production needs, and document and provide deployment instructions for both COTS and developed systems 
+		 
+		 
+		 Provide training and/or documentation as requested 
+		 
+		 
+		 Provide emergency support for production issues as required 
+		 
+		 
+		 Provide a root cause analysis for all production software investigations 
+		 
+	 
+	 
+	 
+	 User Experience Design: 
+
+	 
+		 
+		 Plan and conduct User Research to determine stakeholder and end-user needs and preferences 
+		 
+		 
+		 Determine usability metrics that need to be met 
+		 
+		 
+		 Using the USPTO User-Centered Design (UCD) methodology, develop conceptual (wireframes, mockups) and logical (clickable wireframes, prototypes) designs that both meet usability metric goals and are technically feasible 
+		 
+		 
+		 Plan and conduct expert reviews (heuristic evaluations) and/or usability tests to evaluate the usability of the product 
+		 
+	 
+	 
+ 
+
+ Methodologies: 
+
+ 
+	 DevOps: A software development method that stresses communication, collaboration, integration, automation, and measurement of cooperation between software developers and other IT professionals 
+	 Agile: A group of software development methods in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams 
+	 User-Centered Design: A process (not restricted to interfaces or technologies) in which the needs, wants, and limitations of end users of a product, service or process are given extensive attention at each stage of the design process 
+	 Scrum: An agile software development model based on multiple small teams working in an intensive and interdependent manner 
+	 Kanban: A method for managing knowledge work with an emphasis on just-in-time delivery while not overloading the team members 
+	 Scrumban: Use the prescriptive nature of Scrum to be Agile and process improvement of Kanban to allow the team to continually improve its process",https://services.govwin.com/neo-ws/opportunities/OPP125179/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP125179/companies,,IDIQ - Agency Specific,,0054P000009CjJBQA0,,1500000000,BUSINESS ORIENTED SOFTWARE SOLUTIONS (BOSS),OPP125179,,FALSE,https://iq.govwin.com/neo/opportunity/view/125179,,10 year(s) base,,https://services.govwin.com/neo-ws/opportunities/OPP125179/contractVehicles,https://services.govwin.com/neo-ws/govEntities/125785,,a0S4P000007UOG4UAO,289,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP130959/contacts,10,541511,https://services.govwin.com/neo-ws/opportunities/OPP130959/relatedArticles,OPP130959,"Protest #: B-414060.1 was denied as of January 26, 2017. There are no standing protests remaining.",10-Oct,https://services.govwin.com/neo-ws/opportunities/OPP130959/fboNotices,red,red,,0014P000026SpctQAC,0,6/1/2016,0124P000000rFYAQA2,OFFICE OF PUBLIC AFFAIRS,https://www.fbo.gov/index?s=opportunity&mode=form&id=0b460b6412cc58d5d55a77b57d46ed26&tab=core&_cview=0,0,FALSE,,10,8(a) Set-Aside,FALSE,trackedopp,OFFICE OF PUBLIC AFFAIRS WEB SERVICES (OPA),DOLOPS16R00036,No,Labor Hour,27065,,130959,FALSE,9/29/2016,IT Services,8/7/2019 15:22,TRUE,$27.5 million annual receipts,0054P000009CjeAQAS,14819000,,https://services.govwin.com/neo-ws/opportunities/OPP130959/relatedDocuments,1/31/2017 20:10,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP130959/milestones,8/7/2019 15:22,OPA,0054P000009CjeAQAS,9/29/2016,Custom Computer Programming Services,https://services.govwin.com/neo-ws/opportunities/OPP130959/contracts,,,"Washington, District Of Columbia, United States",Awarded,6/1/2016,,,Gate 2 - Pursuit,,8/5/2019 13:28,"Magnum Multimedia Inc is currently fulfilling the Department of Labor, Office of Public Affairs requirement for OPA Web Support Services. 
+
+ BACKGROUND: 
+
+ The Office of Public Affairs&rsquo; (OPA) Division of Enterprise Communications (DEC) was created by Secretary&rsquo;s Order 2-2005, &ldquo;Delegation of Authority and Assignment of Responsibility for DOL Enterprise Communications Initiative.&rdquo; This Order calls for the centralization of enterprise communications services to ensure a more effective and cost efficient method of providing consistent and accurate information to the public. 
+
+ DEC has an overarching policy role within the Department, developing policies that affect all DOL websites. DEC has direct responsibility for the content and applications hosted on DOL.gov and performs content management operations for several smaller agencies hosted on DOL.gov. DEC is responsible for building Web and mobile applications to support OPA and other agencies&rsquo; requirements. To support these activities, DEC maintains a quality assurance function to test all applications, a security team to test applications and ensure DEC compliance with security requirements, and a governance function to ensure DEC compliance with OMB and DOL reporting requirements.  
+
+ REQUIREMENTS: 
+
+ 
+	 The scope of work includes:
+	 
+		 Manage Internet and intranet website content editing and publishing 
+		 Measure, track, document and report website effectiveness 
+		 Create a process and flow for adding new content to optimize website search results 
+		 Improve the consistency, accuracy, and timeliness of information across communication channels between DOL and the public 
+		 Ensure usability, accessibility, and quality assurance for all DOL websites, Web applications, and public-facing mobile applications 
+		 Manage website architecture 
+		 Support social/digital media activities 
+		 Support email subscription services 
+		 Support DOL newsletter and e-magazine publications 
+		 Manage all Cloud services 
+		 Manage website security, including Web application firewalls, incident response, security compliance and testing, Personally Identifiable Information (PII) and information asset protection, certification and accreditation, and additional security services, as required 
+		 Manage capital planning requirements for the Office of Public Affairs 
+		 Manage configuration, change, and release management 
+		 Manage Web applications (both off the shelf and onsite created) and website development 
+		 Manage business process reengineering 
+		 Support the migration of files and data transfers 
+		 Manage projects in accordance with Departmental Systems Development Life Cycle (SDLC) requirements 
+		 Respond to all OMB and Departmental requirements within requested timeframes",https://services.govwin.com/neo-ws/opportunities/OPP130959/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP130959/companies,,Other,All attachments are available,0054P000009CjeAQAS,,14819000,OFFICE OF PUBLIC AFFAIRS WEB SERVICES (OPA),OPP130959,8/7/2019 15:22,FALSE,https://iq.govwin.com/neo/opportunity/view/130959,,1 year(s) base plus 4 x 1 year(s) option(s) null,,https://services.govwin.com/neo-ws/opportunities/OPP130959/contractVehicles,https://services.govwin.com/neo-ws/govEntities/27065,,a0S4P000007UPzqUAG,488,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP148387/contacts,5,541330,https://services.govwin.com/neo-ws/opportunities/OPP148387/relatedArticles,OPP148387,"The Contracting Office awarded a contract to Lynxnet, LLC for an amount of $24,220,062 on November 15, 2017. For further award information, please see the Other Program Information section of this Opportunity Report.",5-May,https://services.govwin.com/neo-ws/opportunities/OPP148387/fboNotices,red,red,,0014P000026SppDQAS,0,9/1/2017,0124P000000rFYAQA2,NAVAL INFORMATION WARFARE CENTER ATLANTIC,https://auction.seaport.navy.mil/Bid/,0,FALSE,,5,8(a) Set-Aside,FALSE,trackedopp,INTERIOR COMMUNICATIONS TECHNICAL AND ILS SUPPORT (ZONE 3),N6523617R3104,No,Task Order;Cost Plus Fixed Fee,126313,,148387,FALSE,11/15/2017,IT Services,8/7/2019 15:19,TRUE,$15 million annual receipts except $38.5 million annual receipts for Military and Aerospace Equipment and Military Weapons and Contracts and Subcontracts for Engineering Services Awarded Under the National Energy Policy of 1992 and Marine Engineering and,0054P000009CjeAQAS,24220000,,https://services.govwin.com/neo-ws/opportunities/OPP148387/relatedDocuments,11/16/2017 15:51,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP148387/milestones,8/7/2019 15:19,ZONE 3,0054P000009CjeAQAS,11/15/2017,Engineering Services,https://services.govwin.com/neo-ws/opportunities/OPP148387/contracts,,,"United States;Hampton County, Virginia, United States",Awarded,9/1/2017,ENGINEERING TECHNICAL AND SUPPORT SERVICES FOR NAVAL WARFARE CENTER AND OTHER NAVSEA FIELD SITES,,Gate 2 - Pursuit,,8/5/2019 13:22,"Lynxnet, LLC is fulfilling the Department of the Navy, Space and Naval Warfare Systems Command Atlantic&#39;s requirement for Interior Communications Technical and ILS Support. 
+
+ BACKGROUND 
+
+ Space and Naval Warfare Systems Center Atlantic (SPAWASYSCEN Atlantic or SSC Atlantic) provides technical expertise and knowledge on Shipboard Integrated Voice Communications Network (IVCN), Integrate Voice Communications System (IVCS), AN/STC-3 Integrated Voice Communications System, Ship Service Telephone System (SSTS), Integrated Voice Network (IVN) Integrated Communications and Advanced Network (IVCN) Voice, MARCOM, AN/STC-2(V), Announcing Systems, Shipboard Air Traffic Control Communication (SATCC) Systems, Hierarchical Yet Dynamically Programmable Architecture (HYDRA) Communication Systems, Shipwide Interior Wireless Communications System (SIWCS), Anti-Terrorism/Force Protection/Visit Board Search and Seizure (ATFP/VBSS) wireless communications, IC Wireless Systems, IC Video and Pri-Fly console to customers worldwide in support of Integrated Communication (IC). The purpose of this task order is to accomplish tasks in support of these and other Interior Communication related systems. 
+
+ REQUIREMENTS: 
+
+ The Contractor shall: 
+
+ 
+	 Provide Interior Communications Technical and ILS Support 
+	 Provide services in support of Interior Communications (IC), engineering, technical, logistics, program management and administrative as required by NAVSEA Washington DC, NAVAIR and associated activities",https://services.govwin.com/neo-ws/opportunities/OPP148387/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP148387/companies,,Task / Delivery Order,All attachments are available,0054P000009CjeAQAS,,24220000,INTERIOR COMMUNICATIONS TECHNICAL AND ILS SUPPORT (ZONE 3),OPP148387,8/7/2019 15:19,FALSE,https://iq.govwin.com/neo/opportunity/view/148387,,1 year(s) base plus 4 x 1 year(s) option(s) null,,https://services.govwin.com/neo-ws/opportunities/OPP148387/contractVehicles,https://services.govwin.com/neo-ws/govEntities/126313,,a0S4P000007UPzHUAW,483,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP157623/contacts,2,541513,https://services.govwin.com/neo-ws/opportunities/OPP157623/relatedArticles,OPP157623,"The Contracting Office released the Solicitation on July 23, 2019. Questions must be submitted by 11:00 AM ET on August 6, 2019. Past Performance Questionnaires must be received by 11:00 AM ET on August 13, 2019. Proposals are due by 11:00 AM ET on August 20, 2019. Scott Amos is the Point of Contact.",2-Feb,https://services.govwin.com/neo-ws/opportunities/OPP157623/fboNotices,red,red,,0014P000026SpjzQAC,0,7/23/2019,0124P000000rFYAQA2,OFFICE OF PERSONNEL MANAGEMENT,https://www.fbo.gov/?s=opportunity&mode=form&tab=core&id=a6b3c4fa1e704766d40cd1cc70cc7b40,0,FALSE,,2,8(a) Set-Aside,FALSE,trackedopp,SYSTEMS PRODUCTION AND CUSTOMER SUPPORT FOR THE OFFICE OF PERSONNEL MANAGEMENT (,24322619R0010,Yes,Firm Fixed Price,25642,,157623,TRUE,10/22/2019,IT Services,8/7/2019 14:41,TRUE,$27.5 million annual receipts,0054P000009CjeAQAS,10200000,,https://services.govwin.com/neo-ws/opportunities/OPP157623/relatedDocuments,7/23/2019 20:01,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP157623/milestones,8/7/2019 14:41,HRSITPMO,0054P000009CjeAQAS,10/22/2019,Computer Facilities Management Services,https://services.govwin.com/neo-ws/opportunities/OPP157623/contracts,,,"Macon, Georgia, United States",Post-RFP,7/23/2019,,,Gate 4 - Bid Validation,,8/7/2019 13:50,"The Office of Personnel Management (OPM) has a requirement for a contractor to provide all labor and supervision to perform Support Systems Production and Customer Support Services located at Macon, Georgia 
+
+ 
+ BACKGROUND 
+
+ The U.S. Office of Personnel Management&#39;s (OPM), HR Tools and Technology (HRTT) located in Macon, Georgia, is an information technology (IT) systems design, development, and operations center. The HRTT provides support for a variety of human resources management (HR) systems that serve customers in OPM, other Federal agencies, and State and local agencies and their constituents across the U.S. and globally. The systems currently operated or being developed by the HRTT includes candidate assessment systems, staffing systems, and benefits selection systems. 
+
+ REQUIREMENTS 
+
+ 
+	 Task Area 1: Records Management  
+	 Task Area 2: Help Desk/Call Center Support",https://services.govwin.com/neo-ws/opportunities/OPP157623/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP157623/companies,,Other,All attachments are available,0054P000009CjeAQAS,,10200000,SYSTEMS PRODUCTION AND CUSTOMER SUPPORT FOR THE OFFICE OF PERSONNEL MANAGEMENT (HRSITPMO),OPP157623,8/7/2019 14:41,FALSE,https://iq.govwin.com/neo/opportunity/view/157623,,1 year(s) base plus 4 x 1 year(s) option(s) null,,https://services.govwin.com/neo-ws/opportunities/OPP157623/contractVehicles,https://services.govwin.com/neo-ws/govEntities/25642,,a0S4P000007UQFoUAO,602,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP157702/contacts,0,541611,https://services.govwin.com/neo-ws/opportunities/OPP157702/relatedArticles,OPP157702,"According to Deltek&#39;s Contracts Database, the fourth option year was exercised for the incumbent contract held by ITILITY, L.L.C. on May 13, 2019. The incumbent contract remains scheduled to expire on May 16, 2020. Deltek has reached out to the Contracting Office for an anticipated Solicitation release time frame.",0/0,https://services.govwin.com/neo-ws/opportunities/OPP157702/fboNotices,red,red,49,0014P000026SpsaQAC,0,11/1/2019,0124P000000rFYAQA2,BUREAU OF DIPLOMATIC SECURITY (CODE DS),https://www.fbo.gov/,0,TRUE,Sub-Contractor,0,Service Disabled Veteran Owned Small Business,FALSE,trackedopp,ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT PROFESSIONAL SUPPORT SDVOSB,,No,Indefinite Delivery Indefinite Quantity;Firm Fixed Price;Time and Materials;Labor Hour,26780,,157702,TRUE,5/1/2020,IT Services,7/22/2019 8:57,TRUE,$15 million annual receipts,0054P000009CjJBQA0,39090000,,https://services.govwin.com/neo-ws/opportunities/OPP157702/relatedDocuments,5/20/2019 14:22,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP157702/milestones,7/22/2019 8:57,,0054P000009CjJBQA0,5/20/2020,Administrative Management and General Management Consulting Services,https://services.govwin.com/neo-ws/opportunities/OPP157702/contracts,,,"Arlington, Virginia, United States",Forecast Pre-RFP,11/6/2019,,,Gate 3 - Preliminary Bid,,7/22/2019 8:42,"The U.S. Department of State, Bureau of Diplomatic Security may have a continuing requirement for management and professional support services. 
+
+ BACKGROUND 
+
+ The Bureau of Diplomatic Security (DS) is responsible for providing a safe and secure environment for the conduct of U.S. foreign policy. Every diplomatic mission in the world operates under a technical, physical and information security program designed and maintained by Diplomatic Security. In the United States, Diplomatic Security manages and supports these worldwide security programs for the protection of Life, Property and Information. Critical elements in accomplishing this mission are criminal investigations, local/global intelligence threat analysis and reporting, passport and visa fraud investigations, conduct of personnel security investigations, dissemination of information to citizens and industry overseas, and protection of the Secretary of State and high-ranking foreign dignitaries and officials visiting the United States. 
+
+ PREVIOUS REQUIREMENTS 
+
+ The  Contractor shall provide the following: 
+
+ 
+	 Provide professional and management support service employees, as defined in 29 CFR 541, to meet the performance objectives and business requirements of the Department of State (DoS), Bureau of Diplomatic Security. The Bureau anticipates services to include, but not limited to, the following activities:
+	 
+		 Maintain program continuity, uninterrupted high-quality work, and availability of required competent professional service employees 
+		 Obtain existing and future qualified professional service employees to meet the mission objectives of the Bureau and Offices 
+		 Provide a compensation package that attracts and retains competent professional service employees 
+		 Meet the travel requirements established for the individual professional services employee 
+		 Provide customers with a positive experience by maintaining a professional and efficient workforce 
+	 
+	 
+	 Provide professional service employees, as defined in 29 CFR 541, with the personnel security clearances needed to meet the performance objectives and business requirements of the DoS 
+	 
+	 The following are the specific Bureau of Diplomatic Security Directorates to be supported under this contract: 
+
+	 
+		 
+		 Countermeasures (DS/C) 
+		 
+		 
+		 International Programs (DS/IP) 
+		 
+		 
+		 Domestic Operations (DS/DO)",https://services.govwin.com/neo-ws/opportunities/OPP157702/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP157702/companies,,IDIQ - Agency Specific,,0054P000009CjJBQA0,,39090000,ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT PROFESSIONAL SUPPORT SDVOSB,OPP157702,,FALSE,https://iq.govwin.com/neo/opportunity/view/157702,,1 year(s) base plus 4 x 1 year(s) option(s) null,,https://services.govwin.com/neo-ws/opportunities/OPP157702/contractVehicles,https://services.govwin.com/neo-ws/govEntities/26780,,a0S4P000007UOLJUA4,303,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP158680/contacts,1,541511,https://services.govwin.com/neo-ws/opportunities/OPP158680/relatedArticles,OPP158680,Deltek has identified this opportunity as a duplicate to Opportunity ID # 113047 . Please refer to Opportunity ID # 113047 for all future updates.,1-Jan,https://services.govwin.com/neo-ws/opportunities/OPP158680/fboNotices,red,red,,0014P000026SpjVQAS,0,3/1/2018,0124P000000rFYAQA2,OFFICE OF THE CHIEF INFORMATION OFFICER,https://www.fbo.gov/?s=opportunity&mode=form&tab=core&id=31174249466827eff15c7196a854a974,0,FALSE,,1,Full and Open / Unrestricted,FALSE,trackedopp,ARCHITECTURE DEVELOPMENT AND PLATFORM TECHNICAL SERVICES FOR THE OFFICE OF CHIEF,,No,Task Order;Blanket Purchase Agreement,116078,,158680,FALSE,,IT Services,8/7/2019 18:53,TRUE,$27.5 million annual receipts,0054P000009CjeAQAS,250000000,,https://services.govwin.com/neo-ws/opportunities/OPP158680/relatedDocuments,8/3/2017 14:20,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP158680/milestones,8/7/2019 18:53,ADAPTS,0054P000009CjeAQAS,,Custom Computer Programming Services,https://services.govwin.com/neo-ws/opportunities/OPP158680/contracts,,,"Washington County, District Of Columbia, United States",Deleted/Canceled,,GSA SCHEDULE 70 IT EQUIPMENT SOFTWARE AND SERVICES,,Gate 5 - Proposal Submittal,,8/7/2019 18:52,"The Department of Homeland Security, Office of Chief Information Officer has a requirement for Architecture, Development, and Platform Technical Services (ADaPTS). 
+
+ BACKGROUND 
+
+ The Department of Homeland Security (DHS), Office of the Chief Information Officer (OCIO), is responsible for leading the engineering of DHS&rsquo; Digital Transformation by providing knowledgeable and innovative insights into technology products or services across all IT portfolios, strengthening cybersecurity, IT acquisition, IT security, executive oversight, and promoting the use and deployment of best of breed technologies using a unified framework for collectively managing IT investments. 
+
+   
+
+ The OCIO provides enterprise technical architectural planning and delivery of enterprise Information Technology (IT) services. In addition, OCIO is the DHS lead for Cloud based computing, in the private, hybrid and public Clouds. OCIO manages multiple, unrelated IT projects in the design, development, testing and staging phases. OCIO seeks to provide innovative business solutions, lower costs through shared services, and reduce the time spent marketing for new capabilities. As the foundation for customer-centric service delivery, OCIO establishes a secure utility computing environment where innovation, re-use, and quality are core principles. OCIO promotes the adoption of standardized solutions and services across the department. 
+
+ DHS has identified several requirements for new business applications that will support improved integration and overall efficiency of headquarters business units. 
+
+ Additionally, DHS needs to modernize several of its existing business applications to migrate off unsupported platforms and improve the efficiency of OCIO&rsquo;s application delivery functions. OCIO&rsquo;s intent is to build these applications based on a suite of reusable services. 
+
+ REQUIREMENTS 
+
+ The scope of this effort includes the contractor support services necessary to provide a full range of IT and program support services. All services and products that will be provided under this BPA must comply with Government security, Section 508, and architecture requirements.  The scope of the services required includes, but is not limited to: 
+
+ 
+	 Program and project management 
+	 Engagement and facilitation of key stakeholders 
+	 Business Analysis and Requirement management 
+	 Application, service and cloud architecture support 
+	 Application and Service Design, Development, Implementation and Migration 
+	 Unit, System, User Acceptance and Automated Testing 
+	 User Interface / User Experience Design 
+	 Business Intelligence, dashboard and analytics support 
+	 Business process re-engineering and change management 
+	 Integration with databases and applications 
+	 Analytics and reporting&bull; 
+	 Release management 
+	 Training support 
+	 Data Standardization, Quality, and Analytic Support Services 
+	 Platform Support and Disaster Recovery (DR) 
+	 User guides and system documentation 
+	 Agile Software Development Processes 
+	 Systems Engineering Lifecycle (SELC) Support 
+	 Manage Cloud based commodity computing services and Shared Services 
+	 Knowledge management, communications, and graphics support 
+	 Software Support Service 
+	 Security Engineering Services 
+	 Configuration Management Support 
+	 Support for new and evolving technologies 
+ 
+
+ The objective of this procurement is to obtain highly specialized technical support services to assist the OCIO in executing and accomplishing its mission objectives. 
+
+ The key mission objectives are listed below: 
+
+ 
+	 Implement and manage Cloud based commodity computing services 
+	 Perform end-to-end technical requirements management for enterprise IT services 
+	 Maintain and track application service level agreements and performance measurement 
+	 Support government off the shelf (GOTS) / commercial off the shelf (COTS) application integration and interoperability for customer developed components 
+	 Perform application and service compliance and performance monitoring (e.g. FedRAMP, DHS Directive 4300A, NIST Guidance, Federal Information Security Management Act of 2002 (FISMA), Privacy, Rehabilitation Act of 1973 (a.k.a. Section 508)). Plan, develop and manage enterprise application development and delivery 
+	 Provide an integrated approach to enterprise application capabilities (e.g. user interface, application logic, access to data and security, etc.) 
+	 Perform application delivery and quality assurance including configuration management 
+	 Provide Strategy, Policy and Governance Support 
+	 Provide Architecture and Planning Support 
+	 Provide Development and Implementation Support 
+	 Provide Strategic Communications Support 
+	 Provide Operations and Maintenance Support 
+	 Provide Operations/Database Support",https://services.govwin.com/neo-ws/opportunities/OPP158680/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP158680/companies,,Task / Delivery Order,All attachments are available,0054P000009CjeAQAS,,250000000,ARCHITECTURE DEVELOPMENT AND PLATFORM TECHNICAL SERVICES FOR THE OFFICE OF CHIEF INFORMATION OFFICER (ADAPTS),OPP158680,8/7/2019 18:53,FALSE,https://iq.govwin.com/neo/opportunity/view/158680,,1 year(s) base plus 4 x 1 year(s) option(s) null,,https://services.govwin.com/neo-ws/opportunities/OPP158680/contractVehicles,https://services.govwin.com/neo-ws/govEntities/116078,,a0S4P000007UQJwUAO,646,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP165696/contacts,10,541990,https://services.govwin.com/neo-ws/opportunities/OPP165696/relatedArticles,OPP165696,"The Contracting Office has not publicly released any Amendments extending the Proposal due date. All Proposals were to have been submitted no later than July 25, 2019. Award information will be added to this Opportunity Report once it becomes available.",Oct-47,https://services.govwin.com/neo-ws/opportunities/OPP165696/fboNotices,red,red,,0014P000026Spt2QAC,0,4/30/2019,0124P000000rFYAQA2,FEDERAL AVIATION ADMINISTRATION,https://faaco.faa.gov/index.cfm/announcement/view/34171,0,FALSE,,47,Small Bus Set-Aside,FALSE,trackedopp,FAA CONTRACT WEATHER OBSERVATION PROGRAM (CWO),693KA719R00003,No,Firm Fixed Price,25780,,165696,FALSE,10/1/2019,IT Services,8/7/2019 14:33,TRUE,$15 million annual receipts,0054P000009CjeAQAS,100000000,,https://services.govwin.com/neo-ws/opportunities/OPP165696/relatedDocuments,7/26/2019 12:31,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP165696/milestones,8/7/2019 14:33,CWO,0054P000009CjeAQAS,10/1/2019,"All Other Professional, Scientific, and Technical Services",https://services.govwin.com/neo-ws/opportunities/OPP165696/contracts,,,United States,Source Selection,4/30/2019,,,Gate 4 - Bid Validation,,8/7/2019 13:59,"The Department of Transportation, Federal Aviation Administration has a requirement for Contract Weather Observation (CWO) Program. 
+
+ REQUIREMENTS 
+
+ 
+	 The Contractor shall provide services of weather observer personnel who will provide augmentation and/or back up to the Automated Observing Systems, and to take manual observations as necessary.",https://services.govwin.com/neo-ws/opportunities/OPP165696/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP165696/companies,,Other,All attachments are available,0054P000009CjeAQAS,,100000000,FAA CONTRACT WEATHER OBSERVATION PROGRAM (CWO),OPP165696,8/7/2019 14:33,FALSE,https://iq.govwin.com/neo/opportunity/view/165696,,12 month(s) base plus 4 x 12 month(s) option(s) null,,https://services.govwin.com/neo-ws/opportunities/OPP165696/contractVehicles,https://services.govwin.com/neo-ws/govEntities/25780,,a0S4P000007UQGSUA4,612,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP172214/contacts,3,541512,https://services.govwin.com/neo-ws/opportunities/OPP172214/relatedArticles,OPP172214,"The Contracting Office stated that the Solicitation remains anticipated to be released in FY2019. However, a specific time frame for its release is currently unavailable. Jean Fluevog is the Point of Contact.",3-Mar,https://services.govwin.com/neo-ws/opportunities/OPP172214/fboNotices,red,red,,0014P000026SptgQAC,0,3/30/2021,0124P000000rFYAQA2,FEDERAL ACQUISITION SERVICE,http://www.fbo.gov,0,TRUE,,3,8(a) Set-Aside,FALSE,trackedopp,STREAMLINED TECHNOLOGY ACQUISITION RESOURCES FOR SERVICES III (STARS III),,No,Indefinite Delivery Indefinite Quantity;Firm Fixed Price;Time and Materials;Labor Hour,25165,,172214,TRUE,8/30/2021,IT Services,6/26/2019 20:48,TRUE,$27.5 million annual receipts,0054P000009CjeAQAS,10000000000,,https://services.govwin.com/neo-ws/opportunities/OPP172214/relatedDocuments,6/26/2019 13:09,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP172214/milestones,6/26/2019 20:48,STARS III,0054P000009CjeAQAS,8/19/2020,Computer Systems Design Services,https://services.govwin.com/neo-ws/opportunities/OPP172214/contracts,,,CONUS;OCONUS,Pre-RFP,9/9/2019,,,Gate 3 - Preliminary Bid,,6/26/2019 20:45,"The General Services Administration, Federal Supply Services, has a continuing requirement for an 8(a) Governmentwide  Acquisition Contract (GWAC) - STARS III. 
+
+ BACKGROUND 
+
+ The General Services Administration, Federal Supply Service (GSA FSS) Small Business Governmentwide Acquisition Contract (GWAC) Center, located in Kansas City, Missouri, has responsibility for awarding and administering contracts with small disadvantaged 8(a) firms. 
+
+ The resultant contracts provide high-quality information technology (IT) solutions. These contracts will enable the federal marketplace to fulfill IT requirements. These contracts also provide the Small Business GWAC Center with the opportunity to offer Federal Agencies innovative solutions that deliver the best value to support their missions worldwide. 
+
+ PREVIOUS REQUIREMENTS 
+
+ FA1: 541511- CUSTOM COMPUTER PROGRAMMING SERVICES: 
+
+ 
+	 This U.S. industry comprises establishments primarily engaged in writing, modifying, testing, and supporting software to meet the needs of a particular customer:
+	 
+		 Custom computer applications software programming services 
+		 Custom computer program or software development 
+		 Custom computer programming services 
+		 Custom computer software analysis and design services &bull; Custom computer software programming services 
+		 Custom computer software support services 
+		 Web (i.e. Internet) page design services, custom 
+	 
+	 
+ 
+
+ FA2: 541512- COMPUTER SYSTEMS DESIGN SERVICES: 
+
+ 
+	 This U.S. industry comprises establishments primarily engaged in planning and designing computer systems that integrate computer hardware, software, and communication technologies. The hardware and software components of the system may be provided by this establishment or company as part of integrated services or may be provided by third parties or vendors. These establishments often install the system and train and support users of the system:
+	 
+		 CAD (computer-aided design) systems integration design services 
+		 CAE (computer-aided engineering) systems integration design 
+		 CAM (computer-aided manufacturing) systems integration design &bull; Computer hardware consulting services or consultants 
+		 Computer software consulting services or consultants 
+		 Computer systems integration analysis and design services 
+		 Computer systems integration design consulting services 
+		 Computer integrator services 
+		 Information management computer systems integration design services 
+		 Local Area Network (LAN) computer systems integration design services 
+		 Computer network systems design services 
+		 Office automation computer systems integration design services 
+	 
+	 
+ 
+
+ FA3: NAICS 541513- COMPUTER FACILITIES MANAGEMENT SERVICES. 
+
+ 
+	 This U.S. industry comprises establishments primarily engaged in providing on-site management and operation of clients computer systems and/or data processing facilities. Establishments providing computer systems or data processing facilities support services are included in this industry:
+	 
+		 Computer systems facilities management and operation services 
+		 Data processing facilities management and operation services 
+		 Computer systems or data processing facilities management and operation services 
+		 Computer systems or data process facilities support services 
+	 
+	 
+ 
+
+ FA4: NAICS 541519- OTHER COMPUTER RELATED SERVICES. 
+
+ 
+	   This U.S. industry comprises establishments primarily engaged in providing computer related services (except custom programming, systems integration design, and facilities management services). Establishments providing computer disaster recovery services or software installation services are included in this industry
+
+	 
+		 Computer disaster recovery services 
+		 Computer software installation services 
+	 
+	 
+ 
+
+ Constellations: 
+
+ 
+	 The basic contract scope structure includes two levels, known as Constellations. Constellation I is the basic level in which contractors must demonstrate technical proficiency and offer competitive prices. Constellation II contractors must possess one or more of the following credentials, demonstrate technical proficiency and offer competitive prices:
+	 
+		 ISO 9001:2000 
+		 ISO 9001:2008 
+		 CMMI Level II (or higher) &ndash; DEV 
+		 CMMI Level II (or higher) &ndash; SVC 
+	 
+	 
+	 If the work fits in an FA and a customer requires one of the designated credentials, it is a Constellation II opportunity; otherwise, it is a Constellation I opportunity 
+	  A potential task order&rsquo;s scope may include project management associated with the IT service outcomes",https://services.govwin.com/neo-ws/opportunities/OPP172214/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP172214/companies,,IDIQ - GWAC,All attachments are available,0054P000009CjeAQAS,,10000000000,STREAMLINED TECHNOLOGY ACQUISITION RESOURCES FOR SERVICES III (STARS III),OPP172214,6/26/2019 20:47,FALSE,https://iq.govwin.com/neo/opportunity/view/172214,,5 year(s) base plus 1 x 5 year(s) option(s) null,,https://services.govwin.com/neo-ws/opportunities/OPP172214/contractVehicles,https://services.govwin.com/neo-ws/govEntities/25165,,a0S4P000008CXL6UAO,142,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP172214/contacts,0,541512,https://services.govwin.com/neo-ws/opportunities/OPP172214/relatedArticles,OPP172214,"The Contracting Office stated that the Solicitation remains anticipated to be released in FY2019. However, a specific time frame for its release is currently unavailable. Jean Fluevog is the Point of Contact.",0/3,https://services.govwin.com/neo-ws/opportunities/OPP172214/fboNotices,red,red,100,0014P000026SpMYQA0,0,9/1/2019,0124P000000rFYAQA2,FEDERAL ACQUISITION SERVICE,http://www.fbo.gov,0,TRUE,Prime,3,8(a) Set-Aside,FALSE,trackedopp,STREAMLINED TECHNOLOGY ACQUISITION RESOURCES FOR SERVICES III (STARS III),,No,Indefinite Delivery Indefinite Quantity;Firm Fixed Price;Time and Materials;Labor Hour,25165,,172214,TRUE,8/1/2020,IT Services,7/22/2019 8:33,TRUE,$27.5 million annual receipts,0054P000009CjJBQA0,10000000000,,https://services.govwin.com/neo-ws/opportunities/OPP172214/relatedDocuments,6/26/2019 13:09,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP172214/milestones,7/22/2019 8:33,STARS III,0054P000009CjJBQA0,8/19/2020,Computer Systems Design Services,https://services.govwin.com/neo-ws/opportunities/OPP172214/contracts,,No,CONUS;OCONUS,Pre-RFP,9/9/2019,,,Gate 4 - Bid Validation,,7/22/2019 8:33,"The General Services Administration, Federal Supply Services, has a continuing requirement for an 8(a) Governmentwide  Acquisition Contract (GWAC) - STARS III. 
+
+ BACKGROUND 
+
+ The General Services Administration, Federal Supply Service (GSA FSS) Small Business Governmentwide Acquisition Contract (GWAC) Center, located in Kansas City, Missouri, has responsibility for awarding and administering contracts with small disadvantaged 8(a) firms. 
+
+ The resultant contracts provide high-quality information technology (IT) solutions. These contracts will enable the federal marketplace to fulfill IT requirements. These contracts also provide the Small Business GWAC Center with the opportunity to offer Federal Agencies innovative solutions that deliver the best value to support their missions worldwide. 
+
+ PREVIOUS REQUIREMENTS 
+
+ FA1: 541511- CUSTOM COMPUTER PROGRAMMING SERVICES: 
+
+ 
+	 This U.S. industry comprises establishments primarily engaged in writing, modifying, testing, and supporting software to meet the needs of a particular customer:
+	 
+		 Custom computer applications software programming services 
+		 Custom computer program or software development 
+		 Custom computer programming services 
+		 Custom computer software analysis and design services &bull; Custom computer software programming services 
+		 Custom computer software support services 
+		 Web (i.e. Internet) page design services, custom 
+	 
+	 
+ 
+
+ FA2: 541512- COMPUTER SYSTEMS DESIGN SERVICES: 
+
+ 
+	 This U.S. industry comprises establishments primarily engaged in planning and designing computer systems that integrate computer hardware, software, and communication technologies. The hardware and software components of the system may be provided by this establishment or company as part of integrated services or may be provided by third parties or vendors. These establishments often install the system and train and support users of the system:
+	 
+		 CAD (computer-aided design) systems integration design services 
+		 CAE (computer-aided engineering) systems integration design 
+		 CAM (computer-aided manufacturing) systems integration design &bull; Computer hardware consulting services or consultants 
+		 Computer software consulting services or consultants 
+		 Computer systems integration analysis and design services 
+		 Computer systems integration design consulting services 
+		 Computer integrator services 
+		 Information management computer systems integration design services 
+		 Local Area Network (LAN) computer systems integration design services 
+		 Computer network systems design services 
+		 Office automation computer systems integration design services 
+	 
+	 
+ 
+
+ FA3: NAICS 541513- COMPUTER FACILITIES MANAGEMENT SERVICES. 
+
+ 
+	 This U.S. industry comprises establishments primarily engaged in providing on-site management and operation of clients computer systems and/or data processing facilities. Establishments providing computer systems or data processing facilities support services are included in this industry:
+	 
+		 Computer systems facilities management and operation services 
+		 Data processing facilities management and operation services 
+		 Computer systems or data processing facilities management and operation services 
+		 Computer systems or data process facilities support services 
+	 
+	 
+ 
+
+ FA4: NAICS 541519- OTHER COMPUTER RELATED SERVICES. 
+
+ 
+	   This U.S. industry comprises establishments primarily engaged in providing computer related services (except custom programming, systems integration design, and facilities management services). Establishments providing computer disaster recovery services or software installation services are included in this industry
+
+	 
+		 Computer disaster recovery services 
+		 Computer software installation services 
+	 
+	 
+ 
+
+ Constellations: 
+
+ 
+	 The basic contract scope structure includes two levels, known as Constellations. Constellation I is the basic level in which contractors must demonstrate technical proficiency and offer competitive prices. Constellation II contractors must possess one or more of the following credentials, demonstrate technical proficiency and offer competitive prices:
+	 
+		 ISO 9001:2000 
+		 ISO 9001:2008 
+		 CMMI Level II (or higher) &ndash; DEV 
+		 CMMI Level II (or higher) &ndash; SVC 
+	 
+	 
+	 If the work fits in an FA and a customer requires one of the designated credentials, it is a Constellation II opportunity; otherwise, it is a Constellation I opportunity 
+	  A potential task order&rsquo;s scope may include project management associated with the IT service outcomes",https://services.govwin.com/neo-ws/opportunities/OPP172214/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP172214/companies,New Business,IDIQ - GWAC,,0054P000009CjJBQA0,,10000000000,STREAMLINED TECHNOLOGY ACQUISITION RESOURCES FOR SERVICES III (STARS III),OPP172214,,FALSE,https://iq.govwin.com/neo/opportunity/view/172214,,5 year(s) base plus 1 x 5 year(s) option(s) null,,https://services.govwin.com/neo-ws/opportunities/OPP172214/contractVehicles,https://services.govwin.com/neo-ws/govEntities/25165,,a0S4P000007UOL9UAO,301,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP172214/contacts,3,541512,https://services.govwin.com/neo-ws/opportunities/OPP172214/relatedArticles,OPP172214,"The Contracting Office stated that the Solicitation remains anticipated to be released in FY2019. However, a specific time frame for its release is currently unavailable. Jean Fluevog is the Point of Contact.",3-Mar,https://services.govwin.com/neo-ws/opportunities/OPP172214/fboNotices,red,red,,0014P000026SpMYQA0,0,9/9/2019,0124P000000rFYAQA2,FEDERAL ACQUISITION SERVICE,http://www.fbo.gov,0,TRUE,,3,8(a) Set-Aside,FALSE,trackedopp,STREAMLINED TECHNOLOGY ACQUISITION RESOURCES FOR SERVICES III (STARS III),,No,Indefinite Delivery Indefinite Quantity;Firm Fixed Price;Time and Materials;Labor Hour,25165,,172214,TRUE,8/19/2020,IT Services,8/7/2019 15:09,TRUE,$27.5 million annual receipts,0054P000009CjeAQAS,10000000000,,https://services.govwin.com/neo-ws/opportunities/OPP172214/relatedDocuments,6/26/2019 13:09,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP172214/milestones,8/7/2019 15:09,STARS III,0054P000009CjeAQAS,8/19/2020,Computer Systems Design Services,https://services.govwin.com/neo-ws/opportunities/OPP172214/contracts,,,CONUS;OCONUS,Pre-RFP,9/9/2019,,,Gate 4 - Bid Validation,,8/7/2019 14:12,"The General Services Administration, Federal Supply Services, has a continuing requirement for an 8(a) Governmentwide  Acquisition Contract (GWAC) - STARS III. 
+
+ BACKGROUND 
+
+ The General Services Administration, Federal Supply Service (GSA FSS) Small Business Governmentwide Acquisition Contract (GWAC) Center, located in Kansas City, Missouri, has responsibility for awarding and administering contracts with small disadvantaged 8(a) firms. 
+
+ The resultant contracts provide high-quality information technology (IT) solutions. These contracts will enable the federal marketplace to fulfill IT requirements. These contracts also provide the Small Business GWAC Center with the opportunity to offer Federal Agencies innovative solutions that deliver the best value to support their missions worldwide. 
+
+ PREVIOUS REQUIREMENTS 
+
+ FA1: 541511- CUSTOM COMPUTER PROGRAMMING SERVICES: 
+
+ 
+	 This U.S. industry comprises establishments primarily engaged in writing, modifying, testing, and supporting software to meet the needs of a particular customer:
+	 
+		 Custom computer applications software programming services 
+		 Custom computer program or software development 
+		 Custom computer programming services 
+		 Custom computer software analysis and design services &bull; Custom computer software programming services 
+		 Custom computer software support services 
+		 Web (i.e. Internet) page design services, custom 
+	 
+	 
+ 
+
+ FA2: 541512- COMPUTER SYSTEMS DESIGN SERVICES: 
+
+ 
+	 This U.S. industry comprises establishments primarily engaged in planning and designing computer systems that integrate computer hardware, software, and communication technologies. The hardware and software components of the system may be provided by this establishment or company as part of integrated services or may be provided by third parties or vendors. These establishments often install the system and train and support users of the system:
+	 
+		 CAD (computer-aided design) systems integration design services 
+		 CAE (computer-aided engineering) systems integration design 
+		 CAM (computer-aided manufacturing) systems integration design &bull; Computer hardware consulting services or consultants 
+		 Computer software consulting services or consultants 
+		 Computer systems integration analysis and design services 
+		 Computer systems integration design consulting services 
+		 Computer integrator services 
+		 Information management computer systems integration design services 
+		 Local Area Network (LAN) computer systems integration design services 
+		 Computer network systems design services 
+		 Office automation computer systems integration design services 
+	 
+	 
+ 
+
+ FA3: NAICS 541513- COMPUTER FACILITIES MANAGEMENT SERVICES. 
+
+ 
+	 This U.S. industry comprises establishments primarily engaged in providing on-site management and operation of clients computer systems and/or data processing facilities. Establishments providing computer systems or data processing facilities support services are included in this industry:
+	 
+		 Computer systems facilities management and operation services 
+		 Data processing facilities management and operation services 
+		 Computer systems or data processing facilities management and operation services 
+		 Computer systems or data process facilities support services 
+	 
+	 
+ 
+
+ FA4: NAICS 541519- OTHER COMPUTER RELATED SERVICES. 
+
+ 
+	   This U.S. industry comprises establishments primarily engaged in providing computer related services (except custom programming, systems integration design, and facilities management services). Establishments providing computer disaster recovery services or software installation services are included in this industry
+
+	 
+		 Computer disaster recovery services 
+		 Computer software installation services 
+	 
+	 
+ 
+
+ Constellations: 
+
+ 
+	 The basic contract scope structure includes two levels, known as Constellations. Constellation I is the basic level in which contractors must demonstrate technical proficiency and offer competitive prices. Constellation II contractors must possess one or more of the following credentials, demonstrate technical proficiency and offer competitive prices:
+	 
+		 ISO 9001:2000 
+		 ISO 9001:2008 
+		 CMMI Level II (or higher) &ndash; DEV 
+		 CMMI Level II (or higher) &ndash; SVC 
+	 
+	 
+	 If the work fits in an FA and a customer requires one of the designated credentials, it is a Constellation II opportunity; otherwise, it is a Constellation I opportunity 
+	  A potential task order&rsquo;s scope may include project management associated with the IT service outcomes",https://services.govwin.com/neo-ws/opportunities/OPP172214/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP172214/companies,,IDIQ - GWAC,All attachments are available,0054P000009CjeAQAS,,10000000000,STREAMLINED TECHNOLOGY ACQUISITION RESOURCES FOR SERVICES III (STARS III),OPP172214,8/7/2019 15:09,FALSE,https://iq.govwin.com/neo/opportunity/view/172214,,5 year(s) base plus 1 x 5 year(s) option(s) null,,https://services.govwin.com/neo-ws/opportunities/OPP172214/contractVehicles,https://services.govwin.com/neo-ws/govEntities/25165,,a0S4P000007UQH6UAO,620,SYNCED,,,,
+Not Started,https://services.govwin.com/neo-ws/opportunities/OPP182614/contacts,0,541512,https://services.govwin.com/neo-ws/opportunities/OPP182614/relatedArticles,OPP182614,"The Contracting Office released a Presolicitation Notice on July 25, 2019. A Solicitation set-aside 100% for competition limited to eligible 8(a) vendors is anticipated in August 2019. Melinda Riddick is the primary POC for this effort.",0/0,https://services.govwin.com/neo-ws/opportunities/OPP182614/fboNotices,red,red,,0014P000026SptoQAC,0,8/15/2019,0124P000000rFYAQA2,SECRETARY OF TRANSPORTATION,https://www.fbo.gov/index?s=opportunity&mode=form&id=16a23421be2b36d6f9d1642d6cf24c4e&tab=core&_cview=0,0,FALSE,,0,8(a) Set-Aside,FALSE,trackedopp,Computer System Design Services (TIGER/BUILD),693JK419R600006,No,Indefinite Delivery Indefinite Quantity;Firm Fixed Price;Time and Materials;Labor Hour,25788,,182614,TRUE,11/1/2019,IT Services,7/30/2019 18:39,TRUE,$27.5 million annual receipts,0054P000009CjeAQAS,0,,https://services.govwin.com/neo-ws/opportunities/OPP182614/relatedDocuments,7/29/2019 16:24,FALSE,https://services.govwin.com/neo-ws/opportunities/OPP182614/milestones,7/30/2019 18:39,,0054P000009CjeAQAS,11/29/2019,Computer Systems Design Services,https://services.govwin.com/neo-ws/opportunities/OPP182614/contracts,,,"Washington, District Of Columbia, United States",Pre-RFP,8/30/2019,,,Gate 2 - Pursuit,,7/30/2019 18:39,"The US Department of Transportation, Office of the Secretary of Transportation (OST), has a requirement for information technology (IT) and program administration support services from a Contractor to support a variety of activities pursuant to the BUILD Discretionary Grants program.  
+
+ REQUIREMENTS 
+
+ 
+	 The Office of the Secretary of Transportation (OST) seeks information technology (IT) and program administration support services from a Contractor to support a variety of activities pursuant to the BUILD Discretionary Grants program. This includes developing and assembling grant packages for Department review, using and accessing systems for receiving, analyzing, archiving, researching, and reporting on pre-applications, if applicable, and applications received in response to the BUILD Discretionary Grants program, support and analysis of awarded grants previously executed and in process, research and preparation of material pursuant to the process of de-briefing TIGER/BUILD program applicants, research and preparation of material pursuant to data inquiries about the TIGER/ BUILD program. Continuous assistance in grants management and performance management systems is essential to the successful deployment and implementation of the statutory requirements of the BUILD program.  This includes further build out, organization, analysis, and management of the Performance Management system for all grants.",https://services.govwin.com/neo-ws/opportunities/OPP182614/placesOfPerformance,https://services.govwin.com/neo-ws/opportunities/OPP182614/companies,,IDIQ - Agency Specific,,0054P000009CjeAQAS,,0,COMPUTER SYSTEM DESIGN SERVICES TIGER BUILD,OPP182614,7/30/2019 18:40,FALSE,https://iq.govwin.com/neo/opportunity/view/182614,,12 month(s) base plus 3 x 12 month(s) option(s) null,,https://services.govwin.com/neo-ws/opportunities/OPP182614/contractVehicles,https://services.govwin.com/neo-ws/govEntities/25788,,a0S4P000007UPLdUAO,308,SYNCED,,,,

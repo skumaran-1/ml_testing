@@ -7,6 +7,11 @@ from nltk.corpus import stopwords
 # import for multi layers for the model
 from tensorflow.python.keras.layers import Dense, Dropout, Activation, Embedding, Conv1D, GlobalMaxPooling1D, LSTM, MaxPooling1D
 
+########################
+
+import pickle
+
+
 # pandas cvs
 df = pd.read_csv(r'ITMO_raw_data.csv')
 
@@ -111,15 +116,13 @@ def stem(words):
 # end of functions
 #################################################
 
-lenOfdf = len(df.index)
-
 pre = []
 
 #pol = []
 
 # change all the raw text into useful stuff and store them in pre and pol
 # runtime: O(n)
-for i in range(lenOfdf):
+for i in range(len(df.index)):
     text = df['Contract description'].iloc[i]
     #polarity = df['Polarity'].iloc[i]
     review_cleaned = replace_contractions(text)
@@ -398,7 +401,7 @@ words_ids = tf.constant(getList(reverse_dictionary))
 embeddings = tf.keras.layers.Embedding(VOCAB_LEN, EMBED_SIZE)
 # this is the embedding layer that is matched to our dimensions for our vocab set
 
-finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsNumberList, value=0, padding='post', maxlen=256)
+finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsNumberList, value=0, padding='post', maxlen=516)
 # this pads the finalWordsNumberList sentences so that they are all the same length
 # adding 0s after will allow it to fit in the model
 
@@ -451,18 +454,18 @@ model.compile(optimizer='adam',
 ################################################################################
 # data splitting/fitting/training/ and evaluating
 
-x_val = finalWordsNumberList[:5]
-partial_x_train = finalWordsNumberList[5:25]
+x_val = finalWordsNumberList[:12]
+partial_x_train = finalWordsNumberList[12:25]
 
-y_val = pol[:5]
-partial_y_train = pol[5:25]
+y_val = pol[:12]
+partial_y_train = pol[12:25]
 
 test_data = finalWordsNumberList[25:]
 test_labels = pol[25:]
 
 history = model.fit(partial_x_train,
                     partial_y_train,
-                    epochs=40,
+                    epochs=30,
                     batch_size=516,
                     validation_data=(x_val, y_val),
                     verbose=2)
@@ -470,7 +473,6 @@ history = model.fit(partial_x_train,
 results = model.evaluate(test_data, test_labels)
 
 print(results)
-
 
 ###
 # this is where the real data predict would go
@@ -484,7 +486,7 @@ print(results)
 ################################################################################
 
 # graph evaluation for us to adjust models which we commented out
-'''
+
 history_dict = history.history
 history_dict.keys()
 
@@ -520,30 +522,16 @@ plt.ylabel('Accuracy')
 plt.legend()
 
 plt.show()
-'''
+
 
 ################################################################################
 # atfer this will be to save and export the model
 ################################################################################
 
-v1 = tf.get_variable("v1", shape=[3], initializer = tf.zeros_initializer)
-v2 = tf.get_variable("v2", shape=[5], initializer = tf.zeros_initializer)
+model.save("model.h5")
 
-inc_v1 = v1.assign(v1+1)
-dec_v2 = v2.assign(v2-1)
+with open('dictionary.pickle', 'wb') as handle:
+    pickle.dump(dictionary, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
-# Add an op to initialize the variables.
-init_op = tf.global_variables_initializer()
-
-# Add ops to save and restore all the variables.
-saver = tf.train.Saver()
-
-# Later, launch the model, initialize the variables, do some work, and save the
-# variables to disk.
-with tf.Session() as sess:
-  sess.run(init_op)
-  # Do some work with the model.
-  inc_v1.op.run()
-  dec_v2.op.run()
-  # Save the variables to disk.
-  save_path = saver.save(sess, "model.ckpt")
+with open('reverse_dictionary.pickle', 'wb') as handle:
+    pickle.dump(reverse_dictionary, handle, protocol=pickle.HIGHEST_PROTOCOL)
