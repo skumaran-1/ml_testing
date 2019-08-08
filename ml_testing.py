@@ -115,19 +115,19 @@ lenOfdf = len(df.index)
 
 pre = []
 
-pol = []
+#pol = []
 
 # change all the raw text into useful stuff and store them in pre and pol
 # runtime: O(n)
 for i in range(lenOfdf):
     text = df['Contract description'].iloc[i]
-    polarity = df['Polarity'].iloc[i]
+    #polarity = df['Polarity'].iloc[i]
     review_cleaned = replace_contractions(text)
     review_cleaned = denoise_text(review_cleaned)
     review_cleaned = nltk.word_tokenize(review_cleaned)
     review_cleaned = normalize(review_cleaned)
     pre.append(review_cleaned)
-    pol.append(polarity)
+    #pol.append(polarity)
 
 pol = df['Polarity'].to_numpy().tolist()
 
@@ -435,7 +435,7 @@ model.add(Conv1D(filters,
                  strides=1))
 model.add(MaxPooling1D(pool_size=pool_size))
 model.add(LSTM(lstm_output_size))
-# might change to 16 we'll see
+# might change to 4 or 16 we'll see
 model.add(Dense(1))
 model.add(Activation('sigmoid'))
 
@@ -525,6 +525,25 @@ plt.show()
 ################################################################################
 # atfer this will be to save and export the model
 ################################################################################
-model.save("ITOM_model")
 
-# model = load_model("ITOM_model")
+v1 = tf.get_variable("v1", shape=[3], initializer = tf.zeros_initializer)
+v2 = tf.get_variable("v2", shape=[5], initializer = tf.zeros_initializer)
+
+inc_v1 = v1.assign(v1+1)
+dec_v2 = v2.assign(v2-1)
+
+# Add an op to initialize the variables.
+init_op = tf.global_variables_initializer()
+
+# Add ops to save and restore all the variables.
+saver = tf.train.Saver()
+
+# Later, launch the model, initialize the variables, do some work, and save the
+# variables to disk.
+with tf.Session() as sess:
+  sess.run(init_op)
+  # Do some work with the model.
+  inc_v1.op.run()
+  dec_v2.op.run()
+  # Save the variables to disk.
+  save_path = saver.save(sess, "model.ckpt")
