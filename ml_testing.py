@@ -423,7 +423,7 @@ for i in finalWordsNumberList:
     print(i)
 
 print("BIGGEST = ", a, c)
-finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsNumberList, value=0, padding='post', maxlen=1024)
+finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsNumberList, value=0, padding='post', maxlen=a)
 
 for i in finalWordsNumberList:
     print(len(i))
@@ -502,7 +502,7 @@ test_labels = pol[60:]
 
 history = model.fit(partial_x_train,
                     partial_y_train,
-                    epochs=25,
+                    epochs=40,
                     batch_size=516,
                     validation_data=(x_val, y_val),
                     verbose=2)
