@@ -422,7 +422,7 @@ for i in finalWordsNumberList:
         a = b
     print(i)
 
-print("BIGGEST = ", b, c)
+print("BIGGEST = ", a, c)
 finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsNumberList, value=0, padding='post', maxlen=1024)
 
 for i in finalWordsNumberList:
@@ -458,7 +458,7 @@ lstm_output_size = 70
 # dropout
 model.add(Dropout(0.25))
 # convo layer that helped
-# MASKING THE EMBEDDING LAYER WILL NOT ALLOW YOU TO DO CONVOLUTION or MaxPooling1D 
+# MASKING THE EMBEDDING LAYER WILL NOT ALLOW YOU TO DO CONVOLUTION or MaxPooling1D
 #model.add(Conv1D(filters,
 #                 kernel_size,
 #                 padding='valid',
@@ -505,7 +505,7 @@ history = model.fit(partial_x_train,
                     epochs=25,
                     batch_size=516,
                     validation_data=(x_val, y_val),
-                    verbose=2)
+                    verbose=1)
 
 results = model.evaluate(test_data, test_labels)
 
