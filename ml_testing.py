@@ -505,7 +505,7 @@ history = model.fit(partial_x_train,
                     epochs=25,
                     batch_size=516,
                     validation_data=(x_val, y_val),
-                    verbose=1)
+                    verbose=2)
 
 results = model.evaluate(test_data, test_labels)
 
