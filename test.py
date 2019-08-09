@@ -142,7 +142,7 @@ print(len(finalWordsNumberList[0]))
 for list in finalWordsNumberList:
     print(len(list))
 
-finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsNumberList, value=0, padding='post', maxlen=256)
+finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsNumberList, value=0, padding='post', maxlen=1024)
 
 
 results = []

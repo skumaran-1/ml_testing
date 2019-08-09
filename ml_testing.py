@@ -408,7 +408,7 @@ def getList(dict):
 
 words_ids = tf.constant(getList(reverse_dictionary))
 
-embeddings = tf.keras.layers.Embedding(VOCAB_LEN, EMBED_SIZE)
+embeddings = tf.keras.layers.Embedding(VOCAB_LEN, EMBED_SIZE, mask_zero=True)
 # this is the embedding layer that is matched to our dimensions for our vocab set
 
 a = 0
@@ -423,7 +423,7 @@ for i in finalWordsNumberList:
     print(i)
 
 print("BIGGEST = ", b, c)
-finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsNumberList, value=0, padding='post', maxlen=512)
+finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsNumberList, value=0, padding='post', maxlen=1024)
 
 for i in finalWordsNumberList:
     print(len(i))
@@ -458,12 +458,13 @@ lstm_output_size = 70
 # dropout
 model.add(Dropout(0.25))
 # convo layer that helped
-model.add(Conv1D(filters,
-                 kernel_size,
-                 padding='valid',
-                 activation='relu',
-                 strides=1))
-model.add(MaxPooling1D(pool_size=pool_size))
+# MASKING THE EMBEDDING LAYER WILL NOT ALLOW YOU TO DO CONVOLUTION or MaxPooling1D 
+#model.add(Conv1D(filters,
+#                 kernel_size,
+#                 padding='valid',
+#                 activation='relu',
+#                 strides=1))
+#model.add(MaxPooling1D(pool_size=pool_size))
 model.add(LSTM(lstm_output_size))
 # might change to 4 or 16 we'll see
 model.add(Dense(1))
