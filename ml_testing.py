@@ -11,7 +11,6 @@ from tensorflow.python.keras.layers import Dense, Dropout, Activation, Embedding
 
 import pickle
 
-
 # pandas cvs
 df = pd.read_csv(r'ITMO_raw_data.csv')
 
@@ -116,13 +115,15 @@ def stem(words):
 # end of functions
 #################################################
 
+lenOfdf = len(df.index)
+
 pre = []
 
 #pol = []
 
 # change all the raw text into useful stuff and store them in pre and pol
 # runtime: O(n)
-for i in range(len(df.index)):
+for i in range(lenOfdf):
     text = df['Contract description'].iloc[i]
     #polarity = df['Polarity'].iloc[i]
     review_cleaned = replace_contractions(text)
@@ -169,6 +170,15 @@ real = [item for sublist in pre for item in sublist]
 #print(real)
 #builds based on the flat
 data, count, dictionary, reverse_dictionary = build_dataset(real, vocabulary_size)
+
+print(data)
+
+print(count)
+
+print(dictionary)
+
+print(reverse_dictionary)
+
 
 #print('Most common words (+UNK)', count[:5])
 #print('Sample data', data[:10], [reverse_dictionary[i] for i in data[:10]])
@@ -401,7 +411,24 @@ words_ids = tf.constant(getList(reverse_dictionary))
 embeddings = tf.keras.layers.Embedding(VOCAB_LEN, EMBED_SIZE)
 # this is the embedding layer that is matched to our dimensions for our vocab set
 
-finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsNumberList, value=0, padding='post', maxlen=516)
+a = 0
+c = []
+
+for i in finalWordsNumberList:
+    b = len(i)
+    print(b)
+    c.append(b)
+    if (b > a):
+        a = b
+    print(i)
+
+print("BIGGEST = ", b, c)
+finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsNumberList, value=0, padding='post', maxlen=512)
+
+for i in finalWordsNumberList:
+    print(len(i))
+    print(i)
+
 # this pads the finalWordsNumberList sentences so that they are all the same length
 # adding 0s after will allow it to fit in the model
 
@@ -454,18 +481,27 @@ model.compile(optimizer='adam',
 ################################################################################
 # data splitting/fitting/training/ and evaluating
 
-x_val = finalWordsNumberList[:12]
-partial_x_train = finalWordsNumberList[12:25]
+# split 80% partial train
+# split 10% val train
+# split 10% test
 
-y_val = pol[:12]
-partial_y_train = pol[12:25]
+partial_x_train = finalWordsNumberList[:53]
+partial_y_train = pol[:53]
 
-test_data = finalWordsNumberList[25:]
-test_labels = pol[25:]
+x_val = finalWordsNumberList[53:60]
+y_val = pol[53:60]
+
+test_data = finalWordsNumberList[60:]
+test_labels = pol[60:]
+
+# 20 under
+
+# 30 over
+# 40 over
 
 history = model.fit(partial_x_train,
                     partial_y_train,
-                    epochs=30,
+                    epochs=25,
                     batch_size=516,
                     validation_data=(x_val, y_val),
                     verbose=2)
@@ -473,6 +509,7 @@ history = model.fit(partial_x_train,
 results = model.evaluate(test_data, test_labels)
 
 print(results)
+
 
 ###
 # this is where the real data predict would go
@@ -534,4 +571,4 @@ with open('dictionary.pickle', 'wb') as handle:
     pickle.dump(dictionary, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
 with open('reverse_dictionary.pickle', 'wb') as handle:
-    pickle.dump(reverse_dictionary, handle, protocol=pickle.HIGHEST_PROTOCOL)
+    pickle.dump(dictionary, handle, protocol=pickle.HIGHEST_PROTOCOL)

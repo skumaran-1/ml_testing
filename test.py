@@ -149,14 +149,4 @@ results = []
 
 a = model.predict(finalWordsNumberList,use_multiprocessing=True)
 
-yes = 0
-no = 0
-
-for i in a:
-    if i > .5:
-        yes+=1
-    else:
-        no+=1
-
-print(yes)
-print(no)
+print(a)
