@@ -171,13 +171,13 @@ real = [item for sublist in pre for item in sublist]
 #builds based on the flat
 data, count, dictionary, reverse_dictionary = build_dataset(real, vocabulary_size)
 
-print(data)
+#print(data)
 
-print(count)
+#print(count)
 
-print(dictionary)
+#print(dictionary)
 
-print(reverse_dictionary)
+#print(reverse_dictionary)
 
 
 #print('Most common words (+UNK)', count[:5])
@@ -393,7 +393,8 @@ def random():
 
 ################################################################################
 # start of the custom word embedding layer
-EMBED_SIZE = 256
+# have this to closest "memory digit" ie 4,14,64,128,256 to 1/10 of the vocab size
+EMBED_SIZE = 512
 VOCAB_LEN = len(dictionary.keys())
 
 #print(VOCAB_LEN)
@@ -416,18 +417,21 @@ c = []
 
 for i in finalWordsNumberList:
     b = len(i)
-    print(b)
+#    print(b)
     c.append(b)
     if (b > a):
         a = b
-    print(i)
+#    print(i)
 
 print("BIGGEST = ", a, c)
+
+# a is all the words in the vocab set up to 10,000
+# this increased customization of the model below
 finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsNumberList, value=0, padding='post', maxlen=a)
 
-for i in finalWordsNumberList:
-    print(len(i))
-    print(i)
+#for i in finalWordsNumberList:
+#    print(len(i))
+#    print(i)
 
 # this pads the finalWordsNumberList sentences so that they are all the same length
 # adding 0s after will allow it to fit in the model
@@ -450,13 +454,16 @@ model.add(tf.keras.layers.Dense(16, activation=tf.nn.relu))
 model.add(tf.keras.layers.Dense(1, activation=tf.nn.sigmoid))
 '''
 ############### option 3
-filters = 64
-kernel_size = 5
-pool_size = 4
-lstm_output_size = 70
+# option 3 only works if unmasked, Added masking to to help with preprocessing and to account for a gigher vocab set count
+# the final option is used because we wanted to have the most in the vocab set which is above
+#######################
+#filters = 64
+#kernel_size = 5
+#pool_size = 4
+#lstm_output_size = 70
 # multi layer model
 # dropout
-model.add(Dropout(0.25))
+#model.add(Dropout(0.25))
 # convo layer that helped
 # MASKING THE EMBEDDING LAYER WILL NOT ALLOW YOU TO DO CONVOLUTION or MaxPooling1D
 #model.add(Conv1D(filters,
@@ -465,11 +472,25 @@ model.add(Dropout(0.25))
 #                 activation='relu',
 #                 strides=1))
 #model.add(MaxPooling1D(pool_size=pool_size))
-model.add(LSTM(lstm_output_size))
-# might change to 4 or 16 we'll see
+#model.add(LSTM(lstm_output_size))
+# you cannot reshape a masked layer
+
+# option final
+# bc masking prevents convolutions we added more LSTM layers to improve accuracy
+model.add(Dropout(0.25))
+model.add(LSTM(128, return_sequences=True))
+model.add(LSTM(64, return_sequences=True))
+model.add(LSTM(1))
 model.add(Dense(1))
 model.add(Activation('sigmoid'))
 
+'''
+################################ NOTE ################################
+THIS TAKES AROUND 30 MIN TO RUN (1 per epoch)
+HOWEVER THE ACCURACY AND EVERYTHING IS SIGNIFICANTLY HIGHER
+# this can be changed below to make
+sure you are not overfitting or underfitting
+'''
 # end model build
 ################################################################################
 
@@ -502,10 +523,11 @@ test_labels = pol[60:]
 
 history = model.fit(partial_x_train,
                     partial_y_train,
-                    epochs=40,
-                    batch_size=516,
+                    epochs=30,
+                    batch_size=512,
                     validation_data=(x_val, y_val),
-                    verbose=2)
+                    verbose=1,
+                    )
 
 results = model.evaluate(test_data, test_labels)
 
