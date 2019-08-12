@@ -6,38 +6,28 @@ import re, contractions, nltk, unicodedata, inflect, collections, random, math
 from nltk.corpus import stopwords
 # import for multi layers for the model
 from tensorflow.python.keras.layers import Dense, Dropout, Activation, Embedding, Conv1D, GlobalMaxPooling1D, LSTM, MaxPooling1D
-
-########################
-
+################################################################################
 import pickle
-
 # pandas cvs
 df = pd.read_csv(r'ITMO_raw_data.csv')
-
-################################################
-
+################################################################################
 # all these function will strip raw text and turn them into
 # useful things
 # there are other things that do this but this was easiest
 # and for our purpose this was the best
-
 def strip_html(text):
     soup = BeautifulSoup(text, "html.parser")
     return soup.get_text()
-
 def remove_between_square_brackets(text):
     return re.sub('\[[^]]*\]', '', text)
-
 def denoise_text(text):
     text = strip_html(text)
     text = remove_between_square_brackets(text)
     return text
-
 def replace_contractions(text):
 #    print(text)
     """Replace contractions in string of text"""
     return contractions.fix(text)
-
 def remove_non_ascii(words):
     """Remove non-ASCII characters from list of tokenized words"""
     new_words = []
@@ -45,7 +35,6 @@ def remove_non_ascii(words):
         new_word = unicodedata.normalize('NFKD', word).encode('ascii', 'ignore').decode('utf-8', 'ignore')
         new_words.append(new_word)
     return new_words
-
 def to_lowercase(words):
     """Convert all characters to lowercase from list of tokenized words"""
     new_words = []
@@ -53,7 +42,6 @@ def to_lowercase(words):
         new_word = word.lower()
         new_words.append(new_word)
     return new_words
-
 def remove_punctuation(words):
     """Remove punctuation from list of tokenized words"""
     new_words = []
@@ -62,7 +50,6 @@ def remove_punctuation(words):
         if new_word != '':
             new_words.append(new_word)
     return new_words
-
 def replace_numbers(words):
     """Replace all interger occurrences in list of tokenized words with textual representation"""
     p = inflect.engine()
@@ -73,7 +60,6 @@ def replace_numbers(words):
         else:
             new_words.append(word)
     return new_words
-
 def remove_stopwords(words):
     """Remove stop words from list of tokenized words"""
     new_words = []
@@ -81,7 +67,6 @@ def remove_stopwords(words):
         if word not in stopwords.words('english'):
             new_words.append(word)
     return new_words
-
 def stem_words(words):
     """Stem words in list of tokenized words"""
     stemmer = LancasterStemmer()
@@ -90,7 +75,6 @@ def stem_words(words):
         stem = stemmer.stem(word)
         stems.append(stem)
     return stems
-
 def lemmatize_verbs(words):
     """Lemmatize verbs in list of tokenized words"""
     lemmatizer = WordNetLemmatizer()
@@ -99,7 +83,6 @@ def lemmatize_verbs(words):
         lemma = lemmatizer.lemmatize(word, pos='v')
         lemmas.append(lemma)
     return lemmas
-
 def normalize(words):
     words = remove_non_ascii(words)
     words = to_lowercase(words)
@@ -107,13 +90,11 @@ def normalize(words):
     words = replace_numbers(words)
     words = remove_stopwords(words)
     return words
-
 def stem(words):
     stems = stem_words(words)
     return stems
-
 # end of functions
-#################################################
+################################################################################
 
 lenOfdf = len(df.index)
 
@@ -161,6 +142,9 @@ def build_dataset(words, n_words):
     reversed_dictionary = dict(zip(dictionary.values(), dictionary.keys()))
     return data, count, dictionary, reversed_dictionary
 
+# YOU CAN CHANGE THIS IF YOU GO ABOVE ITS JUST THE CAP
+# AS OF 8/12/2019 COUNT REACHED 5013 SO WE ARE GOING TO KEEP
+# THIS FOR NOW
 vocabulary_size = 10000
 
 #print(pre)
@@ -178,7 +162,6 @@ data, count, dictionary, reverse_dictionary = build_dataset(real, vocabulary_siz
 #print(dictionary)
 
 #print(reverse_dictionary)
-
 
 #print('Most common words (+UNK)', count[:5])
 #print('Sample data', data[:10], [reverse_dictionary[i] for i in data[:10]])
@@ -394,7 +377,7 @@ def random():
 ################################################################################
 # start of the custom word embedding layer
 # have this to closest "memory digit" ie 4,14,64,128,256 to 1/10 of the vocab size
-EMBED_SIZE = 512
+EMBED_SIZE = 512 # more dimensions in the word will mean more time to train
 VOCAB_LEN = len(dictionary.keys())
 
 #print(VOCAB_LEN)
@@ -453,6 +436,8 @@ model.add(tf.keras.layers.GlobalAveragePooling1D())
 model.add(tf.keras.layers.Dense(16, activation=tf.nn.relu))
 model.add(tf.keras.layers.Dense(1, activation=tf.nn.sigmoid))
 '''
+################################################################################
+'''
 ############### option 3
 # option 3 only works if unmasked, Added masking to to help with preprocessing and to account for a gigher vocab set count
 # the final option is used because we wanted to have the most in the vocab set which is above
@@ -474,7 +459,8 @@ model.add(tf.keras.layers.Dense(1, activation=tf.nn.sigmoid))
 #model.add(MaxPooling1D(pool_size=pool_size))
 #model.add(LSTM(lstm_output_size))
 # you cannot reshape a masked layer
-
+'''
+################################################################################
 # option final
 # bc masking prevents convolutions we added more LSTM layers to improve accuracy
 model.add(Dropout(0.25))
