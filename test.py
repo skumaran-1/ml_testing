@@ -110,9 +110,13 @@ with open('dictionary.pickle', 'rb') as handle:
 with open('reverse_dictionary.pickle', 'rb') as handle:
     reverse_dictionary = pickle.load(handle)
 
-df = pd.read_csv(r'db_contracts.csv')
+df = pd.read_csv(r'0 contracts.csv')
 
-description = df['tm_govsuite__description__c']
+#df = pd.read_csv(r'db_contracts.csv')
+
+description = df['Contract description']
+
+#description = df['tm_govsuite__description__c']
 
 cleaned_descriptions = []
 
@@ -137,7 +141,7 @@ for list in cleaned_descriptions:
             sentence.append(word)
     finalWordsNumberList.append(sentence)
 
-finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsNumberList, value=0, padding='post', maxlen=1024)
+finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsNumberList, value=0, padding='post')
 
 results = []
 

@@ -395,22 +395,22 @@ words_ids = tf.constant(getList(reverse_dictionary))
 embeddings = tf.keras.layers.Embedding(VOCAB_LEN, EMBED_SIZE, mask_zero=True)
 # this is the embedding layer that is matched to our dimensions for our vocab set
 
-a = 0
-c = []
+#a = 0
+#c = []
 
-for i in finalWordsNumberList:
-    b = len(i)
+#for i in finalWordsNumberList:
+#    b = len(i)
 #    print(b)
-    c.append(b)
-    if (b > a):
-        a = b
+#    c.append(b)
+#    if (b > a):
+#        a = b
 #    print(i)
 
-print("BIGGEST = ", a, c)
+#print("BIGGEST = ", a, c)
 
 # a is all the words in the vocab set up to 10,000
 # this increased customization of the model below
-finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsNumberList, value=0, padding='post', maxlen=a)
+finalWordsNumberList = tf.keras.preprocessing.sequence.pad_sequences(finalWordsNumberList, value=0, padding='post')
 
 #for i in finalWordsNumberList:
 #    print(len(i))
@@ -451,6 +451,7 @@ model.add(tf.keras.layers.Dense(1, activation=tf.nn.sigmoid))
 #model.add(Dropout(0.25))
 # convo layer that helped
 # MASKING THE EMBEDDING LAYER WILL NOT ALLOW YOU TO DO CONVOLUTION or MaxPooling1D
+# you cannot reshape a masked layer
 #model.add(Conv1D(filters,
 #                 kernel_size,
 #                 padding='valid',
@@ -458,10 +459,10 @@ model.add(tf.keras.layers.Dense(1, activation=tf.nn.sigmoid))
 #                 strides=1))
 #model.add(MaxPooling1D(pool_size=pool_size))
 #model.add(LSTM(lstm_output_size))
-# you cannot reshape a masked layer
 '''
 ################################################################################
-# option final
+# option 5
+############ PLEASE CHECK THAT THE MASK IS ON IN THE EMBEDDING LAYER
 # bc masking prevents convolutions we added more LSTM layers to improve accuracy
 model.add(Dropout(0.25))
 model.add(LSTM(128, return_sequences=True))
@@ -469,7 +470,6 @@ model.add(LSTM(64, return_sequences=True))
 model.add(LSTM(1))
 model.add(Dense(1))
 model.add(Activation('sigmoid'))
-
 '''
 ################################ NOTE ################################
 THIS TAKES AROUND 30 MIN TO RUN (1 per epoch)
@@ -477,6 +477,10 @@ HOWEVER THE ACCURACY AND EVERYTHING IS SIGNIFICANTLY HIGHER
 # this can be changed below to make
 sure you are not overfitting or underfitting
 '''
+################################################################################
+# option 6
+# TURN MASK LAYER OFF
+
 # end model build
 ################################################################################
 
@@ -509,16 +513,15 @@ test_labels = pol[60:]
 
 history = model.fit(partial_x_train,
                     partial_y_train,
-                    epochs=30,
-                    batch_size=512,
+                    epochs=25,
+                    batch_size=1024,
                     validation_data=(x_val, y_val),
-                    verbose=1,
+                    verbose=2,
                     )
 
 results = model.evaluate(test_data, test_labels)
 
 print(results)
-
 
 ###
 # this is where the real data predict would go
@@ -568,7 +571,6 @@ plt.ylabel('Accuracy')
 plt.legend()
 
 plt.show()
-
 
 ################################################################################
 # atfer this will be to save and export the model
