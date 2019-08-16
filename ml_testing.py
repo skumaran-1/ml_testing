@@ -506,10 +506,13 @@ y_val = pol[53:60]
 test_data = finalWordsNumberList[60:]
 test_labels = pol[60:]
 
+# epoch Rules:
 # 20 under
 # 25 epochs turns into 100% without over or under fitting
 # 30 over
 # 40 over
+
+# batch sizes:
 
 history = model.fit(partial_x_train,
                     partial_y_train,
