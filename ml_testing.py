@@ -507,7 +507,7 @@ test_data = finalWordsNumberList[60:]
 test_labels = pol[60:]
 
 # 20 under
-
+# 25 epochs turns into 100% without over or under fitting
 # 30 over
 # 40 over
 
