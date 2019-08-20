@@ -10,109 +10,37 @@ from tensorflow.python.keras.layers import Dense, Dropout, Activation, Embedding
 import pickle
 # pandas cvs
 df = pd.read_csv(r'ITMO_raw_data.csv')
+###############################################################################
+# this is a function that will shorten and turn all the little steps into 1
+# at first we were doing all the little things but then we combined this into 1
+# giant function, now this will allow us to have this function anywhere and work
+# with our model for pre-processing
+
+def cleanedTokens(df):
+    lenOfdf = len(df.index)
+    pre = []
+    for i in range(lenOfdf):
+        text = df['Contract description'].iloc[i]
+        text = contractions.fix(text)
+        soup = BeautifulSoup(text, "html.parser")
+        text = soup.get_text()
+        text = re.sub('\[[^]]*\]', '', text)
+        text = nltk.word_tokenize(text)
+        new_words = []
+        for word in text:
+            new_word = unicodedata.normalize('NFKD', word).encode('ascii', 'ignore').decode('utf-8', 'ignore')
+            new_word = new_word.lower()
+            new_word = re.sub(r'[^\w\s]', '', new_word)
+            if new_word != '':
+                if new_word.isdigit():
+                    continue
+                elif new_word not in stopwords.words('english'):
+                    new_words.append(new_word)
+        pre.append(new_words)
+    return pre
+
 ################################################################################
-# all these function will strip raw text and turn them into
-# useful things
-# there are other things that do this but this was easiest
-# and for our purpose this was the best
-def strip_html(text):
-    soup = BeautifulSoup(text, "html.parser")
-    return soup.get_text()
-def remove_between_square_brackets(text):
-    return re.sub('\[[^]]*\]', '', text)
-def denoise_text(text):
-    text = strip_html(text)
-    text = remove_between_square_brackets(text)
-    return text
-def replace_contractions(text):
-#    print(text)
-    """Replace contractions in string of text"""
-    return contractions.fix(text)
-def remove_non_ascii(words):
-    """Remove non-ASCII characters from list of tokenized words"""
-    new_words = []
-    for word in words:
-        new_word = unicodedata.normalize('NFKD', word).encode('ascii', 'ignore').decode('utf-8', 'ignore')
-        new_words.append(new_word)
-    return new_words
-def to_lowercase(words):
-    """Convert all characters to lowercase from list of tokenized words"""
-    new_words = []
-    for word in words:
-        new_word = word.lower()
-        new_words.append(new_word)
-    return new_words
-def remove_punctuation(words):
-    """Remove punctuation from list of tokenized words"""
-    new_words = []
-    for word in words:
-        new_word = re.sub(r'[^\w\s]', '', word)
-        if new_word != '':
-            new_words.append(new_word)
-    return new_words
-def replace_numbers(words):
-    """Replace all interger occurrences in list of tokenized words with textual representation"""
-    p = inflect.engine()
-    new_words = []
-    for word in words:
-        if word.isdigit():
-            continue
-        else:
-            new_words.append(word)
-    return new_words
-def remove_stopwords(words):
-    """Remove stop words from list of tokenized words"""
-    new_words = []
-    for word in words:
-        if word not in stopwords.words('english'):
-            new_words.append(word)
-    return new_words
-def stem_words(words):
-    """Stem words in list of tokenized words"""
-    stemmer = LancasterStemmer()
-    stems = []
-    for word in words:
-        stem = stemmer.stem(word)
-        stems.append(stem)
-    return stems
-def lemmatize_verbs(words):
-    """Lemmatize verbs in list of tokenized words"""
-    lemmatizer = WordNetLemmatizer()
-    lemmas = []
-    for word in words:
-        lemma = lemmatizer.lemmatize(word, pos='v')
-        lemmas.append(lemma)
-    return lemmas
-def normalize(words):
-    words = remove_non_ascii(words)
-    words = to_lowercase(words)
-    words = remove_punctuation(words)
-    words = replace_numbers(words)
-    words = remove_stopwords(words)
-    return words
-def stem(words):
-    stems = stem_words(words)
-    return stems
-# end of functions
-################################################################################
-
-lenOfdf = len(df.index)
-
-pre = []
-
-#pol = []
-
-# change all the raw text into useful stuff and store them in pre and pol
-# runtime: O(n)
-for i in range(lenOfdf):
-    text = df['Contract description'].iloc[i]
-    #polarity = df['Polarity'].iloc[i]
-    review_cleaned = replace_contractions(text)
-    review_cleaned = denoise_text(review_cleaned)
-    review_cleaned = nltk.word_tokenize(review_cleaned)
-    review_cleaned = normalize(review_cleaned)
-    pre.append(review_cleaned)
-    #pol.append(polarity)
+pre = cleanedTokens(df)
 
 pol = df['Polarity'].to_numpy().tolist()
 
@@ -492,6 +420,10 @@ model.compile(optimizer='adam',
 
 ################################################################################
 # data splitting/fitting/training/ and evaluating
+
+# technically there is already a tf data splitter function out there
+# we wanted to play around with the numbers more freely
+# both work
 
 # split 80% partial train
 # split 10% val train
