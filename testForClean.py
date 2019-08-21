@@ -6,6 +6,7 @@ from nltk.corpus import stopwords
 df = pd.read_csv(r'ITMO_raw_data.csv')
 
 def cleanedTokens(df):
+    nltk.download('stopwords')
     lenOfdf = len(df.index)
     pre = []
     for i in range(lenOfdf):
