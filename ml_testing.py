@@ -233,7 +233,7 @@ model.add(Dense(1))
 model.add(Activation('sigmoid'))
 '''
 ################################ NOTE ################################
-THIS TAKES AROUND 30 MIN TO RUN (1 per epoch)
+THIS TAKES AROUND 40 MIN TO RUN (1.6 min per epoch)
 HOWEVER THE ACCURACY AND EVERYTHING IS SIGNIFICANTLY HIGHER
 # this can be changed below to make
 sure you are not overfitting or underfitting
